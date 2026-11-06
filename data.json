@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T09:55:35.564167+00:00",
+  "generated_at": "2026-11-06T10:27:14.157576+00:00",
   "timezone": "Asia/Seoul",
   "freshness_hours": 24,
   "scope_note": "전국 공개 게시판 연결을 확대하고 있습니다. 등록 대학과 실제 확인 게시판은 다르며, 전국 모든 공고의 수집 완료를 뜻하지 않습니다.",
@@ -372,7 +372,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:52:36.204980+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 225,
@@ -385,7 +385,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:55:22.502059+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 182,
@@ -398,7 +398,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:52:02.375500+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 216,
@@ -411,7 +411,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:54:29.700104+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 51,
@@ -423,7 +423,7 @@
       "url": "https://new.gwnu.ac.kr/kr/7924/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T04:52:56.418636+00:00",
-      "last_success_at": "2026-11-06T09:00:04.461224+00:00",
+      "last_success_at": "2026-11-06T09:57:50.918809+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -436,7 +436,7 @@
       "url": "https://new.kangwon.ac.kr/kr/7924/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T05:02:38.974061+00:00",
-      "last_success_at": "2026-11-06T09:00:08.119982+00:00",
+      "last_success_at": "2026-11-06T09:57:54.548802+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -450,7 +450,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:53:27.199223+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 102,
@@ -462,7 +462,7 @@
       "url": "https://www.gw.ac.kr/de/department/security/community/faq",
       "auto": true,
       "verified_at": "2026-11-06T05:03:44.729913+00:00",
-      "last_success_at": "2026-11-06T09:00:11.532130+00:00",
+      "last_success_at": "2026-11-06T09:58:27.970217+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -566,7 +566,7 @@
       "url": "https://www.gw.ac.kr/de/department/security/community",
       "auto": true,
       "verified_at": "2026-11-06T04:51:22.873147+00:00",
-      "last_success_at": "2026-11-06T09:00:14.627957+00:00",
+      "last_success_at": "2026-11-06T09:58:31.070721+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -579,8 +579,8 @@
       "url": "https://www.gw.ac.kr/de/department/security/materials/study",
       "auto": true,
       "verified_at": "2026-11-06T09:50:34.120360+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T09:58:34.182562+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 73,
@@ -619,7 +619,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:51:15.109007+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 155,
@@ -632,7 +632,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:50:25.702143+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 97,
@@ -644,7 +644,7 @@
       "url": "https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/list.action?bbs_cde=1&menu_idx=67",
       "auto": true,
       "verified_at": "2026-11-06T05:03:15.025909+00:00",
-      "last_success_at": "2026-11-06T09:00:17.867246+00:00",
+      "last_success_at": "2026-11-06T10:00:07.722469+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -657,7 +657,7 @@
       "url": "https://iac.knu.ac.kr/Notice?menuId=MENU_0000000333",
       "auto": true,
       "verified_at": "2026-11-06T05:07:30.261841+00:00",
-      "last_success_at": "2026-11-06T09:00:21.625935+00:00",
+      "last_success_at": "2026-11-06T10:00:11.487812+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -696,8 +696,8 @@
       "url": "https://www.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab5d53940b015d539a94c90037&contentUid=4a9f18ab96e22b860197cdc8445474b1&contentUid=4a9f18ab96e22b860197cdc8445474b1",
       "auto": true,
       "verified_at": "2026-11-06T09:51:54.613278+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:00:33.010958+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 201,
@@ -709,8 +709,8 @@
       "url": "https://www.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab95186c07019646d294bf2b7d&contentUid=4a9f18ab9309bc7c0193b4eb341d6938&contentUid=4a9f18ab9309bc7c0193b4eb341d6938",
       "auto": true,
       "verified_at": "2026-11-06T09:53:19.701417+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:00:36.287473+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 188,
@@ -722,8 +722,8 @@
       "url": "https://www.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab95186c07019646cd4b532b5c&contentUid=ff8080815bf1bf8b015c0b8dbc0007a2&contentUid=ff8080815bf1bf8b015c0b8dbc0007a2",
       "auto": true,
       "verified_at": "2026-11-06T09:52:31.769890+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:00:39.565620+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 133,
@@ -735,7 +735,7 @@
       "url": "https://www.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab5cf30bb3015cf67046f0021f&contentUid=4a9f18ab95186c070196338d676d7e10&contentUid=4a9f18ab95186c070196338d676d7e10",
       "auto": true,
       "verified_at": "2026-11-06T05:07:34.490817+00:00",
-      "last_success_at": "2026-11-06T09:00:43.250890+00:00",
+      "last_success_at": "2026-11-06T10:00:43.027964+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -748,8 +748,8 @@
       "url": "https://www.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab5d53940b015d539889fd0011&contentUid=4a9f18ab95186c070196338db1267e12&contentUid=4a9f18ab95186c070196338db1267e12",
       "auto": true,
       "verified_at": "2026-11-06T09:55:15.283474+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:00:46.490258+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 66,
@@ -774,7 +774,7 @@
       "url": "https://www.gpc.ac.kr/gpcbi/page.do?mnu_uid=193",
       "auto": true,
       "verified_at": "2026-11-06T04:53:12.536300+00:00",
-      "last_success_at": "2026-11-06T09:00:47.054036+00:00",
+      "last_success_at": "2026-11-06T10:00:50.256510+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -787,7 +787,7 @@
       "url": "https://www.gpc.ac.kr/main/page.do?mnu_uid=705",
       "auto": true,
       "verified_at": "2026-11-06T04:52:45.753205+00:00",
-      "last_success_at": "2026-11-06T09:00:51.008747+00:00",
+      "last_success_at": "2026-11-06T10:00:54.260328+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -800,7 +800,7 @@
       "url": "https://www.gpc.ac.kr/sanhak/page.do?mnu_uid=179",
       "auto": true,
       "verified_at": "2026-11-06T04:53:07.752722+00:00",
-      "last_success_at": "2026-11-06T09:00:54.710046+00:00",
+      "last_success_at": "2026-11-06T10:00:57.996237+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -826,7 +826,7 @@
       "url": "https://www.kunsan.ac.kr/board/list.kunsan?boardId=BBS_0000008&contentsSid=211&cpath=&menuCd=DOM_000000105001001000",
       "auto": true,
       "verified_at": "2026-11-06T06:49:59.739306+00:00",
-      "last_success_at": "2026-11-06T09:01:04.241168+00:00",
+      "last_success_at": "2026-11-06T10:01:01.563266+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -839,7 +839,7 @@
       "url": "https://www.kunsan.ac.kr/board/list.kunsan?boardId=BBS_0000010&contentsSid=213&cpath=&menuCd=DOM_000000105001003000",
       "auto": true,
       "verified_at": "2026-11-06T09:53:44.459417+00:00",
-      "last_success_at": "2026-11-06T09:01:37.567890+00:00",
+      "last_success_at": "2026-11-06T10:01:22.928530+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -852,8 +852,8 @@
       "url": "https://rise.kunsan.ac.kr/board/post/list.do?boardUid=ff8080819b2a3bd1019ba0246f5b0de3&menuUid=ff8080819b2a3bd1019ba0217add0dd3",
       "auto": true,
       "verified_at": "2026-11-06T09:50:14.482029+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:01:26.050717+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 173,
@@ -865,8 +865,8 @@
       "url": "https://anchor.kunsan.ac.kr/board/post/list.do?boardUid=ff8080819b2a3bd1019ba0246f5b0de3&menuUid=ff8080819b2a3bd1019ba0217add0dd3",
       "auto": true,
       "verified_at": "2026-11-06T09:52:10.473122+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:01:29.168094+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 153,
@@ -878,8 +878,8 @@
       "url": "https://www.kumoh.ac.kr/ko/sub01_05_03.do",
       "auto": true,
       "verified_at": "2026-11-06T09:50:18.056708+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:01:32.775856+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 125,
@@ -891,7 +891,7 @@
       "url": "https://www.kumoh.ac.kr/ko/sub06_01_01_01.do",
       "auto": true,
       "verified_at": "2026-11-06T05:06:58.576297+00:00",
-      "last_success_at": "2026-11-06T09:01:41.016698+00:00",
+      "last_success_at": "2026-11-06T10:01:36.262803+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -904,8 +904,8 @@
       "url": "https://www.kumoh.ac.kr/ko/sub02_03_05.do",
       "auto": true,
       "verified_at": "2026-11-06T09:52:46.313235+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:01:39.581551+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 134,
@@ -930,8 +930,8 @@
       "url": "https://damyang.mokpo.ac.kr/rep/use/personalBoard.do",
       "auto": true,
       "verified_at": "2026-11-06T09:51:54.936714+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:02:25.266838+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 126,
@@ -943,7 +943,7 @@
       "url": "https://damyang.mokpo.ac.kr/rep/community/news/notice.do",
       "auto": true,
       "verified_at": "2026-11-06T05:07:02.018638+00:00",
-      "last_success_at": "2026-11-06T09:02:26.898214+00:00",
+      "last_success_at": "2026-11-06T10:02:28.657683+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -956,8 +956,8 @@
       "url": "https://damyang.mokpo.ac.kr/rep/community/want.do",
       "auto": true,
       "verified_at": "2026-11-06T09:49:44.145380+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:02:31.951535+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 127,
@@ -982,8 +982,8 @@
       "url": "https://www.pknu.ac.kr/main/140",
       "auto": true,
       "verified_at": "2026-11-06T09:54:37.858162+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:02:44.830315+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 206,
@@ -995,8 +995,8 @@
       "url": "https://www.pknu.ac.kr/main/141",
       "auto": true,
       "verified_at": "2026-11-06T09:53:34.799309+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:02:48.324772+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 144,
@@ -1009,7 +1009,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:48:16.654199+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 128,
@@ -1021,7 +1021,7 @@
       "url": "https://www.scnu.ac.kr/SCNU/na/ntt/selectNttList.do?bbsId=1040&mi=1131",
       "auto": true,
       "verified_at": "2026-11-06T05:07:12.107565+00:00",
-      "last_success_at": "2026-11-06T09:02:39.636551+00:00",
+      "last_success_at": "2026-11-06T10:03:19.466196+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1035,7 +1035,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:50:21.230246+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 135,
@@ -1047,7 +1047,7 @@
       "url": "https://www.scnu.ac.kr/SCNU/na/ntt/selectNttList.do?bbsId=1041&mi=1132",
       "auto": true,
       "verified_at": "2026-11-06T05:07:38.242239+00:00",
-      "last_success_at": "2026-11-06T09:02:42.758602+00:00",
+      "last_success_at": "2026-11-06T10:03:52.703684+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1060,7 +1060,7 @@
       "url": "https://www.changwon.ac.kr/kor/na/ntt/selectNttList.do?bbsId=2932&mi=10177",
       "auto": true,
       "verified_at": "2026-11-06T05:07:15.964332+00:00",
-      "last_success_at": "2026-11-06T09:02:46.488158+00:00",
+      "last_success_at": "2026-11-06T10:03:56.458943+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1073,7 +1073,7 @@
       "url": "https://www.changwon.ac.kr/kor/na/ntt/selectNttList.do?bbsId=2933&mi=10179",
       "auto": true,
       "verified_at": "2026-11-06T05:07:39.041308+00:00",
-      "last_success_at": "2026-11-06T09:02:50.212471+00:00",
+      "last_success_at": "2026-11-06T10:04:00.182669+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1086,7 +1086,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000053/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T04:48:10.418898+00:00",
-      "last_success_at": "2026-11-06T09:02:53.522566+00:00",
+      "last_success_at": "2026-11-06T10:04:03.477458+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1099,7 +1099,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000001422/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T04:49:33.581331+00:00",
-      "last_success_at": "2026-11-06T09:02:56.861694+00:00",
+      "last_success_at": "2026-11-06T10:04:06.840553+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1112,7 +1112,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000985/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T04:48:56.091468+00:00",
-      "last_success_at": "2026-11-06T09:03:00.152778+00:00",
+      "last_success_at": "2026-11-06T10:04:10.145972+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1138,8 +1138,8 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000001542/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T09:50:25.838829+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:04:13.306393+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 108,
@@ -1164,7 +1164,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000051/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T04:36:35.926401+00:00",
-      "last_success_at": "2026-11-06T09:03:09.796600+00:00",
+      "last_success_at": "2026-11-06T10:04:22.944275+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1178,7 +1178,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:54:07.426247+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 184,
@@ -1190,8 +1190,8 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000075/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T09:52:22.723812+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:04:38.524012+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 119,
@@ -1203,7 +1203,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000060/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T05:05:02.404756+00:00",
-      "last_success_at": "2026-11-06T09:03:13.225000+00:00",
+      "last_success_at": "2026-11-06T10:04:41.921454+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1216,8 +1216,8 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000076/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T09:51:45.654345+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:04:45.269502+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 193,
@@ -1229,8 +1229,8 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000853/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T09:52:58.460086+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:04:48.593357+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 87,
@@ -1242,7 +1242,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000052/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T04:51:18.364440+00:00",
-      "last_success_at": "2026-11-06T09:03:16.581502+00:00",
+      "last_success_at": "2026-11-06T10:04:51.933537+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1255,7 +1255,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000055/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T04:50:42.645113+00:00",
-      "last_success_at": "2026-11-06T09:03:20.049083+00:00",
+      "last_success_at": "2026-11-06T10:04:55.383060+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1268,7 +1268,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000001322/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T05:03:21.584687+00:00",
-      "last_success_at": "2026-11-06T09:03:23.323776+00:00",
+      "last_success_at": "2026-11-06T10:04:58.648858+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1281,8 +1281,8 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000061/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T09:51:15.464070+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:05:02.075978+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 208,
@@ -1307,7 +1307,7 @@
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff80808193e265060193e29e0b500029&menuUid=ff80808193e179bd0193e1c33d560029",
       "auto": true,
       "verified_at": "2026-11-06T04:35:18.308754+00:00",
-      "last_success_at": "2026-11-06T09:03:26.520379+00:00",
+      "last_success_at": "2026-11-06T10:05:05.273540+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1320,7 +1320,7 @@
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff80808193e265060193e2a7809d0036&menuUid=ff80808193e179bd0193e1cdcb7b0056",
       "auto": true,
       "verified_at": "2026-11-06T04:36:05.363178+00:00",
-      "last_success_at": "2026-11-06T09:03:29.681256+00:00",
+      "last_success_at": "2026-11-06T10:05:08.410312+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1333,7 +1333,7 @@
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff808081944e945801945d22baeb01ee&menuUid=ff808081944e945801945d3278480202&orders=registerDt%3ADESC",
       "auto": true,
       "verified_at": "2026-11-06T05:04:21.884755+00:00",
-      "last_success_at": "2026-11-06T09:03:32.872492+00:00",
+      "last_success_at": "2026-11-06T10:05:11.575750+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1346,8 +1346,8 @@
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff80808193e26506019416301f830f9d&menuUid=ff80808193de90040193e16e62cb0088",
       "auto": true,
       "verified_at": "2026-11-06T09:55:06.222738+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:05:14.748717+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 45,
@@ -1359,7 +1359,7 @@
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff808081944e94580194871716c42646&menuUid=ff808081944e9458019486424e242434",
       "auto": true,
       "verified_at": "2026-11-06T04:36:39.674082+00:00",
-      "last_success_at": "2026-11-06T09:03:36.075217+00:00",
+      "last_success_at": "2026-11-06T10:05:17.957467+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1373,7 +1373,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:53:01.738329+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 117,
@@ -1385,7 +1385,7 @@
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff808081944e945801944f0404830117&menuUid=ff8080819416dec901943f308e9012c1",
       "auto": true,
       "verified_at": "2026-11-06T05:04:52.249181+00:00",
-      "last_success_at": "2026-11-06T09:03:39.242936+00:00",
+      "last_success_at": "2026-11-06T10:05:27.248416+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1398,8 +1398,8 @@
       "url": "https://sanhakrnd.hanbat.ac.kr/bbs/list.php?board_id=bbs0203",
       "auto": true,
       "verified_at": "2026-11-06T09:50:41.101860+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:05:30.326486+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 171,
@@ -1411,8 +1411,8 @@
       "url": "https://sanhakrnd.hanbat.ac.kr/bbs/list.php?board_id=bbs0204",
       "auto": true,
       "verified_at": "2026-11-06T09:51:24.051548+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:05:33.393092+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 200,
@@ -1424,8 +1424,8 @@
       "url": "https://sanhakrnd.hanbat.ac.kr/bbs/list.php?board_id=bbs0403",
       "auto": true,
       "verified_at": "2026-11-06T09:53:16.460527+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:05:36.490827+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 44,
@@ -1437,7 +1437,7 @@
       "url": "https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000476/list.do",
       "auto": true,
       "verified_at": "2026-11-06T04:51:21.601305+00:00",
-      "last_success_at": "2026-11-06T09:03:42.503385+00:00",
+      "last_success_at": "2026-11-06T10:05:39.735088+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1450,8 +1450,8 @@
       "url": "https://bi.hanbat.ac.kr/_prog/_board/?code=bi_02&menu_dvs_cd=0401&site_dvs_cd=kr",
       "auto": true,
       "verified_at": "2026-11-06T09:55:11.836079+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:05:42.950793+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 53,
@@ -1476,7 +1476,7 @@
       "url": "https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000475/list.do",
       "auto": true,
       "verified_at": "2026-11-06T04:36:01.790548+00:00",
-      "last_success_at": "2026-11-06T09:03:45.720424+00:00",
+      "last_success_at": "2026-11-06T10:05:46.163602+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1489,7 +1489,7 @@
       "url": "https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000479/list.do",
       "auto": true,
       "verified_at": "2026-11-06T04:48:56.297161+00:00",
-      "last_success_at": "2026-11-06T09:03:48.927265+00:00",
+      "last_success_at": "2026-11-06T10:05:49.375562+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1502,8 +1502,8 @@
       "url": "https://sanhakrnd.hanbat.ac.kr/bbs/list.php?board_id=bbs0401",
       "auto": true,
       "verified_at": "2026-11-06T09:51:51.334678+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:05:52.439806+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 109,
@@ -1515,7 +1515,7 @@
       "url": "https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000050/list.do",
       "auto": true,
       "verified_at": "2026-11-06T05:04:24.242089+00:00",
-      "last_success_at": "2026-11-06T09:03:52.560074+00:00",
+      "last_success_at": "2026-11-06T10:05:56.047255+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1554,7 +1554,7 @@
       "url": "https://gs.bnue.ac.kr/board/board01",
       "auto": true,
       "verified_at": "2026-11-06T04:52:34.629533+00:00",
-      "last_success_at": "2026-11-06T09:03:56.035455+00:00",
+      "last_success_at": "2026-11-06T10:05:59.472957+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1567,8 +1567,8 @@
       "url": "https://www.bnue.ac.kr/board/community02_02",
       "auto": true,
       "verified_at": "2026-11-06T09:51:20.043010+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:06:02.759404+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 84,
@@ -1580,7 +1580,7 @@
       "url": "https://www.bnue.ac.kr/board/community01_01",
       "auto": true,
       "verified_at": "2026-11-06T04:51:04.523157+00:00",
-      "last_success_at": "2026-11-06T09:03:59.752492+00:00",
+      "last_success_at": "2026-11-06T10:06:06.462668+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1593,7 +1593,7 @@
       "url": "https://www.bnue.ac.kr/board/life05",
       "auto": true,
       "verified_at": "2026-11-06T04:49:16.750335+00:00",
-      "last_success_at": "2026-11-06T09:04:03.087102+00:00",
+      "last_success_at": "2026-11-06T10:06:09.822447+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1606,8 +1606,8 @@
       "url": "https://www.bnue.ac.kr/board/community02_01",
       "auto": true,
       "verified_at": "2026-11-06T09:50:33.700718+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:06:16.043375+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 47,
@@ -1619,7 +1619,7 @@
       "url": "https://www.bnue.ac.kr/board/intro08_01",
       "auto": true,
       "verified_at": "2026-11-06T04:53:14.699976+00:00",
-      "last_success_at": "2026-11-06T09:04:06.414599+00:00",
+      "last_success_at": "2026-11-06T10:06:19.292649+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1633,7 +1633,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:49:24.851173+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 121,
@@ -1645,7 +1645,7 @@
       "url": "https://www.bnue.ac.kr/board/community01_05",
       "auto": true,
       "verified_at": "2026-11-06T05:05:06.694679+00:00",
-      "last_success_at": "2026-11-06T09:04:09.786578+00:00",
+      "last_success_at": "2026-11-06T10:06:31.918197+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1658,8 +1658,8 @@
       "url": "https://www.bnue.ac.kr/board/community03_02",
       "auto": true,
       "verified_at": "2026-11-06T09:53:06.561183+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:06:38.215924+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 111,
@@ -1671,7 +1671,7 @@
       "url": "https://www.bnue.ac.kr/board/community01_03",
       "auto": true,
       "verified_at": "2026-11-06T05:04:25.307910+00:00",
-      "last_success_at": "2026-11-06T09:04:13.307793+00:00",
+      "last_success_at": "2026-11-06T10:06:41.694769+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1684,7 +1684,7 @@
       "url": "https://www.bnue.ac.kr/board/life10_02",
       "auto": true,
       "verified_at": "2026-11-06T04:49:41.238202+00:00",
-      "last_success_at": "2026-11-06T09:04:16.666394+00:00",
+      "last_success_at": "2026-11-06T10:06:44.999883+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1697,7 +1697,7 @@
       "url": "https://www.bnue.ac.kr/board/community01_02",
       "auto": true,
       "verified_at": "2026-11-06T05:03:38.009158+00:00",
-      "last_success_at": "2026-11-06T09:04:20.087730+00:00",
+      "last_success_at": "2026-11-06T10:06:48.429545+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1710,7 +1710,7 @@
       "url": "https://guidance.bnue.ac.kr/board/noti01",
       "auto": true,
       "verified_at": "2026-11-06T04:53:02.888783+00:00",
-      "last_success_at": "2026-11-06T09:04:23.460972+00:00",
+      "last_success_at": "2026-11-06T10:06:51.764826+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1723,8 +1723,8 @@
       "url": "https://www.bnue.ac.kr/board/community02_03",
       "auto": true,
       "verified_at": "2026-11-06T09:51:50.322041+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:06:55.044939+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 187,
@@ -1736,8 +1736,8 @@
       "url": "https://www.bnue.ac.kr/board/community03_01",
       "auto": true,
       "verified_at": "2026-11-06T09:52:27.206286+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:06:58.335486+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 35,
@@ -1749,7 +1749,7 @@
       "url": "https://www.bnue.ac.kr/board/intro03_05",
       "auto": true,
       "verified_at": "2026-11-06T04:53:11.746204+00:00",
-      "last_success_at": "2026-11-06T09:04:26.755684+00:00",
+      "last_success_at": "2026-11-06T10:07:01.595000+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1802,7 +1802,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:47:52.668925+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 14,
@@ -1841,7 +1841,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:54:23.095960+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 203,
@@ -1854,7 +1854,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:53:23.611848+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 90,
@@ -1866,7 +1866,7 @@
       "url": "http://career.snu.ac.kr/en",
       "auto": true,
       "verified_at": "2026-11-06T04:51:23.955800+00:00",
-      "last_success_at": "2026-11-06T09:09:42.225117+00:00",
+      "last_success_at": "2026-11-06T10:13:06.367632+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1892,7 +1892,7 @@
       "url": "https://admission.snu.ac.kr/undergraduate/notice",
       "auto": true,
       "verified_at": "2026-11-06T04:36:26.591673+00:00",
-      "last_success_at": "2026-11-06T09:11:27.500100+00:00",
+      "last_success_at": "2026-11-06T10:14:42.624854+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1905,7 +1905,7 @@
       "url": "https://admission.snu.ac.kr/graduate/general/notice",
       "auto": true,
       "verified_at": "2026-11-06T04:36:44.558087+00:00",
-      "last_success_at": "2026-11-06T09:11:30.699134+00:00",
+      "last_success_at": "2026-11-06T10:14:45.801144+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1931,7 +1931,7 @@
       "url": "https://clean.snu.ac.kr/%ec%b9%9c%ec%9d%b8%ec%b2%99-%ec%b1%84%ec%9a%a9%ec%9d%b8%ec%9b%90-%ed%98%84%ed%99%a9/",
       "auto": true,
       "verified_at": "2026-11-06T04:50:55.789043+00:00",
-      "last_success_at": "2026-11-06T09:14:04.412224+00:00",
+      "last_success_at": "2026-11-06T10:16:16.860305+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1944,8 +1944,8 @@
       "url": "https://research.uos.ac.kr/notice?field_notice_category_target_id=218",
       "auto": true,
       "verified_at": "2026-11-06T09:53:05.233357+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:16:19.940115+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 96,
@@ -1957,7 +1957,7 @@
       "url": "https://research.uos.ac.kr/ntis",
       "auto": true,
       "verified_at": "2026-11-06T05:03:08.670922+00:00",
-      "last_success_at": "2026-11-06T09:14:07.496019+00:00",
+      "last_success_at": "2026-11-06T10:16:23.018897+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1970,7 +1970,7 @@
       "url": "https://research.uos.ac.kr/newsletter",
       "auto": true,
       "verified_at": "2026-11-06T04:51:24.004321+00:00",
-      "last_success_at": "2026-11-06T09:14:10.565769+00:00",
+      "last_success_at": "2026-11-06T10:16:26.089097+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1983,7 +1983,7 @@
       "url": "https://research.uos.ac.kr/notice",
       "auto": true,
       "verified_at": "2026-11-06T03:29:20.086633+00:00",
-      "last_success_at": "2026-11-06T09:14:22.615411+00:00",
+      "last_success_at": "2026-11-06T10:16:32.149751+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1996,8 +1996,8 @@
       "url": "https://research.uos.ac.kr/notice?field_notice_category_target_id=53",
       "auto": true,
       "verified_at": "2026-11-06T09:52:26.195880+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:16:35.215821+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 148,
@@ -2009,8 +2009,8 @@
       "url": "https://research.uos.ac.kr/notice?field_notice_category_target_id=51",
       "auto": true,
       "verified_at": "2026-11-06T09:49:11.802812+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:16:38.294709+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 158,
@@ -2022,8 +2022,8 @@
       "url": "https://research.uos.ac.kr/notice?field_notice_category_target_id=52",
       "auto": true,
       "verified_at": "2026-11-06T09:50:32.518186+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:16:41.373872+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 118,
@@ -2035,7 +2035,7 @@
       "url": "https://research.uos.ac.kr/notice?field_notice_category_target_id=50",
       "auto": true,
       "verified_at": "2026-11-06T05:05:01.625328+00:00",
-      "last_success_at": "2026-11-06T09:14:25.700599+00:00",
+      "last_success_at": "2026-11-06T10:16:44.437766+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2048,7 +2048,7 @@
       "url": "https://research.uos.ac.kr/archives",
       "auto": true,
       "verified_at": "2026-11-06T05:04:22.484231+00:00",
-      "last_success_at": "2026-11-06T09:14:28.760402+00:00",
+      "last_success_at": "2026-11-06T10:16:47.494786+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2061,8 +2061,8 @@
       "url": "https://research.uos.ac.kr/notice?field_notice_category_target_id=54",
       "auto": true,
       "verified_at": "2026-11-06T09:51:49.129985+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:16:50.552712+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 169,
@@ -2074,8 +2074,8 @@
       "url": "https://research.uos.ac.kr/eve_edu",
       "auto": true,
       "verified_at": "2026-11-06T09:51:18.958792+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:16:53.616475+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 210,
@@ -2088,7 +2088,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:54:11.029017+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 168,
@@ -2101,7 +2101,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:51:18.786791+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 21,
@@ -2139,8 +2139,8 @@
       "url": "https://ie.unist.ac.kr/ie/community/career.do",
       "auto": true,
       "verified_at": "2026-11-06T09:49:05.639329+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:18:21.418967+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 157,
@@ -2153,7 +2153,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:50:32.366845+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 137,
@@ -2178,7 +2178,7 @@
       "url": "https://korean.inu.ac.kr/inu/1516/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T05:07:50.705477+00:00",
-      "last_success_at": "2026-11-06T09:15:14.854356+00:00",
+      "last_success_at": "2026-11-06T10:18:55.235308+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2218,7 +2218,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:52:21.915530+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 214,
@@ -2230,8 +2230,8 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0023000400010000",
       "auto": true,
       "verified_at": "2026-11-06T09:54:19.648036+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:19:25.919391+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 94,
@@ -2243,7 +2243,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0006000100010000",
       "auto": true,
       "verified_at": "2026-11-06T05:02:24.468476+00:00",
-      "last_success_at": "2026-11-06T09:15:18.458390+00:00",
+      "last_success_at": "2026-11-06T10:19:29.493190+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2256,8 +2256,8 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0001000400050000",
       "auto": true,
       "verified_at": "2026-11-06T09:51:55.442536+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:19:33.075473+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 189,
@@ -2269,8 +2269,8 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0001000400060000",
       "auto": true,
       "verified_at": "2026-11-06T09:52:32.299509+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:19:36.641443+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 152,
@@ -2282,8 +2282,8 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0001000100040000",
       "auto": true,
       "verified_at": "2026-11-06T09:49:47.723389+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:19:40.590398+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 164,
@@ -2295,8 +2295,8 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0001000400020000",
       "auto": true,
       "verified_at": "2026-11-06T09:50:41.762357+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:19:44.138972+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 202,
@@ -2308,8 +2308,8 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0001000600010000",
       "auto": true,
       "verified_at": "2026-11-06T09:53:20.236752+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:19:47.689841+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 104,
@@ -2321,7 +2321,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0006000100080000",
       "auto": true,
       "verified_at": "2026-11-06T05:04:04.448149+00:00",
-      "last_success_at": "2026-11-06T09:15:21.988263+00:00",
+      "last_success_at": "2026-11-06T10:19:51.230499+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2334,8 +2334,8 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0001000400030000",
       "auto": true,
       "verified_at": "2026-11-06T09:51:24.830482+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:19:54.758668+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 115,
@@ -2347,7 +2347,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0004000100010000",
       "auto": true,
       "verified_at": "2026-11-06T05:04:37.743086+00:00",
-      "last_success_at": "2026-11-06T09:15:25.551964+00:00",
+      "last_success_at": "2026-11-06T10:19:58.295887+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2360,8 +2360,8 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0023000400020000",
       "auto": true,
       "verified_at": "2026-11-06T09:55:15.826382+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:20:01.882607+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 211,
@@ -2581,7 +2581,7 @@
       "url": "https://www.cnue.ac.kr/cnue/news/notice01.do",
       "auto": true,
       "verified_at": "2026-11-06T04:50:56.900090+00:00",
-      "last_success_at": "2026-11-06T09:15:28.900758+00:00",
+      "last_success_at": "2026-11-06T10:20:05.272683+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2594,7 +2594,7 @@
       "url": "https://www.cnue.ac.kr/cnue/life/edu-volunteer-notice.do",
       "auto": true,
       "verified_at": "2026-11-06T04:36:56.887832+00:00",
-      "last_success_at": "2026-11-06T09:15:32.234429+00:00",
+      "last_success_at": "2026-11-06T10:20:08.564064+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2607,7 +2607,7 @@
       "url": "https://www.cnue.ac.kr/cnue/life/volunteer-notice.do",
       "auto": true,
       "verified_at": "2026-11-06T04:36:35.640535+00:00",
-      "last_success_at": "2026-11-06T09:15:35.507501+00:00",
+      "last_success_at": "2026-11-06T10:20:11.792234+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2633,7 +2633,7 @@
       "url": "https://www.cnue.ac.kr/cnue/life/council-board.do",
       "auto": true,
       "verified_at": "2026-11-06T04:36:01.182958+00:00",
-      "last_success_at": "2026-11-06T09:16:24.107021+00:00",
+      "last_success_at": "2026-11-06T10:21:00.348772+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2646,7 +2646,7 @@
       "url": "https://www.cnue.ac.kr/cnue/news/notice02.do",
       "auto": true,
       "verified_at": "2026-11-06T05:03:18.316490+00:00",
-      "last_success_at": "2026-11-06T09:16:27.466459+00:00",
+      "last_success_at": "2026-11-06T10:21:03.667652+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2659,7 +2659,7 @@
       "url": "https://www.cnue.ac.kr/cnue/news/notice03.do",
       "auto": true,
       "verified_at": "2026-11-06T05:04:23.115873+00:00",
-      "last_success_at": "2026-11-06T09:16:30.907200+00:00",
+      "last_success_at": "2026-11-06T10:21:07.100638+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2672,7 +2672,7 @@
       "url": "https://www.cnsu.ac.kr/univ/unilife/notice.do",
       "auto": true,
       "verified_at": "2026-11-06T03:31:47.353374+00:00",
-      "last_success_at": "2026-11-06T09:17:40.225364+00:00",
+      "last_success_at": "2026-11-06T10:21:28.400968+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2685,7 +2685,7 @@
       "url": "https://family.cbnu.ac.kr/article/list.do?boardKey=52&menuKey=79",
       "auto": true,
       "verified_at": "2026-11-06T04:51:03.656062+00:00",
-      "last_success_at": "2026-11-06T09:17:43.399166+00:00",
+      "last_success_at": "2026-11-06T10:21:31.559691+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2698,7 +2698,7 @@
       "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=8&key=813",
       "auto": true,
       "verified_at": "2026-11-06T04:25:15.818506+00:00",
-      "last_success_at": "2026-11-06T09:17:58.571838+00:00",
+      "last_success_at": "2026-11-06T10:21:46.704520+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2711,8 +2711,8 @@
       "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=3&key=432",
       "auto": true,
       "verified_at": "2026-11-06T09:53:31.136085+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:21:49.904483+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 103,
@@ -2724,7 +2724,7 @@
       "url": "https://www.kaist.ac.kr/kr/html/footer/0823.html",
       "auto": true,
       "verified_at": "2026-11-06T05:04:00.613155+00:00",
-      "last_success_at": "2026-11-06T09:18:01.967885+00:00",
+      "last_success_at": "2026-11-06T10:21:53.348716+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2751,7 +2751,7 @@
       "auto": true,
       "verified_at": "2026-11-06T09:55:34.311779+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     },
     {
       "id": 93,
@@ -2763,7 +2763,7 @@
       "url": "https://www.kaist.ac.kr/kr/html/footer/0802.html",
       "auto": true,
       "verified_at": "2026-11-06T05:02:17.132590+00:00",
-      "last_success_at": "2026-11-06T09:18:32.806467+00:00",
+      "last_success_at": "2026-11-06T10:23:03.489285+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2776,7 +2776,7 @@
       "url": "https://www.knue.ac.kr/www/selectBbsNttList.do?bbsNo=7&key=376",
       "auto": true,
       "verified_at": "2026-11-06T04:36:49.665423+00:00",
-      "last_success_at": "2026-11-06T09:18:35.993790+00:00",
+      "last_success_at": "2026-11-06T10:23:06.632275+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2789,8 +2789,8 @@
       "url": "https://www.knue.ac.kr/www/selectBbsNttList.do?bbsNo=8&key=394",
       "auto": true,
       "verified_at": "2026-11-06T09:50:33.338525+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:23:09.757051+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 60,
@@ -2802,7 +2802,7 @@
       "url": "https://www.knou.ac.kr/knou/80/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T04:48:55.835769+00:00",
-      "last_success_at": "2026-11-06T09:18:39.459831+00:00",
+      "last_success_at": "2026-11-06T10:23:13.216618+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2815,7 +2815,7 @@
       "url": "https://www.knou.ac.kr/knou/13042/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T04:53:08.183576+00:00",
-      "last_success_at": "2026-11-06T09:18:42.911363+00:00",
+      "last_success_at": "2026-11-06T10:23:16.645202+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2828,7 +2828,7 @@
       "url": "https://www.knou.ac.kr/knou/561/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T04:52:49.497575+00:00",
-      "last_success_at": "2026-11-06T09:18:46.693600+00:00",
+      "last_success_at": "2026-11-06T10:23:20.371761+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2845,6 +2845,19 @@
       "last_attempt_result": "PARTIAL"
     },
     {
+      "id": 227,
+      "university": "nuch",
+      "university_name": "한국전통문화대학교",
+      "name": "계약현황",
+      "organization": "한국전통문화대학교",
+      "kind": "유형 확인 중",
+      "url": "https://www.knuh.ac.kr/kr/brd/list.do?mnuBaseId=MNU0001335&topBaseId=MNU0000004&tplBaseId=&tplSer=212",
+      "auto": true,
+      "verified_at": "2026-11-06T09:55:45.864764+00:00",
+      "last_success_at": "2026-11-06T10:24:09.050170+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
       "id": 130,
       "university": "nuch",
       "university_name": "한국전통문화대학교",
@@ -2854,7 +2867,7 @@
       "url": "https://www.knuh.ac.kr/kr/brd/list.do?mnuBaseId=MNU0000146&topBaseId=MNU0000009&tplSer=2",
       "auto": true,
       "verified_at": "2026-11-06T05:07:26.583290+00:00",
-      "last_success_at": "2026-11-06T09:19:35.579266+00:00",
+      "last_success_at": "2026-11-06T10:24:12.618809+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2880,8 +2893,8 @@
       "url": "https://www.knuh.ac.kr/kr/brd/list.do?mnuBaseId=MNU0000022&topBaseId=MNU0000004&tplBaseId=&tplSer=3",
       "auto": true,
       "verified_at": "2026-11-06T09:52:58.138820+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:24:16.033564+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 218,
@@ -2893,8 +2906,8 @@
       "url": "https://www.knuh.ac.kr/kr/brd/list.do?mnuBaseId=MNU0000043&topBaseId=MNU0000004&tplBaseId=TPL0000001&tplSer=5",
       "auto": true,
       "verified_at": "2026-11-06T09:54:56.366588+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:24:19.439014+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 165,
@@ -2906,8 +2919,8 @@
       "url": "https://www.knuh.ac.kr/kr/brd/list.do?mnuBaseId=MNU0000020&topBaseId=MNU0000004&tplBaseId=&tplSer=67",
       "auto": true,
       "verified_at": "2026-11-06T09:51:11.885540+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:24:22.847747+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 138,
@@ -2919,7 +2932,7 @@
       "url": "https://www.knuh.ac.kr/kr/brd/list.do?mnuBaseId=MNU0000945&tabBaseId=MNU0000948&topBaseId=MNU0000008&tplSer=133",
       "auto": true,
       "verified_at": "2026-11-06T05:07:40.683503+00:00",
-      "last_success_at": "2026-11-06T09:19:39.051094+00:00",
+      "last_success_at": "2026-11-06T10:24:26.291951+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2932,7 +2945,7 @@
       "url": "https://grad.aks.ac.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000022&menuNo=5010160000",
       "auto": true,
       "verified_at": "2026-11-06T04:51:08.336496+00:00",
-      "last_success_at": "2026-11-06T09:19:42.178364+00:00",
+      "last_success_at": "2026-11-06T10:24:29.398292+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2945,7 +2958,7 @@
       "url": "https://grad.aks.ac.kr/cop/bbs/selectBoardList.do?adiInfo7=B&adiInfo8=&bbsId=BBSMSTR_000000000120&menuNo=5010112000",
       "auto": true,
       "verified_at": "2026-11-06T04:36:05.525781+00:00",
-      "last_success_at": "2026-11-06T09:19:45.351363+00:00",
+      "last_success_at": "2026-11-06T10:24:32.747511+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2958,7 +2971,7 @@
       "url": "https://grad.aks.ac.kr/cop/bbs/selectBoardList.do?adiInfo7=A&bbsId=BBSMSTR_000000000110&menuNo=2010112000",
       "auto": true,
       "verified_at": "2026-11-06T04:36:39.776356+00:00",
-      "last_success_at": "2026-11-06T09:19:48.489599+00:00",
+      "last_success_at": "2026-11-06T10:24:35.852419+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2971,7 +2984,7 @@
       "url": "https://grad.aks.ac.kr/cop/bbs/selectBoardList.do?adiInfo7=C&adiInfo8=&bbsId=BBSMSTR_000000000120&menuNo=5010113000",
       "auto": true,
       "verified_at": "2026-11-06T04:49:29.560341+00:00",
-      "last_success_at": "2026-11-06T09:19:51.647712+00:00",
+      "last_success_at": "2026-11-06T10:24:39.014508+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2984,7 +2997,7 @@
       "url": "https://grad.aks.ac.kr/cop/bbs/selectBoardList.do?adiInfo7=A&bbsId=BBSMSTR_000000000120&menuNo=5010111000",
       "auto": true,
       "verified_at": "2026-11-06T04:49:44.862300+00:00",
-      "last_success_at": "2026-11-06T09:19:54.821463+00:00",
+      "last_success_at": "2026-11-06T10:24:42.183517+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2997,7 +3010,7 @@
       "url": "https://www.aks.ac.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000082&menuNo=4010110000",
       "auto": true,
       "verified_at": "2026-11-06T05:04:25.916885+00:00",
-      "last_success_at": "2026-11-06T09:19:58.009274+00:00",
+      "last_success_at": "2026-11-06T10:24:45.350403+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3023,8 +3036,8 @@
       "url": "https://www.aks.ac.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000082&ctgryCode=NTC003&menuNo=4010110000",
       "auto": true,
       "verified_at": "2026-11-06T09:54:10.983768+00:00",
-      "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_success_at": "2026-11-06T10:25:39.892918+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 195,
@@ -3037,10 +3050,116 @@
       "auto": true,
       "verified_at": "2026-11-06T09:53:05.179622+00:00",
       "last_success_at": null,
-      "last_attempt_result": "NOT_RUN"
+      "last_attempt_result": "PARTIAL"
     }
   ],
   "notices": [
+    {
+      "id": 238,
+      "title": "서울대학교 그린바이오과학기술연구원 공동기기센터 연구원 채용 공고",
+      "university": "snu",
+      "university_name": "서울대학교",
+      "employer": "서울대학교 그린바이오과학기술연구원 공동기기센터",
+      "employer_review": false,
+      "source_name": "본부 채용공지",
+      "source_url": "https://www.snu.ac.kr/snunow/notice/job-openings",
+      "url": "https://www.snu.ac.kr/snunow/notice/job-openings?md=v&bbsidx=178898",
+      "published_date": "2026-11-06",
+      "job_type": "연구원",
+      "region": "강원",
+      "job_type_code": "RESEARCH",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": "2026-11-05T01:00:00+00:00",
+      "start_date": "2026-11-05",
+      "close_at": "2026-11-20T09:00:00+00:00",
+      "close_date": "2026-11-20",
+      "verified_at": "2026-11-06T10:14:51.987176+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": false,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "OPEN",
+      "freshness_at_export": "FRESH",
+      "attachments": [
+        {
+          "name": "2. 응시원서(채용지원서 자기소개서 등).hwp (50 KB)",
+          "url": "https://www.snu.ac.kr/snunow/notice/job-openings?md=down&bbsidx=178898&fileidx=59831"
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "title": "[제약 4.0 미래인재 양성 교육연구팀] BK21사업 사무원 채용 공고",
+      "university": "pusan",
+      "university_name": "부산대학교",
+      "employer": "[제약 4.0 미래인재 양성 교육연구팀] BK21사업",
+      "employer_review": false,
+      "source_name": "교수초빙·직원채용",
+      "source_url": "https://www.pusan.ac.kr/kor/CMS/Board/Board.do?mCode=MN103",
+      "url": "https://www.pusan.ac.kr/kor/CMS/Board/Board.do?mCode=MN103&mode=view&mgr_seq=10&board_seq=1512046",
+      "published_date": "2026-11-06",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2026-11-06",
+      "close_at": "2026-11-20T08:00:00+00:00",
+      "close_date": "2026-11-20",
+      "verified_at": "2026-11-06T10:07:23.213572+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": false,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": [
+        {
+          "name": "[BK21FOUR]제약 4.0 미래인재 양성 교육연구팀 사무원 채용공고_2026.11.06..hwp (54KB)",
+          "url": "https://www.pusan.ac.kr/kor/ajx_json/UploadMgr/downloadRun.do?qcode=Qm9hcmQsNDEyMzg2LFk%3D"
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "title": "제2026-9회 대학회계직원 신규채용 공고",
+      "university": "ut",
+      "university_name": "국립한국교통대학교",
+      "employer": "국립한국교통대학교",
+      "employer_review": false,
+      "source_name": "인사정보",
+      "source_url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardList.do",
+      "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?nttId=1125886&kind=&mno=sitemap_12&pageIndex=1&searchCnd=&searchWrd=",
+      "published_date": "2026-11-06",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2026-11-06",
+      "close_at": "2026-11-13T09:00:00+00:00",
+      "close_date": "2026-11-13",
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FAILED",
+      "attachments": []
+    },
     {
       "id": 191,
       "title": "[광주전남지역대학] 청사관리직원(미화방호) 채용 공고( ~11.20까지)",
@@ -3061,7 +3180,7 @@
       "start_date": "2026-11-10",
       "close_at": "2026-11-20T09:00:00+00:00",
       "close_date": "2026-11-20",
-      "verified_at": "2026-11-06T09:18:52.968263+00:00",
+      "verified_at": "2026-11-06T10:23:26.638442+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -3093,7 +3212,7 @@
       "start_date": "2026-11-06",
       "close_at": "2026-11-12T09:00:00+00:00",
       "close_date": "2026-11-12",
-      "verified_at": "2026-11-06T09:04:59.776975+00:00",
+      "verified_at": "2026-11-06T10:07:32.234661+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -3130,7 +3249,7 @@
       "start_date": "2026-11-06",
       "close_at": "2026-11-12T14:59:00+00:00",
       "close_date": "2026-11-12",
-      "verified_at": "2026-11-06T09:19:08.648746+00:00",
+      "verified_at": "2026-11-06T10:23:42.387907+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -3249,7 +3368,7 @@
       "start_date": "2026-11-09",
       "close_at": "2026-11-19T09:00:00+00:00",
       "close_date": "2026-11-19",
-      "verified_at": "2026-11-06T09:19:22.967566+00:00",
+      "verified_at": "2026-11-06T10:23:56.633230+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -3309,7 +3428,7 @@
     },
     {
       "id": 152,
-      "title": "[2026-96호] 국립금오공과대학교 한시임기제공무원9호(행정) 경력경쟁채용 공고 총무과 2026-11-05 331",
+      "title": "[2026-96호] 국립금오공과대학교 한시임기제공무원9호(행정) 경력경쟁채용 공고 총무과 2026-11-05 336",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "국립금오공과대학교",
@@ -3364,7 +3483,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:17:49.561169+00:00",
+      "verified_at": "2026-11-06T10:21:37.704430+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -3433,7 +3552,7 @@
       "start_date": "2026-11-05",
       "close_at": "2026-11-16T08:00:00+00:00",
       "close_date": "2026-11-16",
-      "verified_at": "2026-11-06T09:11:42.861242+00:00",
+      "verified_at": "2026-11-06T10:14:55.026553+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -3470,7 +3589,7 @@
       "start_date": "2026-11-05",
       "close_at": "2026-11-09T08:00:00+00:00",
       "close_date": "2026-11-09",
-      "verified_at": "2026-11-06T09:05:23.660717+00:00",
+      "verified_at": "2026-11-06T10:07:56.287882+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -3511,7 +3630,7 @@
       "start_date": "2026-11-09",
       "close_at": null,
       "close_date": "2026-11-13",
-      "verified_at": "2026-11-06T09:05:14.583504+00:00",
+      "verified_at": "2026-11-06T10:07:47.172810+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -3548,7 +3667,7 @@
       "start_date": "2026-11-05",
       "close_at": "2026-11-18T14:59:00+00:00",
       "close_date": "2026-11-18",
-      "verified_at": "2026-11-06T09:18:20.151384+00:00",
+      "verified_at": "2026-11-06T10:22:11.781343+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -3579,7 +3698,7 @@
     },
     {
       "id": 153,
-      "title": "[인공지능혁신대학원사업단_제2026-5호] 사업전담직원(주무관) 채용 공고 인공지능혁신대학원사업단 2026-11-04 504",
+      "title": "[인공지능혁신대학원사업단_제2026-5호] 사업전담직원(주무관) 채용 공고 인공지능혁신대학원사업단 2026-11-04 509",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "국립금오공과대학교",
@@ -3634,7 +3753,7 @@
       "start_date": "2026-11-05",
       "close_at": "2026-11-11T07:00:00+00:00",
       "close_date": "2026-11-11",
-      "verified_at": "2026-11-06T09:17:52.590814+00:00",
+      "verified_at": "2026-11-06T10:21:40.704888+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -3781,7 +3900,7 @@
       "start_date": "2026-11-09",
       "close_at": "2026-11-13T08:00:00+00:00",
       "close_date": "2026-11-13",
-      "verified_at": "2026-11-06T09:15:44.913170+00:00",
+      "verified_at": "2026-11-06T10:20:21.159458+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -3818,7 +3937,7 @@
       "start_date": "2026-11-04",
       "close_at": null,
       "close_date": "2026-11-16",
-      "verified_at": "2026-11-06T09:11:45.876443+00:00",
+      "verified_at": "2026-11-06T10:14:58.031125+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -4007,7 +4126,7 @@
       "start_date": "2026-11-09",
       "close_at": "2026-11-13T09:00:00+00:00",
       "close_date": "2026-11-13",
-      "verified_at": "2026-11-06T09:19:28.953284+00:00",
+      "verified_at": "2026-11-06T10:24:02.630999+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -4030,7 +4149,7 @@
     },
     {
       "id": 154,
-      "title": "[한국전자통신연구원] 2027년 동계 연구연수생(청년인턴) 공개채용 안내(~11/9(월)) 취업지원본부 2026-11-03 631",
+      "title": "[한국전자통신연구원] 2027년 동계 연구연수생(청년인턴) 공개채용 안내(~11/9(월)) 취업지원본부 2026-11-03 635",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "국립금오공과대학교",
@@ -4048,7 +4167,7 @@
       "start_date": "2026-10-30",
       "close_at": "2026-11-09T05:00:00+00:00",
       "close_date": "2026-11-09",
-      "verified_at": "2026-11-06T09:01:59.214847+00:00",
+      "verified_at": "2026-11-06T10:01:57.790665+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -4200,7 +4319,7 @@
       "start_date": "2026-11-04",
       "close_at": "2026-11-14T06:00:00+00:00",
       "close_date": "2026-11-14",
-      "verified_at": "2026-11-06T09:11:48.877860+00:00",
+      "verified_at": "2026-11-06T10:15:01.018308+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -4237,7 +4356,7 @@
       "start_date": "2026-11-03",
       "close_at": null,
       "close_date": "2026-11-09",
-      "verified_at": "2026-11-06T09:05:59.834591+00:00",
+      "verified_at": "2026-11-06T10:08:32.193305+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -4293,7 +4412,7 @@
     },
     {
       "id": 182,
-      "title": "[교무처 제2026-1호] 국립금오공과대학교 교무처 기간제 근로자(일용직) 공개경쟁 채용 공고 교무과 2026-11-02 529",
+      "title": "[교무처 제2026-1호] 국립금오공과대학교 교무처 기간제 근로자(일용직) 공개경쟁 채용 공고 교무과 2026-11-02 530",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "[교무처 제2026-1호] 국립금오공과대학교 교무처",
@@ -4311,7 +4430,7 @@
       "start_date": "2026-11-02",
       "close_at": "2026-11-10T08:00:00+00:00",
       "close_date": "2026-11-10",
-      "verified_at": "2026-11-06T09:02:14.363318+00:00",
+      "verified_at": "2026-11-06T10:02:12.950147+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -4330,7 +4449,7 @@
     },
     {
       "id": 156,
-      "title": "[AI사업단 2026-7호]AI중심대학사업단 초빙교원(계약교수) 초빙 공고(수정) AI중심대학사업단 2026-11-02 579",
+      "title": "[AI사업단 2026-7호]AI중심대학사업단 초빙교원(계약교수) 초빙 공고(수정) AI중심대학사업단 2026-11-02 582",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "국립금오공과대학교",
@@ -4348,7 +4467,7 @@
       "start_date": "2026-11-02",
       "close_at": "2026-11-11T09:00:00+00:00",
       "close_date": "2026-11-11",
-      "verified_at": "2026-11-06T09:02:08.228196+00:00",
+      "verified_at": "2026-11-06T10:02:06.813566+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -4367,7 +4486,7 @@
     },
     {
       "id": 155,
-      "title": "[산단 2026-19호] 산학협력단 육아휴직 대체인력 채용 공고 경영지원실 2026-11-02 557",
+      "title": "[산단 2026-19호] 산학협력단 육아휴직 대체인력 채용 공고 경영지원실 2026-11-02 560",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "국립금오공과대학교",
@@ -4385,7 +4504,7 @@
       "start_date": "2026-11-02",
       "close_at": "2026-11-06T09:00:00+00:00",
       "close_date": "2026-11-06",
-      "verified_at": "2026-11-06T09:02:05.344452+00:00",
+      "verified_at": "2026-11-06T10:02:03.911073+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -4422,7 +4541,7 @@
       "start_date": "2026-11-05",
       "close_at": "2026-11-10T08:00:00+00:00",
       "close_date": "2026-11-10",
-      "verified_at": "2026-11-06T09:17:55.575745+00:00",
+      "verified_at": "2026-11-06T10:21:43.695271+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -4454,7 +4573,7 @@
       "start_date": "2026-11-02",
       "close_at": "2026-11-05T09:00:00+00:00",
       "close_date": "2026-11-05",
-      "verified_at": "2026-11-06T09:09:36.032036+00:00",
+      "verified_at": "2026-11-06T10:12:15.077456+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -4602,7 +4721,7 @@
       "start_date": "2026-11-02",
       "close_at": "2026-11-10T09:00:00+00:00",
       "close_date": "2026-11-10",
-      "verified_at": "2026-11-06T09:11:51.872473+00:00",
+      "verified_at": "2026-11-06T10:15:04.009339+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -4639,7 +4758,7 @@
       "start_date": null,
       "close_at": "2026-11-13T09:00:00+00:00",
       "close_date": "2026-11-13",
-      "verified_at": "2026-11-06T09:01:19.561467+00:00",
+      "verified_at": "2026-11-06T10:26:56.143231+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -4676,7 +4795,7 @@
       "start_date": "2026-11-23",
       "close_at": null,
       "close_date": "2026-11-24",
-      "verified_at": "2026-11-06T09:06:54.532324+00:00",
+      "verified_at": "2026-11-06T10:09:15.114748+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -4791,7 +4910,7 @@
       "start_date": "2026-11-02",
       "close_at": null,
       "close_date": "2026-11-08",
-      "verified_at": "2026-11-06T09:11:54.875385+00:00",
+      "verified_at": "2026-11-06T10:15:07.014238+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -4807,6 +4926,38 @@
           "url": "https://www.snu.ac.kr/snunow/notice/job-openings?md=down&bbsidx=178466&fileidx=59456"
         }
       ]
+    },
+    {
+      "id": 221,
+      "title": "부산대학교 산학협력단(국립대학육성사업) 사업직원 채용 공고",
+      "university": "pusan",
+      "university_name": "부산대학교",
+      "employer": "부산대학교",
+      "employer_review": false,
+      "source_name": "채용",
+      "source_url": "https://sanhak.pusan.ac.kr/sanhak/board/10",
+      "url": "https://sanhak.pusan.ac.kr/sanhak/boardview/10/38",
+      "published_date": "2026-10-29",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FAILED",
+      "attachments": []
     },
     {
       "id": 135,
@@ -4901,7 +5052,7 @@
       "start_date": "2026-10-30",
       "close_at": "2026-11-13T09:00:00+00:00",
       "close_date": "2026-11-13",
-      "verified_at": "2026-11-06T09:16:46.224095+00:00",
+      "verified_at": "2026-11-06T10:21:16.388508+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -4938,7 +5089,7 @@
       "start_date": "2026-10-26",
       "close_at": null,
       "close_date": "2026-11-04",
-      "verified_at": "2026-11-06T09:11:57.856258+00:00",
+      "verified_at": "2026-11-06T10:15:10.017638+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -4954,6 +5105,38 @@
           "url": "https://www.snu.ac.kr/snunow/notice/job-openings?md=down&bbsidx=178385&fileidx=59411"
         }
       ]
+    },
+    {
+      "id": 215,
+      "title": "[스펙업] 2026년 10월 28일 채용 및 대외활동 정보",
+      "university": "knu",
+      "university_name": "경북대학교",
+      "employer": "경북대학교",
+      "employer_review": true,
+      "source_name": "Employment Information",
+      "source_url": "http://aicollege.knu.ac.kr/bbs/board.php?bo_table=sub6_3_b&lang=eng",
+      "url": "http://aicollege.knu.ac.kr/bbs/board.php?bo_table=sub6_3_b&wr_id=1996",
+      "published_date": "2026-10-28",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": "2026-11-06T09:59:34.320059+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
     },
     {
       "id": 151,
@@ -4975,7 +5158,7 @@
       "start_date": "2026-10-29",
       "close_at": null,
       "close_date": "2026-11-06",
-      "verified_at": "2026-11-06T09:17:58.559575+00:00",
+      "verified_at": "2026-11-06T10:21:46.696437+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -5062,6 +5245,38 @@
       ]
     },
     {
+      "id": 217,
+      "title": "2026년 「4D 융합기술연구소」 행정인력(계약직) 채용 재공고",
+      "university": "ut",
+      "university_name": "국립한국교통대학교",
+      "employer": "국립한국교통대학교",
+      "employer_review": true,
+      "source_name": "인사정보",
+      "source_url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardList.do",
+      "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000071/selectBoardArticle.do?nttId=1125649&kind=&mno=sitemap_12&pageIndex=1&searchCnd=&searchWrd=",
+      "published_date": "2026-10-27",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "FIXED",
+      "employment_type": "기간제",
+      "start_at": null,
+      "start_date": "2026-10-27",
+      "close_at": null,
+      "close_date": "2026-11-09",
+      "verified_at": "2026-11-06T10:04:35.196718+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
       "id": 175,
       "title": "(채용공고)AI부트캠프사업단 연구원 채용공고",
       "university": "kunsan",
@@ -5081,7 +5296,7 @@
       "start_date": null,
       "close_at": "2026-11-08T09:00:00+00:00",
       "close_date": "2026-11-08",
-      "verified_at": "2026-11-06T09:01:31.554539+00:00",
+      "verified_at": "2026-11-06T10:27:08.124369+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -5118,7 +5333,7 @@
       "start_date": null,
       "close_at": "2026-11-08T09:00:00+00:00",
       "close_date": "2026-11-08",
-      "verified_at": "2026-11-06T09:01:25.554889+00:00",
+      "verified_at": "2026-11-06T10:27:02.113961+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -5200,7 +5415,7 @@
       "start_date": "2026-10-27",
       "close_at": "2026-11-03T09:00:00+00:00",
       "close_date": "2026-11-03",
-      "verified_at": "2026-11-06T09:15:56.917937+00:00",
+      "verified_at": "2026-11-06T10:20:33.172028+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -5315,7 +5530,7 @@
       "start_date": "2026-10-27",
       "close_at": null,
       "close_date": "2026-11-06",
-      "verified_at": "2026-11-06T09:16:52.226022+00:00",
+      "verified_at": "2026-11-06T10:21:22.400082+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -5334,7 +5549,7 @@
     },
     {
       "id": 183,
-      "title": "[제2026-94호] 2027년 상반기 국립금오공과대학교 교수초빙 공고 교무과 2026-10-26 1728",
+      "title": "[제2026-94호] 2027년 상반기 국립금오공과대학교 교수초빙 공고 교무과 2026-10-26 1735",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "국립금오공과대학교",
@@ -5352,7 +5567,7 @@
       "start_date": "2026-11-02",
       "close_at": "2026-11-13T08:00:00+00:00",
       "close_date": "2026-11-13",
-      "verified_at": "2026-11-06T09:02:23.369856+00:00",
+      "verified_at": "2026-11-06T10:02:21.955766+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -5405,7 +5620,7 @@
       "start_date": "2026-11-02",
       "close_at": "2026-11-06T05:00:00+00:00",
       "close_date": "2026-11-06",
-      "verified_at": "2026-11-06T09:16:08.934263+00:00",
+      "verified_at": "2026-11-06T10:20:45.119780+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -5483,7 +5698,7 @@
       "start_date": "2026-10-29",
       "close_at": null,
       "close_date": "2026-11-02",
-      "verified_at": "2026-11-06T09:01:37.559536+00:00",
+      "verified_at": "2026-11-06T10:27:14.133738+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -5561,7 +5776,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:12:06.871214+00:00",
+      "verified_at": "2026-11-06T10:15:19.030781+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -5598,7 +5813,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:12:03.881408+00:00",
+      "verified_at": "2026-11-06T10:15:16.026116+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -5635,7 +5850,39 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:12:00.878209+00:00",
+      "verified_at": "2026-11-06T10:15:13.011833+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 218,
+      "title": "♣중 고등 국어 영어 수학 과학 화상 재택수업 상시채용♣",
+      "university": "bnue",
+      "university_name": "부산교육대학교",
+      "employer": "부산교육대학교",
+      "employer_review": true,
+      "source_name": "아르바이트정보",
+      "source_url": "https://www.bnue.ac.kr/board/community02_01",
+      "url": "https://www.bnue.ac.kr/board/detail/community02_01/44622",
+      "published_date": "2026-10-22",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": "2026-11-06T10:06:16.034707+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -5708,7 +5955,7 @@
       "start_date": "2026-10-21",
       "close_at": null,
       "close_date": "2026-10-30",
-      "verified_at": "2026-11-06T09:16:58.199904+00:00",
+      "verified_at": "2026-11-06T10:21:28.391735+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -6127,7 +6374,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:12:33.891074+00:00",
+      "verified_at": "2026-11-06T10:15:22.016855+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -6353,7 +6600,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:12:42.899616+00:00",
+      "verified_at": "2026-11-06T10:15:25.012641+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -6363,6 +6610,38 @@
       "has_period_evidence": false,
       "status_at_export": "UNKNOWN",
       "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 222,
+      "title": "부산대학교 산학협력단 계약직원 채용 공고",
+      "university": "pusan",
+      "university_name": "부산대학교",
+      "employer": "부산대학교 산학협력단",
+      "employer_review": false,
+      "source_name": "채용",
+      "source_url": "https://sanhak.pusan.ac.kr/sanhak/board/10",
+      "url": "https://sanhak.pusan.ac.kr/sanhak/boardview/10/37",
+      "published_date": "2026-10-02",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "FIXED",
+      "employment_type": "기간제",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FAILED",
       "attachments": []
     },
     {
@@ -6517,6 +6796,38 @@
       ]
     },
     {
+      "id": 243,
+      "title": "[한국법제연구원] 2026년도 제2차 부연구위원 채용 공고",
+      "university": "jbnu",
+      "university_name": "전북대학교",
+      "employer": "전북대학교",
+      "employer_review": true,
+      "source_name": "채용공고",
+      "source_url": "https://lawschool.jbnu.ac.kr/lawschool/6972/subview.do",
+      "url": "https://lawschool.jbnu.ac.kr/bbs/lawschool/1006/402053/artclView.do",
+      "published_date": "2026-09-30",
+      "job_type": "연구원",
+      "region": "미상",
+      "job_type_code": "RESEARCH",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2026-09-15",
+      "close_at": "2026-09-30T01:00:00+00:00",
+      "close_date": "2026-09-30",
+      "verified_at": "2026-11-06T10:19:07.352684+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
       "id": 43,
       "title": "서울대학교 경력개발센터 직원 채용 공고",
       "university": "snu",
@@ -6647,7 +6958,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:13:00.873603+00:00",
+      "verified_at": "2026-11-06T10:15:28.002065+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -6877,6 +7188,38 @@
       ]
     },
     {
+      "id": 231,
+      "title": "[채용] [현대건설/신입채용] 2026년 하반기 신입사원 채용(~9/29(화)까지)",
+      "university": "seoultech",
+      "university_name": "서울과학기술대학교",
+      "employer": "서울과학기술대학교",
+      "employer_review": true,
+      "source_name": "채용정보",
+      "source_url": "https://safety.seoultech.ac.kr/b_information/job_info",
+      "url": "https://safety.seoultech.ac.kr/b_information/job_info?do=view&profboardidx=0&bnum=765&bidx=895859&cate=7&allboard=false&nowpage=1",
+      "published_date": "2026-09-22",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": "2026-11-06T10:12:24.181433+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
       "id": 52,
       "title": "서울대학교 법학전문대학원 공익법률센터 제8회 공익펠로우변호사 채용 공고",
       "university": "snu",
@@ -6996,6 +7339,70 @@
       ]
     },
     {
+      "id": 224,
+      "title": "부산대학교 산학협력단(창업중심대학) 사업직원 채용 공고",
+      "university": "pusan",
+      "university_name": "부산대학교",
+      "employer": "부산대학교",
+      "employer_review": false,
+      "source_name": "채용",
+      "source_url": "https://sanhak.pusan.ac.kr/sanhak/board/10",
+      "url": "https://sanhak.pusan.ac.kr/sanhak/boardview/10/35",
+      "published_date": "2026-09-18",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FAILED",
+      "attachments": []
+    },
+    {
+      "id": 223,
+      "title": "부산대학교 산학협력단(국립대학육성사업) 사업직원 채용 공고",
+      "university": "pusan",
+      "university_name": "부산대학교",
+      "employer": "부산대학교",
+      "employer_review": false,
+      "source_name": "채용",
+      "source_url": "https://sanhak.pusan.ac.kr/sanhak/board/10",
+      "url": "https://sanhak.pusan.ac.kr/sanhak/boardview/10/36",
+      "published_date": "2026-09-18",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FAILED",
+      "attachments": []
+    },
+    {
       "id": 138,
       "title": "부산대학교 산학협력단(창업중심대학) 사업직원 채용 공고",
       "university": "pusan",
@@ -7097,6 +7504,38 @@
       ]
     },
     {
+      "id": 219,
+      "title": "부산발도르프학교 5학년 기간제 담임교사 초빙 공고",
+      "university": "bnue",
+      "university_name": "부산교육대학교",
+      "employer": "부산발도르프학교 5학년",
+      "employer_review": true,
+      "source_name": "자유게시판",
+      "source_url": "https://www.bnue.ac.kr/board/community03_02",
+      "url": "https://www.bnue.ac.kr/board/detail/community03_02/44514",
+      "published_date": "2026-09-16",
+      "job_type": "교원·강사",
+      "region": "미상",
+      "job_type_code": "FACULTY",
+      "employment_type_code": "FIXED",
+      "employment_type": "기간제",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": "2026-11-06T10:06:38.204789+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
       "id": 54,
       "title": "서울대학교 자연과학대학 지구환경과학부 자체직원(대체인력) 채용 공고",
       "university": "snu",
@@ -7153,7 +7592,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:13:18.888046+00:00",
+      "verified_at": "2026-11-06T10:15:31.017120+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -7301,7 +7740,7 @@
       "start_date": "2026-09-14",
       "close_at": "2026-09-21T09:00:00+00:00",
       "close_date": "2026-09-21",
-      "verified_at": "2026-11-06T09:16:14.923583+00:00",
+      "verified_at": "2026-11-06T10:20:51.183180+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -7342,7 +7781,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:13:21.907223+00:00",
+      "verified_at": "2026-11-06T10:15:34.035014+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -7379,7 +7818,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:14:22.605028+00:00",
+      "verified_at": "2026-11-06T10:16:32.135900+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -7785,7 +8224,7 @@
       "start_date": "2026-09-07",
       "close_at": "2026-09-14T09:00:00+00:00",
       "close_date": "2026-09-14",
-      "verified_at": "2026-11-06T09:16:20.869353+00:00",
+      "verified_at": "2026-11-06T10:20:57.153974+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -7826,7 +8265,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:13:30.875941+00:00",
+      "verified_at": "2026-11-06T10:15:43.029069+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -7926,6 +8365,51 @@
       ]
     },
     {
+      "id": 246,
+      "title": "2026년도 한국학중앙연구원 문화콘텐츠편찬실 청년인턴 채용 공고",
+      "university": "aks",
+      "university_name": "한국학대학원",
+      "employer": "한국학대학원",
+      "employer_review": false,
+      "source_name": "채용공고",
+      "source_url": "https://www.aks.ac.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000082&ctgryCode=NTC002&listAll=1&menuNo=4010110000",
+      "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323407&bbsId=BBSMSTR_000000000082",
+      "published_date": "2026-09-04",
+      "job_type": "연구원",
+      "region": "미상",
+      "job_type_code": "RESEARCH",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": "2026-09-16T00:00:00+00:00",
+      "start_date": "2026-09-16",
+      "close_at": "2026-09-20T09:00:00+00:00",
+      "close_date": "2026-09-20",
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FAILED",
+      "attachments": [
+        {
+          "name": "1. 2026년도 문화콘텐츠편찬실 청년인턴 공개채용 공고문.hwp",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323407&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "2. 2026년도 문화콘텐츠편찬실 청년인턴 공개채용 입사지원서 서식.hwp",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323407&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "3. 채용 이의신청서.hwp",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323407&bbsId=BBSMSTR_000000000082"
+        }
+      ]
+    },
+    {
       "id": 168,
       "title": "2026년도 한국학중앙연구원 문화콘텐츠편찬실 청년인턴 채용 공고",
       "university": "aks",
@@ -7967,6 +8451,292 @@
         {
           "name": "3. 채용 이의신청서.hwp",
           "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323407&bbsId=BBSMSTR_000000000082"
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "title": "비정규직(휴직 대체인력) 채용 공고",
+      "university": "aks",
+      "university_name": "한국학대학원",
+      "employer": "한국학대학원",
+      "employer_review": false,
+      "source_name": "채용공고",
+      "source_url": "https://www.aks.ac.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000082&ctgryCode=NTC002&listAll=1&menuNo=4010110000",
+      "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323398&bbsId=BBSMSTR_000000000082",
+      "published_date": "2026-09-02",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "FIXED",
+      "employment_type": "기간제",
+      "start_at": "2026-09-03T00:00:00+00:00",
+      "start_date": "2026-09-03",
+      "close_at": "2026-09-17T09:00:00+00:00",
+      "close_date": "2026-09-17",
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FAILED",
+      "attachments": [
+        {
+          "name": "01. 공고문(한국학중앙연구원 채용 공고 제2026-11호).pdf",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323398&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "02. 입사지원서 등 참고 양식.hwp",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323398&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "03. 채용 이의신청서.hwp",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323398&bbsId=BBSMSTR_000000000082"
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "title": "기능직(통신) 채용 공고",
+      "university": "aks",
+      "university_name": "한국학대학원",
+      "employer": "한국학대학원",
+      "employer_review": false,
+      "source_name": "채용공고",
+      "source_url": "https://www.aks.ac.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000082&ctgryCode=NTC002&listAll=1&menuNo=4010110000",
+      "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323397&bbsId=BBSMSTR_000000000082",
+      "published_date": "2026-09-02",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": "2026-09-03T00:00:00+00:00",
+      "start_date": "2026-09-03",
+      "close_at": "2026-09-17T09:00:00+00:00",
+      "close_date": "2026-09-17",
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FAILED",
+      "attachments": [
+        {
+          "name": "01. [한국학중앙연구원 채용 공고 제2026-10호] 기능직(통신) 채용 공고.pdf",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323397&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "02. 입사지원서 등 참고양식.hwp",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323397&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "03. ncs 기반 채용 직무 설명자료.hwp",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323397&bbsId=BBSMSTR_000000000082"
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "title": "사서직 채용 공고",
+      "university": "aks",
+      "university_name": "한국학대학원",
+      "employer": "한국학대학원",
+      "employer_review": false,
+      "source_name": "채용공고",
+      "source_url": "https://www.aks.ac.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000082&ctgryCode=NTC002&listAll=1&menuNo=4010110000",
+      "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323396&bbsId=BBSMSTR_000000000082",
+      "published_date": "2026-09-02",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": "2026-09-03T00:00:00+00:00",
+      "start_date": "2026-09-03",
+      "close_at": "2026-09-17T09:00:00+00:00",
+      "close_date": "2026-09-17",
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FAILED",
+      "attachments": [
+        {
+          "name": "01. [한국학중앙연구원 채용 공고 제2026-09호] 사서직 채용 공고.pdf",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323396&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "02. 입사지원서 등 참고양식.hwp",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323396&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "03. ncs 기반 채용 직무 설명자료.pdf",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323396&bbsId=BBSMSTR_000000000082"
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "title": "행정직 채용 공고",
+      "university": "aks",
+      "university_name": "한국학대학원",
+      "employer": "한국학대학원",
+      "employer_review": false,
+      "source_name": "채용공고",
+      "source_url": "https://www.aks.ac.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000082&ctgryCode=NTC002&listAll=1&menuNo=4010110000",
+      "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323395&bbsId=BBSMSTR_000000000082",
+      "published_date": "2026-09-02",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": "2026-09-03T00:00:00+00:00",
+      "start_date": "2026-09-03",
+      "close_at": "2026-09-17T09:00:00+00:00",
+      "close_date": "2026-09-17",
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FAILED",
+      "attachments": [
+        {
+          "name": "01. [한국학중앙연구원 채용 공고 제2026-08호] 행정직 채용 공고.pdf",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323395&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "02. 입사지원서 등 참고양식.hwp",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323395&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "03. NCS 기반 채용 직무 설명자료.hwp",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323395&bbsId=BBSMSTR_000000000082"
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "title": "전문직(상담) 채용 공고",
+      "university": "aks",
+      "university_name": "한국학대학원",
+      "employer": "한국학대학원",
+      "employer_review": false,
+      "source_name": "채용공고",
+      "source_url": "https://www.aks.ac.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000082&ctgryCode=NTC002&listAll=1&menuNo=4010110000",
+      "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323393&bbsId=BBSMSTR_000000000082",
+      "published_date": "2026-09-02",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": "2026-09-03T00:00:00+00:00",
+      "start_date": "2026-09-03",
+      "close_at": "2026-09-17T09:00:00+00:00",
+      "close_date": "2026-09-17",
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FAILED",
+      "attachments": [
+        {
+          "name": "01. [한국학중앙연구원 채용 공고 제2026-07호] 전문직(상담) 채용 공고.pdf",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323393&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "02. 입사지원서 등 참고양식.hwp",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323393&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "03. ncs 기반 채용 직무 설명자료.pdf",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323393&bbsId=BBSMSTR_000000000082"
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "title": "교원 초빙 공고",
+      "university": "aks",
+      "university_name": "한국학대학원",
+      "employer": "한국학대학원",
+      "employer_review": false,
+      "source_name": "채용공고",
+      "source_url": "https://www.aks.ac.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000082&ctgryCode=NTC002&listAll=1&menuNo=4010110000",
+      "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323390&bbsId=BBSMSTR_000000000082",
+      "published_date": "2026-09-02",
+      "job_type": "교원·강사",
+      "region": "미상",
+      "job_type_code": "FACULTY",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": "2026-09-03T00:00:00+00:00",
+      "start_date": "2026-09-03",
+      "close_at": "2026-09-17T09:00:00+00:00",
+      "close_date": "2026-09-17",
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FAILED",
+      "attachments": [
+        {
+          "name": "01. [한국학중앙연구원 채용 공고 제2026-06호] 교원 초빙 공고.pdf",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323390&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "02. 초빙지원서.hwp",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323390&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "03. 연구실적 인정 범위 인정 및 환산율.hwp",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323390&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "04. 연구실적심사 대상 연구실적물(300%)(5편 이내) 인정 기준 관련 안내사항.hwp",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323390&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "05. 연구실적심사 대상 연구실적물(300%)(5편 이내), 연구실적 목록, 강의 경력 내역서, 교육 및 연구 계획서.hwp",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323390&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "06. 채용 이의신청서.hwp",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323390&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "07. 지원자 심사위원 기피신청서.hwp",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323390&bbsId=BBSMSTR_000000000082"
         }
       ]
     },
@@ -8506,7 +9276,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:13:33.926370+00:00",
+      "verified_at": "2026-11-06T10:15:46.027668+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -8522,6 +9292,70 @@
           "url": "https://www.snu.ac.kr/snunow/notice/job-openings?md=down&bbsidx=174794&fileidx=56231"
         }
       ]
+    },
+    {
+      "id": 226,
+      "title": "부산대학교 산학협력단(양산캠퍼스 산학협력본부) 대체직원 채용 공고",
+      "university": "pusan",
+      "university_name": "부산대학교",
+      "employer": "부산대학교",
+      "employer_review": false,
+      "source_name": "채용",
+      "source_url": "https://sanhak.pusan.ac.kr/sanhak/board/10",
+      "url": "https://sanhak.pusan.ac.kr/sanhak/boardview/10/33",
+      "published_date": "2026-08-28",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FAILED",
+      "attachments": []
+    },
+    {
+      "id": 225,
+      "title": "부산대학교 산학협력단 대체직원 채용 공고",
+      "university": "pusan",
+      "university_name": "부산대학교",
+      "employer": "부산대학교",
+      "employer_review": false,
+      "source_name": "채용",
+      "source_url": "https://sanhak.pusan.ac.kr/sanhak/board/10",
+      "url": "https://sanhak.pusan.ac.kr/sanhak/boardview/10/34",
+      "published_date": "2026-08-28",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FAILED",
+      "attachments": []
     },
     {
       "id": 185,
@@ -8662,6 +9496,38 @@
       ]
     },
     {
+      "id": 244,
+      "title": "2026년 한국수출입은행 하반기 경력직 채용공고 안내",
+      "university": "jbnu",
+      "university_name": "전북대학교",
+      "employer": "전북대학교",
+      "employer_review": true,
+      "source_name": "채용공고",
+      "source_url": "https://lawschool.jbnu.ac.kr/lawschool/6972/subview.do",
+      "url": "https://lawschool.jbnu.ac.kr/bbs/lawschool/1006/398717/artclView.do",
+      "published_date": "2026-08-25",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": "2026-08-18T07:00:00+00:00",
+      "start_date": "2026-08-18",
+      "close_at": "2026-09-02T01:00:00+00:00",
+      "close_date": "2026-09-02",
+      "verified_at": "2026-11-06T10:19:16.346887+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
       "id": 79,
       "title": "서울대학교 빅데이터 혁신융합대학사업단 사무국 직원 채용",
       "university": "snu",
@@ -8681,7 +9547,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:13:36.884382+00:00",
+      "verified_at": "2026-11-06T10:15:49.042467+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -8736,6 +9602,38 @@
       ]
     },
     {
+      "id": 227,
+      "title": "부산대학교 산학협력단(국립대학육성사업) 사업직원 채용 공고",
+      "university": "pusan",
+      "university_name": "부산대학교",
+      "employer": "부산대학교",
+      "employer_review": false,
+      "source_name": "채용",
+      "source_url": "https://sanhak.pusan.ac.kr/sanhak/board/10",
+      "url": "https://sanhak.pusan.ac.kr/sanhak/boardview/10/32",
+      "published_date": "2026-08-21",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FAILED",
+      "attachments": []
+    },
+    {
       "id": 186,
       "title": "부산대학교 산학협력단(국립대학육성사업) 사업직원 채용 공고",
       "university": "pusan",
@@ -8787,7 +9685,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:13:39.896868+00:00",
+      "verified_at": "2026-11-06T10:15:52.058426+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -8824,7 +9722,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:13:42.895245+00:00",
+      "verified_at": "2026-11-06T10:15:55.041469+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -8972,7 +9870,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:13:51.865240+00:00",
+      "verified_at": "2026-11-06T10:16:04.032083+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -9009,7 +9907,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:08:08.425077+00:00",
+      "verified_at": "2026-11-06T10:10:14.010576+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -9083,7 +9981,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:13:54.891248+00:00",
+      "verified_at": "2026-11-06T10:16:07.016205+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -9099,6 +9997,38 @@
           "url": "https://www.snu.ac.kr/snunow/notice/job-openings?md=down&bbsidx=174095&fileidx=55739"
         }
       ]
+    },
+    {
+      "id": 245,
+      "title": "[북한인권정보센터](사)북한인권정보센터(NKDB) 연구위원, 연구원 채용 안내",
+      "university": "jbnu",
+      "university_name": "전북대학교",
+      "employer": "[북한인권정보센터](사)북한인권정보센터(NKDB) 연구위원,",
+      "employer_review": true,
+      "source_name": "채용공고",
+      "source_url": "https://lawschool.jbnu.ac.kr/lawschool/6972/subview.do",
+      "url": "https://lawschool.jbnu.ac.kr/bbs/lawschool/1006/398193/artclView.do",
+      "published_date": "2026-08-14",
+      "job_type": "연구원",
+      "region": "미상",
+      "job_type_code": "RESEARCH",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2026-08-12",
+      "close_at": null,
+      "close_date": "2026-08-24",
+      "verified_at": "2026-11-06T10:19:19.345144+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": []
     },
     {
       "id": 89,
@@ -9120,7 +10050,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:13:57.888599+00:00",
+      "verified_at": "2026-11-06T10:16:10.035815+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -9493,7 +10423,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:14:00.914254+00:00",
+      "verified_at": "2026-11-06T10:16:13.391415+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -9530,7 +10460,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:08:17.400535+00:00",
+      "verified_at": "2026-11-06T10:10:16.985570+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -9562,7 +10492,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:08:20.418636+00:00",
+      "verified_at": "2026-11-06T10:10:20.005995+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -9572,6 +10502,38 @@
       "has_period_evidence": false,
       "status_at_export": "CLOSED",
       "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 228,
+      "title": "부산대학교 산학협력단 사무원 채용 공고",
+      "university": "pusan",
+      "university_name": "부산대학교",
+      "employer": "부산대학교 산학협력단",
+      "employer_review": false,
+      "source_name": "채용",
+      "source_url": "https://sanhak.pusan.ac.kr/sanhak/board/10",
+      "url": "https://sanhak.pusan.ac.kr/sanhak/boardview/10/31",
+      "published_date": "2026-07-30",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FAILED",
       "attachments": []
     },
     {
@@ -9644,6 +10606,47 @@
       ]
     },
     {
+      "id": 253,
+      "title": "2026학년도 제2학기 한국학대학원 강사 채용 공고",
+      "university": "aks",
+      "university_name": "한국학대학원",
+      "employer": "한국학대학원",
+      "employer_review": false,
+      "source_name": "채용공고",
+      "source_url": "https://www.aks.ac.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000082&ctgryCode=NTC002&listAll=1&menuNo=4010110000",
+      "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323182&bbsId=BBSMSTR_000000000082",
+      "published_date": "2026-07-10",
+      "job_type": "교원·강사",
+      "region": "미상",
+      "job_type_code": "FACULTY",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": "2026-07-17T00:00:00+00:00",
+      "start_date": "2026-07-17",
+      "close_at": "2026-07-24T08:00:00+00:00",
+      "close_date": "2026-07-24",
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FAILED",
+      "attachments": [
+        {
+          "name": "1. 강사 임용 지원서 등 양식.hwpx",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323182&bbsId=BBSMSTR_000000000082"
+        },
+        {
+          "name": "2. 강사 공개 채용 공고.hwpx",
+          "url": "https://www.aks.ac.kr/cop/bbs/selectBoardArticle.do?nttId=323182&bbsId=BBSMSTR_000000000082"
+        }
+      ]
+    },
+    {
       "id": 194,
       "title": "2026학년도 제2학기 한국학대학원 강사 채용 공고",
       "university": "aks",
@@ -9685,6 +10688,38 @@
       ]
     },
     {
+      "id": 229,
+      "title": "부산대학교 산학협력단 대체직원 채용 공고",
+      "university": "pusan",
+      "university_name": "부산대학교",
+      "employer": "부산대학교",
+      "employer_review": false,
+      "source_name": "채용",
+      "source_url": "https://sanhak.pusan.ac.kr/sanhak/board/10",
+      "url": "https://sanhak.pusan.ac.kr/sanhak/boardview/10/30",
+      "published_date": "2026-07-02",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FAILED",
+      "attachments": []
+    },
+    {
       "id": 188,
       "title": "부산대학교 산학협력단 대체직원 채용 공고",
       "university": "pusan",
@@ -9695,6 +10730,38 @@
       "source_url": "https://sanhak.pusan.ac.kr/sanhak/board/10/4",
       "url": "https://sanhak.pusan.ac.kr/sanhak/boardview/10/30",
       "published_date": "2026-07-02",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FAILED",
+      "attachments": []
+    },
+    {
+      "id": 230,
+      "title": "부산대학교 산학협력단(창업중심대학사업) 사업직원 채용 공고",
+      "university": "pusan",
+      "university_name": "부산대학교",
+      "employer": "부산대학교",
+      "employer_review": false,
+      "source_name": "채용",
+      "source_url": "https://sanhak.pusan.ac.kr/sanhak/board/10",
+      "url": "https://sanhak.pusan.ac.kr/sanhak/boardview/10/29",
+      "published_date": "2026-06-15",
       "job_type": "직원·행정",
       "region": "미상",
       "job_type_code": "STAFF",
@@ -9749,6 +10816,70 @@
       "attachments": []
     },
     {
+      "id": 232,
+      "title": "[채용] ㈜한주 2026년도 하반기 신입사원 채용 공고(안전보건)",
+      "university": "seoultech",
+      "university_name": "서울과학기술대학교",
+      "employer": "서울과학기술대학교",
+      "employer_review": true,
+      "source_name": "채용정보",
+      "source_url": "https://safety.seoultech.ac.kr/b_information/job_info",
+      "url": "https://safety.seoultech.ac.kr/b_information/job_info?do=view&profboardidx=0&bnum=765&bidx=889703&cate=7&allboard=false&nowpage=1",
+      "published_date": "2026-04-27",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2026-04-22",
+      "close_at": "2026-04-29T07:00:00+00:00",
+      "close_date": "2026-04-29",
+      "verified_at": "2026-11-06T10:12:42.175798+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 233,
+      "title": "[채용] 한국필립모리스] INKOMPASS 채용연계형 인턴 모집",
+      "university": "seoultech",
+      "university_name": "서울과학기술대학교",
+      "employer": "서울과학기술대학교",
+      "employer_review": true,
+      "source_name": "채용정보",
+      "source_url": "https://safety.seoultech.ac.kr/b_information/job_info",
+      "url": "https://safety.seoultech.ac.kr/b_information/job_info?do=view&profboardidx=0&bnum=765&bidx=889506&cate=7&allboard=false&nowpage=1",
+      "published_date": "2026-04-23",
+      "job_type": "직군 미상",
+      "region": "경남",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2026-04-20",
+      "close_at": null,
+      "close_date": "2026-05-03",
+      "verified_at": "2026-11-06T10:12:45.176385+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
       "id": 190,
       "title": "울산과학기술원 전기전자공학과 산학협력중점교수(비전임) 채용공고",
       "university": "unist",
@@ -9768,7 +10899,7 @@
       "start_date": "2026-04-21",
       "close_at": null,
       "close_date": "2026-05-06",
-      "verified_at": "2026-11-06T09:14:52.889022+00:00",
+      "verified_at": "2026-11-06T10:18:00.047082+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -9786,6 +10917,986 @@
         {
           "name": "첨부파일 양식23_연구계획서개인정보-수집이용-동의서-2.hwp",
           "url": "https://invite.unist.ac.kr/part-time/job/job-posting.do?mode=download&key=%24cms%24PQfQhgLhYMYBbAPYBsAmwCWA7AbhiApiAA5gBOEIBWA5sFohBjAcAEwBsIbIA7ABz8AnL1QAGAIz8AzPwIE2bAEYAWJW1EAzAKyKhmmEpjaxAOjgB3YkA+&name=%24cms%24omjl2hhMDMD6gPo4NrWBGawsWuBxBwODWA9xwqBOBeegtIBhDgi5OAu44JVjegm82Aa4ynmAHQAWA7gA5A+"
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "title": "[채용] 2026 상반기 기아 신입/전환형 인턴 채용(신입 ~4/13(월) 11시, 인턴 ~4/20(월) 11시까지)",
+      "university": "seoultech",
+      "university_name": "서울과학기술대학교",
+      "employer": "서울과학기술대학교",
+      "employer_review": true,
+      "source_name": "채용정보",
+      "source_url": "https://safety.seoultech.ac.kr/b_information/job_info",
+      "url": "https://safety.seoultech.ac.kr/b_information/job_info?do=view&profboardidx=0&bnum=765&bidx=889096&cate=7&allboard=false&nowpage=1",
+      "published_date": "2026-04-13",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": "2026-11-06T10:12:48.178638+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 241,
+      "title": "2026 상반기 삼성E&A 3급 신입사원 채용 / 대학생 인턴 모집",
+      "university": "unist",
+      "university_name": "울산과학기술원",
+      "employer": "울산과학기술원",
+      "employer_review": true,
+      "source_name": "취업정보",
+      "source_url": "https://nuclear.unist.ac.kr/nuclear/community/recruit.do",
+      "url": "https://nuclear.unist.ac.kr/nuclear/community/recruit.do?mode=view&articleNo=290630&article.offset=0&articleLimit=10",
+      "published_date": "2026-03-10",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": "2026-11-06T10:18:30.669897+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 240,
+      "title": "[롯데케미칼 첨단소재사업] 2026년 3월 신입사원 채용 일반전형",
+      "university": "unist",
+      "university_name": "울산과학기술원",
+      "employer": "울산과학기술원",
+      "employer_review": true,
+      "source_name": "취업정보",
+      "source_url": "https://nuclear.unist.ac.kr/nuclear/community/recruit.do",
+      "url": "https://nuclear.unist.ac.kr/nuclear/community/recruit.do?mode=view&articleNo=290631&article.offset=0&articleLimit=10",
+      "published_date": "2026-03-10",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": "2026-03-04T01:00:00+00:00",
+      "start_date": "2026-03-04",
+      "close_at": "2026-03-17T14:00:00+00:00",
+      "close_date": "2026-03-17",
+      "verified_at": "2026-11-06T10:18:27.645659+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 235,
+      "title": "[채용공고](주)우진플라임 신입사원 채용공고",
+      "university": "seoultech",
+      "university_name": "서울과학기술대학교",
+      "employer": "서울과학기술대학교",
+      "employer_review": true,
+      "source_name": "취업정보",
+      "source_url": "https://msd.seoultech.ac.kr/information/employment",
+      "url": "https://msd.seoultech.ac.kr/information/employment?do=view&profboardidx=0&bnum=2277&bidx=861583&cate=7&allboard=false&nowpage=1",
+      "published_date": "2026-02-02",
+      "job_type": "직군 미상",
+      "region": "경기",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": "2026-11-06T10:12:57.282003+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 211,
+      "title": "강원특별자치도자연학습원 직원 공개 채용",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원특별자치도자연학습원",
+      "employer_review": false,
+      "source_name": "해군1함대 사랑Dream 어린이집 교직원 채용 2025.11.10",
+      "source_url": "https://ece.gwnu.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzIxMzU2JTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.gwnu.ac.kr/bbs/ece/208/325201/artclView.do",
+      "published_date": "2026-01-12",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FAILED",
+      "attachments": [
+        {
+          "name": "[공고2026-1] 강원특별자치도자연학습원 유아기후환경교육관 직원 채용공고_상시접수.hwp",
+          "url": "https://ece.gwnu.ac.kr/bbs/ece/208/151622/download.do"
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "title": "강원특별자치도자연학습원 직원 공개 채용",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원특별자치도자연학습원",
+      "employer_review": false,
+      "source_name": "강원특별자치도자연학습원 직원 공개 채용 강원특별자치도 자연학습원 유아 기후환경교육관에서는 유아교육담당자를 공개 채용하오니유아 환경교육 분야의 전문성과 역량을 갖춘 분의 많은 관심과 지원 바랍니다.2026년 1월 5일강원 2026.01.12",
+      "source_url": "https://ece.kangwon.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzI1MjAxJTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.kangwon.ac.kr/bbs/ece/208/325201/artclView.do",
+      "published_date": "2026-01-12",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FAILED",
+      "attachments": [
+        {
+          "name": "[공고2026-1] 강원특별자치도자연학습원 유아기후환경교육관 직원 채용공고_상시접수.hwp",
+          "url": "https://ece.kangwon.ac.kr/bbs/ece/208/151622/download.do"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "title": "강원특별자치도자연학습원 직원 공개 채용",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원특별자치도자연학습원",
+      "employer_review": false,
+      "source_name": "강원특별자치도자연학습원 직원 공개 채용 강원특별자치도 자연학습원 유아 기후환경교육관에서는 유아교육담당자를 공개 채용하오니유아 환경교육 분야의 전문성과 역량을 갖춘 분의 많은 관심과 지원 바랍니다.2026년 1월 5일강원 2026.01.12",
+      "source_url": "https://ece.gwnu.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzI1MjAxJTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.gwnu.ac.kr/bbs/ece/208/325201/artclView.do",
+      "published_date": "2026-01-12",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FAILED",
+      "attachments": [
+        {
+          "name": "[공고2026-1] 강원특별자치도자연학습원 유아기후환경교육관 직원 채용공고_상시접수.hwp",
+          "url": "https://ece.gwnu.ac.kr/bbs/ece/208/151622/download.do"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "title": "강원특별자치도자연학습원 직원 공개 채용",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원특별자치도자연학습원",
+      "employer_review": false,
+      "source_name": "강릉원주대학교 해람어린이집 보육교직원 모집 공고 2025.11.17",
+      "source_url": "https://ece.kangwon.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzIyMTE3JTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.kangwon.ac.kr/bbs/ece/208/325201/artclView.do",
+      "published_date": "2026-01-12",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FAILED",
+      "attachments": [
+        {
+          "name": "[공고2026-1] 강원특별자치도자연학습원 유아기후환경교육관 직원 채용공고_상시접수.hwp",
+          "url": "https://ece.kangwon.ac.kr/bbs/ece/208/151622/download.do"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "title": "강원특별자치도자연학습원 직원 공개 채용",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원특별자치도자연학습원",
+      "employer_review": false,
+      "source_name": "강릉원주대학교 해람어린이집 보육교직원 모집 공고 2025.11.17",
+      "source_url": "https://ece.gwnu.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzIyMTE3JTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.gwnu.ac.kr/bbs/ece/208/325201/artclView.do",
+      "published_date": "2026-01-12",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FAILED",
+      "attachments": [
+        {
+          "name": "[공고2026-1] 강원특별자치도자연학습원 유아기후환경교육관 직원 채용공고_상시접수.hwp",
+          "url": "https://ece.gwnu.ac.kr/bbs/ece/208/151622/download.do"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "title": "2025년도 경주시월성원전‧방사성폐기물처분시설환경감시센터 직원 채용시험 계획 공고",
+      "university": "unist",
+      "university_name": "울산과학기술원",
+      "employer": "2025년도 경주시월성원전‧방사성폐기물처분시설환경감시센터",
+      "employer_review": true,
+      "source_name": "취업정보",
+      "source_url": "https://nuclear.unist.ac.kr/nuclear/community/recruit.do",
+      "url": "https://nuclear.unist.ac.kr/nuclear/community/recruit.do?mode=view&articleNo=290625&article.offset=0&articleLimit=10",
+      "published_date": "2025-04-23",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2025-04-29",
+      "close_at": null,
+      "close_date": "2025-05-12",
+      "verified_at": "2026-11-06T10:18:45.796933+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": [
+        {
+          "name": "경주시월성원전·방사성폐기물처분시설환경감시센터-직원-채용-시험-공고문.hwp",
+          "url": "https://nuclear.unist.ac.kr/nuclear/community/recruit.do?mode=download&articleNo=290625&attachNo=578551"
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "title": "하이원 정선 어린이집(강원랜드 직장어린이집(한솔보육재단)) 보육교사 채용 공고",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원대학교",
+      "employer_review": true,
+      "source_name": "해군1함대 사랑Dream 어린이집 교직원 채용 2025.11.10",
+      "source_url": "https://ece.gwnu.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzIxMzU2JTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.gwnu.ac.kr/bbs/ece/208/266350/artclView.do",
+      "published_date": "2024-07-17",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2024-07-11",
+      "close_at": null,
+      "close_date": "2024-07-23",
+      "verified_at": "2026-11-06T09:58:15.973891+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 208,
+      "title": "하이원 정선 어린이집(강원랜드 직장어린이집(한솔보육재단)) 보육교사 채용 공고",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원대학교",
+      "employer_review": true,
+      "source_name": "강원특별자치도자연학습원 직원 공개 채용 강원특별자치도 자연학습원 유아 기후환경교육관에서는 유아교육담당자를 공개 채용하오니유아 환경교육 분야의 전문성과 역량을 갖춘 분의 많은 관심과 지원 바랍니다.2026년 1월 5일강원 2026.01.12",
+      "source_url": "https://ece.kangwon.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzI1MjAxJTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.kangwon.ac.kr/bbs/ece/208/266350/artclView.do",
+      "published_date": "2024-07-17",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2024-07-11",
+      "close_at": null,
+      "close_date": "2024-07-23",
+      "verified_at": "2026-11-06T09:57:38.560551+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 204,
+      "title": "하이원 정선 어린이집(강원랜드 직장어린이집(한솔보육재단)) 보육교사 채용 공고",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원대학교",
+      "employer_review": true,
+      "source_name": "강원특별자치도자연학습원 직원 공개 채용 강원특별자치도 자연학습원 유아 기후환경교육관에서는 유아교육담당자를 공개 채용하오니유아 환경교육 분야의 전문성과 역량을 갖춘 분의 많은 관심과 지원 바랍니다.2026년 1월 5일강원 2026.01.12",
+      "source_url": "https://ece.gwnu.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzI1MjAxJTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.gwnu.ac.kr/bbs/ece/208/266350/artclView.do",
+      "published_date": "2024-07-17",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2024-07-11",
+      "close_at": null,
+      "close_date": "2024-07-23",
+      "verified_at": "2026-11-06T09:57:08.086755+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 200,
+      "title": "하이원 정선 어린이집(강원랜드 직장어린이집(한솔보육재단)) 보육교사 채용 공고",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원대학교",
+      "employer_review": true,
+      "source_name": "강릉원주대학교 해람어린이집 보육교직원 모집 공고 2025.11.17",
+      "source_url": "https://ece.kangwon.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzIyMTE3JTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.kangwon.ac.kr/bbs/ece/208/266350/artclView.do",
+      "published_date": "2024-07-17",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2024-07-11",
+      "close_at": null,
+      "close_date": "2024-07-23",
+      "verified_at": "2026-11-06T09:56:37.824104+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 196,
+      "title": "하이원 정선 어린이집(강원랜드 직장어린이집(한솔보육재단)) 보육교사 채용 공고",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원대학교",
+      "employer_review": true,
+      "source_name": "강릉원주대학교 해람어린이집 보육교직원 모집 공고 2025.11.17",
+      "source_url": "https://ece.gwnu.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzIyMTE3JTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.gwnu.ac.kr/bbs/ece/208/266350/artclView.do",
+      "published_date": "2024-07-17",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2024-07-11",
+      "close_at": null,
+      "close_date": "2024-07-23",
+      "verified_at": "2026-11-06T09:56:07.506117+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 236,
+      "title": "[채용공고]쿠쿠홈시스 사출 금형개발 및 관리 직무 채용",
+      "university": "seoultech",
+      "university_name": "서울과학기술대학교",
+      "employer": "서울과학기술대학교",
+      "employer_review": false,
+      "source_name": "취업정보",
+      "source_url": "https://msd.seoultech.ac.kr/information/employment",
+      "url": "https://msd.seoultech.ac.kr/information/employment?do=view&profboardidx=0&bnum=2277&bidx=545997&cate=7&allboard=false&nowpage=1",
+      "published_date": "2024-05-03",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": null,
+      "last_attempt_result": "PARTIAL",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FAILED",
+      "attachments": []
+    },
+    {
+      "id": 239,
+      "title": "서울시립대학교 평생교육원 핵심인재양성 교육과정 (서울교통공사 임직원 대상) 전담 운영 팀장 채용 공고",
+      "university": "uos",
+      "university_name": "서울시립대학교",
+      "employer": "서울시립대학교",
+      "employer_review": false,
+      "source_name": "현재 페이지 1",
+      "source_url": "https://research.uos.ac.kr/notice?field_notice_category_target_id=209",
+      "url": "https://research.uos.ac.kr/node/4534",
+      "published_date": "2023-12-21",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2023-12-21",
+      "close_at": null,
+      "close_date": "2023-12-28",
+      "verified_at": "2026-11-06T10:17:14.861478+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": false,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": [
+        {
+          "name": "[붙임1] 채용공고문.hwp",
+          "url": "https://research.uos.ac.kr/sites/default/files/2023-12/%5B%EB%B6%99%EC%9E%841%5D%20%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0%EB%AC%B8.hwp"
+        },
+        {
+          "name": "[붙임2] 채용지원서 양식.hwp",
+          "url": "https://research.uos.ac.kr/sites/default/files/2023-12/%5B%EB%B6%99%EC%9E%842%5D%20%EC%B1%84%EC%9A%A9%EC%A7%80%EC%9B%90%EC%84%9C%20%EC%96%91%EC%8B%9D.hwp"
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "title": "이티에스소프트(주) 직원 채용 공고",
+      "university": "seoultech",
+      "university_name": "서울과학기술대학교",
+      "employer": "이티에스소프트(주)",
+      "employer_review": true,
+      "source_name": "취업정보",
+      "source_url": "https://msd.seoultech.ac.kr/information/employment",
+      "url": "https://msd.seoultech.ac.kr/information/employment?do=view&profboardidx=0&bnum=2277&bidx=541234&cate=7&allboard=false&nowpage=1",
+      "published_date": "2023-12-07",
+      "job_type": "직원·행정",
+      "region": "서울",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": "2026-11-06T10:13:03.256127+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 213,
+      "title": "근로복지공단 동해어린이집 보육교직원 채용 공고",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원대학교",
+      "employer_review": true,
+      "source_name": "해군1함대 사랑Dream 어린이집 교직원 채용 2025.11.10",
+      "source_url": "https://ece.gwnu.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzIxMzU2JTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.gwnu.ac.kr/bbs/ece/208/252000/artclView.do",
+      "published_date": "2023-11-24",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": "2026-11-06T09:58:19.036099+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 209,
+      "title": "근로복지공단 동해어린이집 보육교직원 채용 공고",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원대학교",
+      "employer_review": true,
+      "source_name": "강원특별자치도자연학습원 직원 공개 채용 강원특별자치도 자연학습원 유아 기후환경교육관에서는 유아교육담당자를 공개 채용하오니유아 환경교육 분야의 전문성과 역량을 갖춘 분의 많은 관심과 지원 바랍니다.2026년 1월 5일강원 2026.01.12",
+      "source_url": "https://ece.kangwon.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzI1MjAxJTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.kangwon.ac.kr/bbs/ece/208/252000/artclView.do",
+      "published_date": "2023-11-24",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": "2026-11-06T09:57:41.449956+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 205,
+      "title": "근로복지공단 동해어린이집 보육교직원 채용 공고",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원대학교",
+      "employer_review": true,
+      "source_name": "강원특별자치도자연학습원 직원 공개 채용 강원특별자치도 자연학습원 유아 기후환경교육관에서는 유아교육담당자를 공개 채용하오니유아 환경교육 분야의 전문성과 역량을 갖춘 분의 많은 관심과 지원 바랍니다.2026년 1월 5일강원 2026.01.12",
+      "source_url": "https://ece.gwnu.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzI1MjAxJTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.gwnu.ac.kr/bbs/ece/208/252000/artclView.do",
+      "published_date": "2023-11-24",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": "2026-11-06T09:57:11.117096+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 201,
+      "title": "근로복지공단 동해어린이집 보육교직원 채용 공고",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원대학교",
+      "employer_review": true,
+      "source_name": "강릉원주대학교 해람어린이집 보육교직원 모집 공고 2025.11.17",
+      "source_url": "https://ece.kangwon.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzIyMTE3JTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.kangwon.ac.kr/bbs/ece/208/252000/artclView.do",
+      "published_date": "2023-11-24",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": "2026-11-06T09:56:40.876911+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 197,
+      "title": "근로복지공단 동해어린이집 보육교직원 채용 공고",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원대학교",
+      "employer_review": true,
+      "source_name": "강릉원주대학교 해람어린이집 보육교직원 모집 공고 2025.11.17",
+      "source_url": "https://ece.gwnu.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzIyMTE3JTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.gwnu.ac.kr/bbs/ece/208/252000/artclView.do",
+      "published_date": "2023-11-24",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": "2026-11-06T09:56:10.573631+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 214,
+      "title": "2023년 강릉원주대학교 해람어린이집 교사 채용공고",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원대학교",
+      "employer_review": true,
+      "source_name": "해군1함대 사랑Dream 어린이집 교직원 채용 2025.11.10",
+      "source_url": "https://ece.gwnu.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzIxMzU2JTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.gwnu.ac.kr/bbs/ece/208/27273/artclView.do",
+      "published_date": "2022-12-14",
+      "job_type": "직군 미상",
+      "region": "강원",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2022-12-26",
+      "close_at": null,
+      "close_date": "2023-01-04",
+      "verified_at": "2026-11-06T09:58:24.872378+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": [
+        {
+          "name": "2023년 교사 채용공고.hwp",
+          "url": "https://ece.gwnu.ac.kr/bbs/ece/208/33491/download.do"
+        },
+        {
+          "name": "보육교직원_이력서_및_자기소개서.hwp",
+          "url": "https://ece.gwnu.ac.kr/bbs/ece/208/33492/download.do"
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "title": "2023년 강릉원주대학교 해람어린이집 교사 채용공고",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원대학교",
+      "employer_review": true,
+      "source_name": "강원특별자치도자연학습원 직원 공개 채용 강원특별자치도 자연학습원 유아 기후환경교육관에서는 유아교육담당자를 공개 채용하오니유아 환경교육 분야의 전문성과 역량을 갖춘 분의 많은 관심과 지원 바랍니다.2026년 1월 5일강원 2026.01.12",
+      "source_url": "https://ece.kangwon.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzI1MjAxJTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.kangwon.ac.kr/bbs/ece/208/27273/artclView.do",
+      "published_date": "2022-12-14",
+      "job_type": "직군 미상",
+      "region": "강원",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2022-12-26",
+      "close_at": null,
+      "close_date": "2023-01-04",
+      "verified_at": "2026-11-06T09:57:47.264669+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": [
+        {
+          "name": "2023년 교사 채용공고.hwp",
+          "url": "https://ece.kangwon.ac.kr/bbs/ece/208/33491/download.do"
+        },
+        {
+          "name": "보육교직원_이력서_및_자기소개서.hwp",
+          "url": "https://ece.kangwon.ac.kr/bbs/ece/208/33492/download.do"
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "title": "2023년 강릉원주대학교 해람어린이집 교사 채용공고",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원대학교",
+      "employer_review": true,
+      "source_name": "강원특별자치도자연학습원 직원 공개 채용 강원특별자치도 자연학습원 유아 기후환경교육관에서는 유아교육담당자를 공개 채용하오니유아 환경교육 분야의 전문성과 역량을 갖춘 분의 많은 관심과 지원 바랍니다.2026년 1월 5일강원 2026.01.12",
+      "source_url": "https://ece.gwnu.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzI1MjAxJTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.gwnu.ac.kr/bbs/ece/208/27273/artclView.do",
+      "published_date": "2022-12-14",
+      "job_type": "직군 미상",
+      "region": "강원",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2022-12-26",
+      "close_at": null,
+      "close_date": "2023-01-04",
+      "verified_at": "2026-11-06T09:57:16.955228+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": [
+        {
+          "name": "2023년 교사 채용공고.hwp",
+          "url": "https://ece.gwnu.ac.kr/bbs/ece/208/33491/download.do"
+        },
+        {
+          "name": "보육교직원_이력서_및_자기소개서.hwp",
+          "url": "https://ece.gwnu.ac.kr/bbs/ece/208/33492/download.do"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "title": "2023년 강릉원주대학교 해람어린이집 교사 채용공고",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원대학교",
+      "employer_review": true,
+      "source_name": "강릉원주대학교 해람어린이집 보육교직원 모집 공고 2025.11.17",
+      "source_url": "https://ece.kangwon.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzIyMTE3JTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.kangwon.ac.kr/bbs/ece/208/27273/artclView.do",
+      "published_date": "2022-12-14",
+      "job_type": "직군 미상",
+      "region": "강원",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2022-12-26",
+      "close_at": null,
+      "close_date": "2023-01-04",
+      "verified_at": "2026-11-06T09:56:46.658390+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": [
+        {
+          "name": "2023년 교사 채용공고.hwp",
+          "url": "https://ece.kangwon.ac.kr/bbs/ece/208/33491/download.do"
+        },
+        {
+          "name": "보육교직원_이력서_및_자기소개서.hwp",
+          "url": "https://ece.kangwon.ac.kr/bbs/ece/208/33492/download.do"
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "title": "2023년 강릉원주대학교 해람어린이집 교사 채용공고",
+      "university": "kangwon",
+      "university_name": "강원대학교",
+      "employer": "강원대학교",
+      "employer_review": true,
+      "source_name": "강릉원주대학교 해람어린이집 보육교직원 모집 공고 2025.11.17",
+      "source_url": "https://ece.gwnu.ac.kr/ece/482/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZWNlJTJGMjA4JTJGMzIyMTE3JTJGYXJ0Y2xWaWV3LmRvJTNG",
+      "url": "https://ece.gwnu.ac.kr/bbs/ece/208/27273/artclView.do",
+      "published_date": "2022-12-14",
+      "job_type": "직군 미상",
+      "region": "강원",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2022-12-26",
+      "close_at": null,
+      "close_date": "2023-01-04",
+      "verified_at": "2026-11-06T09:56:16.362252+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": [
+        {
+          "name": "2023년 교사 채용공고.hwp",
+          "url": "https://ece.gwnu.ac.kr/bbs/ece/208/33491/download.do"
+        },
+        {
+          "name": "보육교직원_이력서_및_자기소개서.hwp",
+          "url": "https://ece.gwnu.ac.kr/bbs/ece/208/33492/download.do"
         }
       ]
     },
@@ -9937,7 +12048,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-06T09:04:41.199016+00:00",
+      "verified_at": "2026-11-06T10:07:13.792439+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
