@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T05:04:31.716341+00:00",
+  "generated_at": "2026-11-07T11:17:28.153752+00:00",
   "timezone": "Asia/Seoul",
   "freshness_hours": 24,
   "scope_note": "전국 공개 게시판 연결을 확대하고 있습니다. 등록 대학과 실제 확인 게시판은 다르며, 전국 모든 공고의 수집 완료를 뜻하지 않습니다.",
@@ -423,7 +423,7 @@
       "url": "https://new.gwnu.ac.kr/kr/7897/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T22:12:38.110768+00:00",
-      "last_success_at": "2026-11-07T04:17:04.482627+00:00",
+      "last_success_at": "2026-11-07T10:27:04.201781+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -449,7 +449,7 @@
       "url": "https://new.gwnu.ac.kr/kr/7924/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T04:52:56.418636+00:00",
-      "last_success_at": "2026-11-07T04:17:47.440059+00:00",
+      "last_success_at": "2026-11-07T10:27:47.012835+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -462,7 +462,7 @@
       "url": "https://new.kangwon.ac.kr/kr/7924/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T05:02:38.974061+00:00",
-      "last_success_at": "2026-11-07T04:17:51.049656+00:00",
+      "last_success_at": "2026-11-07T10:27:50.637191+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -475,7 +475,7 @@
       "url": "https://www.gwnu.ac.kr/kr/7924/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T16:03:59.582222+00:00",
-      "last_success_at": "2026-11-07T04:17:54.689969+00:00",
+      "last_success_at": "2026-11-07T10:27:54.211438+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -488,7 +488,7 @@
       "url": "https://new.gwnu.ac.kr/kr/7898/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T22:12:55.539732+00:00",
-      "last_success_at": "2026-11-07T04:17:58.370236+00:00",
+      "last_success_at": "2026-11-07T10:27:57.809202+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -527,7 +527,7 @@
       "url": "https://new.gwnu.ac.kr/kr/7903/subview.do",
       "auto": true,
       "verified_at": "2026-11-07T04:12:31.513230+00:00",
-      "last_success_at": "2026-11-07T04:19:02.481823+00:00",
+      "last_success_at": "2026-11-07T10:29:01.952295+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -540,7 +540,20 @@
       "url": "https://www.gw.ac.kr/de/department/security/community/faq",
       "auto": true,
       "verified_at": "2026-11-06T05:03:44.729913+00:00",
-      "last_success_at": "2026-11-07T04:19:05.876145+00:00",
+      "last_success_at": "2026-11-07T10:29:05.342936+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 419,
+      "university": "gw",
+      "university_name": "강원도립대학교",
+      "name": "Ocean Cooker",
+      "organization": "강원도립대학교",
+      "kind": "학과·단과대학",
+      "url": "https://www.gw.ac.kr/de/department/food/community/ocean",
+      "auto": true,
+      "verified_at": "2026-11-07T10:21:38.793474+00:00",
+      "last_success_at": "2026-11-07T10:29:08.434084+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -555,6 +568,19 @@
       "verified_at": "2026-11-06T05:04:25.730373+00:00",
       "last_success_at": null,
       "last_attempt_result": "NOT_RUN"
+    },
+    {
+      "id": 413,
+      "university": "gw",
+      "university_name": "강원도립대학교",
+      "name": "The Coffee",
+      "organization": "강원도립대학교",
+      "kind": "학과·단과대학",
+      "url": "https://www.gw.ac.kr/de/department/food/community/coffee",
+      "auto": true,
+      "verified_at": "2026-11-07T10:20:05.605546+00:00",
+      "last_success_at": "2026-11-07T10:29:11.528745+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 213,
@@ -644,6 +670,19 @@
       "url": "https://www.gw.ac.kr/de/department/food/community/notice",
       "auto": false,
       "verified_at": "2026-11-07T04:13:12.219054+00:00",
+      "last_success_at": null,
+      "last_attempt_result": "NOT_RUN"
+    },
+    {
+      "id": 460,
+      "university": "gw",
+      "university_name": "강원도립대학교",
+      "name": "공지사항",
+      "organization": "강원도립대학교",
+      "kind": "학과·단과대학",
+      "url": "https://www.gw.ac.kr/de/department/socialwelfare/materials/notice",
+      "auto": false,
+      "verified_at": "2026-11-07T10:24:13.490858+00:00",
       "last_success_at": null,
       "last_attempt_result": "NOT_RUN"
     },
@@ -761,7 +800,20 @@
       "url": "https://www.gw.ac.kr/de/department/food/materials/lesson",
       "auto": true,
       "verified_at": "2026-11-07T04:11:04.948444+00:00",
-      "last_success_at": "2026-11-07T04:19:08.951042+00:00",
+      "last_success_at": "2026-11-07T10:29:14.599764+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 472,
+      "university": "gw",
+      "university_name": "강원도립대학교",
+      "name": "수업자료실",
+      "organization": "강원도립대학교",
+      "kind": "학과·단과대학",
+      "url": "https://www.gw.ac.kr/de/department/socialwelfare/materials/lesson",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:36.936388+00:00",
+      "last_success_at": "2026-11-07T10:29:17.682726+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -774,7 +826,7 @@
       "url": "https://www.gw.ac.kr/de/department/security/community",
       "auto": true,
       "verified_at": "2026-11-06T04:51:22.873147+00:00",
-      "last_success_at": "2026-11-07T04:19:12.038169+00:00",
+      "last_success_at": "2026-11-07T10:29:20.754830+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -865,7 +917,7 @@
       "url": "https://www.gw.ac.kr/de/department/security/materials/study",
       "auto": true,
       "verified_at": "2026-11-06T09:50:34.120360+00:00",
-      "last_success_at": "2026-11-07T04:19:15.406732+00:00",
+      "last_success_at": "2026-11-07T10:29:24.142493+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -904,8 +956,21 @@
       "url": "https://www.gw.ac.kr/de/department/food/materials",
       "auto": true,
       "verified_at": "2026-11-07T04:10:00.647607+00:00",
-      "last_success_at": "2026-11-07T04:19:18.506769+00:00",
+      "last_success_at": "2026-11-07T10:29:27.207641+00:00",
       "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 448,
+      "university": "gw",
+      "university_name": "강원도립대학교",
+      "name": "학과자료실",
+      "organization": "강원도립대학교",
+      "kind": "학과·단과대학",
+      "url": "https://www.gw.ac.kr/de/department/socialwelfare/materials",
+      "auto": false,
+      "verified_at": "2026-11-07T10:23:40.899899+00:00",
+      "last_success_at": null,
+      "last_attempt_result": "NOT_RUN"
     },
     {
       "id": 379,
@@ -917,7 +982,7 @@
       "url": "https://www.gw.ac.kr/de/department/food/materials/study",
       "auto": true,
       "verified_at": "2026-11-07T04:11:46.601737+00:00",
-      "last_success_at": "2026-11-07T04:19:21.586845+00:00",
+      "last_success_at": "2026-11-07T10:29:30.297827+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -956,7 +1021,7 @@
       "url": "https://knu.ac.kr/wbbs/wbbs/bbs/btin/list.action?bbs_cde=32&menu_idx=221",
       "auto": true,
       "verified_at": "2026-11-06T22:08:49.951359+00:00",
-      "last_success_at": "2026-11-07T04:20:55.001162+00:00",
+      "last_success_at": "2026-11-07T10:31:03.722556+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -982,7 +1047,7 @@
       "url": "https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/list.action?bbs_cde=1&menu_idx=67",
       "auto": true,
       "verified_at": "2026-11-06T05:03:15.025909+00:00",
-      "last_success_at": "2026-11-07T04:21:25.233442+00:00",
+      "last_success_at": "2026-11-07T10:31:33.970720+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -995,7 +1060,7 @@
       "url": "https://www.knu.ac.kr/wbbs/wbbs/main/main.action",
       "auto": true,
       "verified_at": "2026-11-07T04:13:37.169552+00:00",
-      "last_success_at": "2026-11-07T04:21:28.572652+00:00",
+      "last_success_at": "2026-11-07T10:31:37.247639+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1008,7 +1073,7 @@
       "url": "https://iac.knu.ac.kr/Notice?menuId=MENU_0000000333",
       "auto": true,
       "verified_at": "2026-11-06T05:07:30.261841+00:00",
-      "last_success_at": "2026-11-07T04:21:32.279122+00:00",
+      "last_success_at": "2026-11-07T10:31:40.964220+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1025,6 +1090,19 @@
       "last_attempt_result": "PARTIAL"
     },
     {
+      "id": 450,
+      "university": "knu",
+      "university_name": "경북대학교",
+      "name": "인포그래픽",
+      "organization": "경북대학교",
+      "kind": "일반 공지",
+      "url": "https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/list.action?bbs_cde=33&menu_idx=222",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:48.795114+00:00",
+      "last_success_at": "2026-11-07T10:32:02.259953+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
       "id": 359,
       "university": "knu",
       "university_name": "경북대학교",
@@ -1034,7 +1112,7 @@
       "url": "https://iac.knu.ac.kr/changup/Board?menuId=MENU_CHANGUP0051",
       "auto": true,
       "verified_at": "2026-11-06T22:13:09.812995+00:00",
-      "last_success_at": "2026-11-07T04:21:54.110126+00:00",
+      "last_success_at": "2026-11-07T10:32:05.952046+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1060,6 +1138,32 @@
       "url": "https://www.gnu.ac.kr/main/na/ntt/selectNttList.do?bbsId=1028&mi=1126",
       "auto": false,
       "verified_at": "2026-11-06T05:06:28.682856+00:00",
+      "last_success_at": null,
+      "last_attempt_result": "NOT_RUN"
+    },
+    {
+      "id": 442,
+      "university": "police",
+      "university_name": "경찰대학",
+      "name": "FAQ",
+      "organization": "경찰대학",
+      "kind": "산학협력단",
+      "url": "https://sanhak.police.ac.kr/police/industry/master/35/boardList.do?mdex=industry15",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:27.982198+00:00",
+      "last_success_at": "2026-11-07T10:32:09.079274+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 455,
+      "university": "police",
+      "university_name": "경찰대학",
+      "name": "Q&A",
+      "organization": "경찰대학",
+      "kind": "산학협력단",
+      "url": "https://sanhak.police.ac.kr/police/industry/master/36/boardList.do?mdex=industry16",
+      "auto": false,
+      "verified_at": "2026-11-07T10:23:57.894508+00:00",
       "last_success_at": null,
       "last_attempt_result": "NOT_RUN"
     },
@@ -1103,6 +1207,19 @@
       "last_attempt_result": "NOT_RUN"
     },
     {
+      "id": 424,
+      "university": "police",
+      "university_name": "경찰대학",
+      "name": "공지사항",
+      "organization": "경찰대학",
+      "kind": "산학협력단",
+      "url": "https://sanhak.police.ac.kr/police/industry/master/33/boardList.do?mdex=industry13",
+      "auto": false,
+      "verified_at": "2026-11-07T10:21:59.814449+00:00",
+      "last_success_at": null,
+      "last_attempt_result": "NOT_RUN"
+    },
+    {
       "id": 339,
       "university": "police",
       "university_name": "경찰대학",
@@ -1112,6 +1229,32 @@
       "url": "https://knpo.police.ac.kr/police/posori/master/18/boardList.do?mdex=posori20",
       "auto": false,
       "verified_at": "2026-11-06T22:11:39.965921+00:00",
+      "last_success_at": null,
+      "last_attempt_result": "NOT_RUN"
+    },
+    {
+      "id": 465,
+      "university": "police",
+      "university_name": "경찰대학",
+      "name": "법령 및 규정",
+      "organization": "경찰대학",
+      "kind": "산학협력단",
+      "url": "https://sanhak.police.ac.kr/police/industry/master/37/boardList.do?mdex=industry26",
+      "auto": false,
+      "verified_at": "2026-11-07T10:24:27.601030+00:00",
+      "last_success_at": null,
+      "last_attempt_result": "NOT_RUN"
+    },
+    {
+      "id": 431,
+      "university": "police",
+      "university_name": "경찰대학",
+      "name": "신규사업공고",
+      "organization": "경찰대학",
+      "kind": "산학협력단",
+      "url": "https://sanhak.police.ac.kr/police/industry/master/34/boardList.do?mdex=industry14",
+      "auto": false,
+      "verified_at": "2026-11-07T10:22:52.692788+00:00",
       "last_success_at": null,
       "last_attempt_result": "NOT_RUN"
     },
@@ -1138,6 +1281,19 @@
       "url": "https://knpo.police.ac.kr/police/posori/master/13/boardList.do?mdex=posori13",
       "auto": false,
       "verified_at": "2026-11-06T16:09:37.602170+00:00",
+      "last_success_at": null,
+      "last_attempt_result": "NOT_RUN"
+    },
+    {
+      "id": 417,
+      "university": "police",
+      "university_name": "경찰대학",
+      "name": "예ㆍ결산공고",
+      "organization": "경찰대학",
+      "kind": "산학협력단",
+      "url": "https://sanhak.police.ac.kr/police/industry/master/32/boardList.do?mdex=industry5",
+      "auto": false,
+      "verified_at": "2026-11-07T10:21:04.151052+00:00",
       "last_success_at": null,
       "last_attempt_result": "NOT_RUN"
     },
@@ -1181,6 +1337,32 @@
       "last_attempt_result": "NOT_RUN"
     },
     {
+      "id": 478,
+      "university": "police",
+      "university_name": "경찰대학",
+      "name": "협약서관련",
+      "organization": "경찰대학",
+      "kind": "산학협력단",
+      "url": "https://sanhak.police.ac.kr/police/industry/master/38/boardList.do?mdex=industry27",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:50.614505+00:00",
+      "last_success_at": "2026-11-07T10:32:12.219056+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 462,
+      "university": "gnue",
+      "university_name": "광주교육대학교",
+      "name": "FAQ",
+      "organization": "광주교육대학교",
+      "kind": "일반 공지",
+      "url": "https://acec.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab6fcb578b017030b0b8e70c67&contentUid=4a9f18ab6fcb578b01700a19e4ef238d&contentUid=4a9f18ab6fcb578b01700a19e4ef238d",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:26.140806+00:00",
+      "last_success_at": "2026-11-07T10:32:15.403851+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
       "id": 260,
       "university": "gnue",
       "university_name": "광주교육대학교",
@@ -1203,7 +1385,7 @@
       "url": "https://www.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab5d53940b015d539a94c90037&contentUid=4a9f18ab96e22b860197cdc8445474b1&contentUid=4a9f18ab96e22b860197cdc8445474b1",
       "auto": true,
       "verified_at": "2026-11-06T09:51:54.613278+00:00",
-      "last_success_at": "2026-11-07T04:21:57.420138+00:00",
+      "last_success_at": "2026-11-07T10:32:18.674384+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1216,7 +1398,7 @@
       "url": "https://www.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab95186c07019646d294bf2b7d&contentUid=4a9f18ab9309bc7c0193b4eb341d6938&contentUid=4a9f18ab9309bc7c0193b4eb341d6938",
       "auto": true,
       "verified_at": "2026-11-06T09:53:19.701417+00:00",
-      "last_success_at": "2026-11-07T04:22:00.684127+00:00",
+      "last_success_at": "2026-11-07T10:32:21.915369+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1229,7 +1411,7 @@
       "url": "https://www.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab95186c07019646cd4b532b5c&contentUid=ff8080815bf1bf8b015c0b8dbc0007a2&contentUid=ff8080815bf1bf8b015c0b8dbc0007a2",
       "auto": true,
       "verified_at": "2026-11-06T09:52:31.769890+00:00",
-      "last_success_at": "2026-11-07T04:22:03.929199+00:00",
+      "last_success_at": "2026-11-07T10:32:25.161918+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1242,7 +1424,7 @@
       "url": "https://www.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab6c6b4ee6016d81bcac6c50aa&contentUid=4a9f18ab6c6b4ee6016d81bae28b509a&contentUid=4a9f18ab6c6b4ee6016d81bae28b509a",
       "auto": true,
       "verified_at": "2026-11-06T16:06:22.228318+00:00",
-      "last_success_at": "2026-11-07T04:22:07.215123+00:00",
+      "last_success_at": "2026-11-07T10:32:28.414331+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1255,7 +1437,7 @@
       "url": "https://www.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab5cf30bb3015cf67046f0021f&contentUid=4a9f18ab95186c070196338d676d7e10&contentUid=4a9f18ab95186c070196338d676d7e10",
       "auto": true,
       "verified_at": "2026-11-06T05:07:34.490817+00:00",
-      "last_success_at": "2026-11-07T04:22:10.642536+00:00",
+      "last_success_at": "2026-11-07T10:32:31.834202+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1268,7 +1450,7 @@
       "url": "https://www.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab5d53940b015d539a94c90037&contentUid=4a9f18ab95186c070196b362cb6c0416&contentUid=4a9f18ab95186c070196b362cb6c0416",
       "auto": true,
       "verified_at": "2026-11-06T16:03:51.730758+00:00",
-      "last_success_at": "2026-11-07T04:22:13.918166+00:00",
+      "last_success_at": "2026-11-07T10:32:35.143058+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1281,7 +1463,7 @@
       "url": "https://www.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab5d53940b015d539a2f9e002e&contentUid=4a9f18ab95186c070196338e192d7e16&contentUid=4a9f18ab95186c070196338e192d7e16",
       "auto": true,
       "verified_at": "2026-11-06T16:03:00.337635+00:00",
-      "last_success_at": "2026-11-07T04:22:17.207237+00:00",
+      "last_success_at": "2026-11-07T10:32:38.457878+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1294,7 +1476,46 @@
       "url": "https://www.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab5cf30bb3015cf657af08018a&contentUid=4a9f18ab5c48fe8c015c86270fba023a&contentUid=4a9f18ab5c48fe8c015c86270fba023a",
       "auto": true,
       "verified_at": "2026-11-06T16:07:23.784870+00:00",
-      "last_success_at": "2026-11-07T04:22:20.490393+00:00",
+      "last_success_at": "2026-11-07T10:32:41.727453+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 440,
+      "university": "gnue",
+      "university_name": "광주교육대학교",
+      "name": "총동문회",
+      "organization": "광주교육대학교",
+      "kind": "일반 공지",
+      "url": "https://www.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab96e22b860198076e2be300a8&contentUid=ff8080815bf1bf8b015bf5dc6cd20069&contentUid=ff8080815bf1bf8b015bf5dc6cd20069",
+      "auto": false,
+      "verified_at": "2026-11-07T10:23:26.474719+00:00",
+      "last_success_at": null,
+      "last_attempt_result": "NOT_RUN"
+    },
+    {
+      "id": 454,
+      "university": "gnue",
+      "university_name": "광주교육대학교",
+      "name": "커뮤니티",
+      "organization": "광주교육대학교",
+      "kind": "일반 공지",
+      "url": "https://acec.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab6fcb578b017030b04f560c60&contentUid=4a9f18ab6fcb578b01700a19a77c238a&contentUid=4a9f18ab6fcb578b01700a19a77c238a",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:56.443439+00:00",
+      "last_success_at": "2026-11-07T10:32:44.925084+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 475,
+      "university": "gnue",
+      "university_name": "광주교육대학교",
+      "name": "포토갤러리",
+      "organization": "광주교육대학교",
+      "kind": "일반 공지",
+      "url": "https://acec.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab6fcb578b017030b13b750c71&contentUid=4a9f18ab6fcb578b01700a1a17ff2391&contentUid=4a9f18ab6fcb578b01700a1a17ff2391",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:49.019265+00:00",
+      "last_success_at": "2026-11-07T10:32:48.133171+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1307,7 +1528,7 @@
       "url": "https://www.gnue.ac.kr/planweb/board/list.9is?boardUid=4a9f18ab5d53940b015d539889fd0011&contentUid=4a9f18ab95186c070196338db1267e12&contentUid=4a9f18ab95186c070196338db1267e12",
       "auto": true,
       "verified_at": "2026-11-06T09:55:15.283474+00:00",
-      "last_success_at": "2026-11-07T04:22:23.900338+00:00",
+      "last_success_at": "2026-11-07T10:32:51.555778+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1346,7 +1567,7 @@
       "url": "https://www.gpc.ac.kr/main/page.do?mnu_uid=600",
       "auto": true,
       "verified_at": "2026-11-06T16:07:55.273633+00:00",
-      "last_success_at": "2026-11-07T04:22:27.843282+00:00",
+      "last_success_at": "2026-11-07T10:32:55.489018+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1359,7 +1580,7 @@
       "url": "https://www.gpc.ac.kr/gpcbi/page.do?mnu_uid=193",
       "auto": true,
       "verified_at": "2026-11-06T04:53:12.536300+00:00",
-      "last_success_at": "2026-11-07T04:22:31.564468+00:00",
+      "last_success_at": "2026-11-07T10:32:59.218287+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1372,7 +1593,7 @@
       "url": "https://www.gpc.ac.kr/main/page.do?mnu_uid=705",
       "auto": true,
       "verified_at": "2026-11-06T04:52:45.753205+00:00",
-      "last_success_at": "2026-11-07T04:22:35.635110+00:00",
+      "last_success_at": "2026-11-07T10:33:03.204657+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1385,7 +1606,7 @@
       "url": "https://www.gpc.ac.kr/sanhak/page.do?mnu_uid=179",
       "auto": true,
       "verified_at": "2026-11-06T04:53:07.752722+00:00",
-      "last_success_at": "2026-11-07T04:22:39.364388+00:00",
+      "last_success_at": "2026-11-07T10:33:06.877717+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1398,7 +1619,7 @@
       "url": "https://www.gpc.ac.kr/sanhak/page.do?mnu_uid=181",
       "auto": true,
       "verified_at": "2026-11-07T04:13:13.496777+00:00",
-      "last_success_at": "2026-11-07T04:22:43.061374+00:00",
+      "last_success_at": "2026-11-07T10:33:10.601041+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1411,7 +1632,7 @@
       "url": "https://www.gpc.ac.kr/main/page.do?mnu_uid=604",
       "auto": true,
       "verified_at": "2026-11-06T16:08:57.898051+00:00",
-      "last_success_at": "2026-11-07T04:22:47.107916+00:00",
+      "last_success_at": "2026-11-07T10:33:14.627620+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1437,7 +1658,7 @@
       "url": "https://www.gpc.ac.kr/sanhak/page.do?mnu_uid=163",
       "auto": true,
       "verified_at": "2026-11-07T04:12:55.243968+00:00",
-      "last_success_at": "2026-11-07T04:22:50.784905+00:00",
+      "last_success_at": "2026-11-07T10:33:18.402599+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1463,7 +1684,7 @@
       "url": "https://www.gpc.ac.kr/main/page.do?mnu_uid=629",
       "auto": true,
       "verified_at": "2026-11-06T22:09:08.294319+00:00",
-      "last_success_at": "2026-11-07T04:22:54.676832+00:00",
+      "last_success_at": "2026-11-07T10:33:22.269630+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1476,7 +1697,7 @@
       "url": "https://www.kunsan.ac.kr/board/list.kunsan?boardId=BBS_0001340&contentsSid=8799&cpath=&menuCd=",
       "auto": true,
       "verified_at": "2026-11-07T04:13:36.707994+00:00",
-      "last_success_at": "2026-11-07T04:22:57.863761+00:00",
+      "last_success_at": "2026-11-07T10:33:25.478447+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1489,7 +1710,7 @@
       "url": "https://www.kunsan.ac.kr/board/list.kunsan?boardId=BBS_0000008&contentsSid=211&cpath=&menuCd=DOM_000000105001001000",
       "auto": true,
       "verified_at": "2026-11-06T16:09:24.538283+00:00",
-      "last_success_at": "2026-11-07T04:23:01.439390+00:00",
+      "last_success_at": "2026-11-07T10:33:29.012029+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1502,7 +1723,7 @@
       "url": "https://www.kunsan.ac.kr/board/list.kunsan?boardId=BBS_0000006&contentsSid=183&cpath=&menuCd=DOM_000000103007001000",
       "auto": true,
       "verified_at": "2026-11-06T16:06:28.664238+00:00",
-      "last_success_at": "2026-11-07T04:23:04.861386+00:00",
+      "last_success_at": "2026-11-07T10:33:32.461450+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1515,7 +1736,7 @@
       "url": "https://www.kunsan.ac.kr/board/list.kunsan?boardId=BBS_0000735&contentsSid=4256&cpath=&menuCd=DOM_000000107011000000",
       "auto": true,
       "verified_at": "2026-11-07T04:12:20.456909+00:00",
-      "last_success_at": "2026-11-07T04:23:08.080789+00:00",
+      "last_success_at": "2026-11-07T10:33:35.672744+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1528,7 +1749,7 @@
       "url": "https://www.kunsan.ac.kr/board/list.kunsan?boardId=BBS_0000010&contentsSid=213&cpath=&menuCd=DOM_000000105001003000",
       "auto": true,
       "verified_at": "2026-11-06T09:53:44.459417+00:00",
-      "last_success_at": "2026-11-07T04:23:29.401622+00:00",
+      "last_success_at": "2026-11-07T10:33:56.991440+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1541,7 +1762,7 @@
       "url": "https://rise.kunsan.ac.kr/board/post/list.do?boardUid=ff8080819b2a3bd1019ba0246f5b0de3&menuUid=ff8080819b2a3bd1019ba0217add0dd3",
       "auto": true,
       "verified_at": "2026-11-06T09:50:14.482029+00:00",
-      "last_success_at": "2026-11-07T04:23:32.489174+00:00",
+      "last_success_at": "2026-11-07T10:34:00.086665+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1554,7 +1775,7 @@
       "url": "https://anchor.kunsan.ac.kr/board/post/list.do?boardUid=ff8080819b2a3bd1019ba0246f5b0de3&menuUid=ff8080819b2a3bd1019ba0217add0dd3",
       "auto": true,
       "verified_at": "2026-11-06T09:52:10.473122+00:00",
-      "last_success_at": "2026-11-07T04:23:35.579512+00:00",
+      "last_success_at": "2026-11-07T10:34:03.171046+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1567,7 +1788,7 @@
       "url": "https://www.kunsan.ac.kr/board/list.kunsan?boardId=BBS_0000019&contentsSid=4379&cpath=&menuCd=DOM_000000105007000000",
       "auto": true,
       "verified_at": "2026-11-06T22:12:22.367187+00:00",
-      "last_success_at": "2026-11-07T04:23:42.090495+00:00",
+      "last_success_at": "2026-11-07T10:34:09.684074+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1580,7 +1801,7 @@
       "url": "https://www.kunsan.ac.kr/board/list.kunsan?boardId=BBS_0000009&contentsSid=212&cpath=&menuCd=DOM_000000105001002000",
       "auto": true,
       "verified_at": "2026-11-06T22:08:19.657396+00:00",
-      "last_success_at": "2026-11-07T04:23:45.586571+00:00",
+      "last_success_at": "2026-11-07T10:34:13.233758+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1593,7 +1814,7 @@
       "url": "https://www.kunsan.ac.kr/board/list.kunsan?boardId=BBS_0001333&contentsSid=8762&cpath=&menuCd=DOM_000000103007006000",
       "auto": true,
       "verified_at": "2026-11-06T16:05:30.801881+00:00",
-      "last_success_at": "2026-11-07T04:23:49.049045+00:00",
+      "last_success_at": "2026-11-07T10:34:16.723761+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1606,7 +1827,7 @@
       "url": "https://www.kunsan.ac.kr/board/list.kunsan?boardId=BBS_0000011&contentsSid=214&cpath=&menuCd=DOM_000000105001004000",
       "auto": true,
       "verified_at": "2026-11-06T22:09:29.974851+00:00",
-      "last_success_at": "2026-11-07T04:23:52.529083+00:00",
+      "last_success_at": "2026-11-07T10:34:20.163815+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1619,7 +1840,7 @@
       "url": "https://www.kumoh.ac.kr/ko/sub01_05_03.do",
       "auto": true,
       "verified_at": "2026-11-06T09:50:18.056708+00:00",
-      "last_success_at": "2026-11-07T04:23:56.218366+00:00",
+      "last_success_at": "2026-11-07T10:34:23.786412+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1632,7 +1853,7 @@
       "url": "https://www.kumoh.ac.kr/ko/sub06_01_01_01.do",
       "auto": true,
       "verified_at": "2026-11-06T05:06:58.576297+00:00",
-      "last_success_at": "2026-11-07T04:23:59.649413+00:00",
+      "last_success_at": "2026-11-07T10:34:27.205241+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1645,7 +1866,7 @@
       "url": "https://www.kumoh.ac.kr/ko/sub06_05_02.do",
       "auto": true,
       "verified_at": "2026-11-06T16:03:35.065057+00:00",
-      "last_success_at": "2026-11-07T04:24:04.011775+00:00",
+      "last_success_at": "2026-11-07T10:34:30.514626+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1658,7 +1879,20 @@
       "url": "https://cam.kumoh.ac.kr/cam/sub0801.do",
       "auto": true,
       "verified_at": "2026-11-07T04:12:05.587477+00:00",
-      "last_success_at": "2026-11-07T04:24:07.312451+00:00",
+      "last_success_at": "2026-11-07T10:34:33.783801+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 461,
+      "university": "kumoh",
+      "university_name": "국립금오공과대학교",
+      "name": "공지사항",
+      "organization": "국립금오공과대학교",
+      "kind": "일반 공지",
+      "url": "https://tec.kumoh.ac.kr/tec/sub0801.do",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:25.976285+00:00",
+      "last_success_at": "2026-11-07T10:34:37.166924+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1671,7 +1905,20 @@
       "url": "https://cam.kumoh.ac.kr/ko/sub06_01_01_03.do",
       "auto": true,
       "verified_at": "2026-11-07T04:12:56.817718+00:00",
-      "last_success_at": "2026-11-07T04:24:13.518752+00:00",
+      "last_success_at": "2026-11-07T10:34:43.372040+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 474,
+      "university": "kumoh",
+      "university_name": "국립금오공과대학교",
+      "name": "금오공지 더보기",
+      "organization": "국립금오공과대학교",
+      "kind": "일반 공지",
+      "url": "https://tec.kumoh.ac.kr/ko/sub06_01_01_03.do",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:48.800071+00:00",
+      "last_success_at": "2026-11-07T10:34:49.576847+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1684,7 +1931,7 @@
       "url": "https://cam.kumoh.ac.kr/cam/sub030103.do",
       "auto": true,
       "verified_at": "2026-11-06T22:11:16.577256+00:00",
-      "last_success_at": "2026-11-07T04:24:16.672629+00:00",
+      "last_success_at": "2026-11-07T10:34:52.737744+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1697,7 +1944,7 @@
       "url": "https://tec.kumoh.ac.kr/tec/sub030103.do",
       "auto": true,
       "verified_at": "2026-11-07T04:14:02.778126+00:00",
-      "last_success_at": "2026-11-07T04:24:19.828406+00:00",
+      "last_success_at": "2026-11-07T10:34:55.885596+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1710,7 +1957,20 @@
       "url": "https://cam.kumoh.ac.kr/cam/sub0702.do",
       "auto": true,
       "verified_at": "2026-11-07T04:11:20.409151+00:00",
-      "last_success_at": "2026-11-07T04:24:22.967531+00:00",
+      "last_success_at": "2026-11-07T10:34:59.022720+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 453,
+      "university": "kumoh",
+      "university_name": "국립금오공과대학교",
+      "name": "서식자료실",
+      "organization": "국립금오공과대학교",
+      "kind": "일반 공지",
+      "url": "https://tec.kumoh.ac.kr/tec/sub0702.do",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:53.252004+00:00",
+      "last_success_at": "2026-11-07T10:35:02.175280+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1723,7 +1983,7 @@
       "url": "https://cam.kumoh.ac.kr/cam/sub0901.do",
       "auto": true,
       "verified_at": "2026-11-07T04:12:41.366664+00:00",
-      "last_success_at": "2026-11-07T04:24:26.160837+00:00",
+      "last_success_at": "2026-11-07T10:35:05.380163+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1736,7 +1996,7 @@
       "url": "https://www.kumoh.ac.kr/ko/sub02_03_05.do",
       "auto": true,
       "verified_at": "2026-11-06T09:52:46.313235+00:00",
-      "last_success_at": "2026-11-07T04:24:29.440275+00:00",
+      "last_success_at": "2026-11-07T10:35:08.710905+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1779,6 +2039,19 @@
       "last_attempt_result": "NOT_RUN"
     },
     {
+      "id": 429,
+      "university": "kumoh",
+      "university_name": "국립금오공과대학교",
+      "name": "학사관련Q&A",
+      "organization": "국립금오공과대학교",
+      "kind": "일반 공지",
+      "url": "https://tec.kumoh.ac.kr/tec/sub0411.do",
+      "auto": false,
+      "verified_at": "2026-11-07T10:22:47.768681+00:00",
+      "last_success_at": null,
+      "last_attempt_result": "NOT_RUN"
+    },
+    {
       "id": 180,
       "university": "mokpo",
       "university_name": "국립목포대학교",
@@ -1788,7 +2061,7 @@
       "url": "https://damyang.mokpo.ac.kr/rep/use/personalBoard.do",
       "auto": true,
       "verified_at": "2026-11-06T09:51:54.936714+00:00",
-      "last_success_at": "2026-11-07T04:25:36.365756+00:00",
+      "last_success_at": "2026-11-07T10:36:15.651642+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1801,7 +2074,7 @@
       "url": "https://damyang.mokpo.ac.kr/rep/community/news/notice.do",
       "auto": true,
       "verified_at": "2026-11-06T05:07:02.018638+00:00",
-      "last_success_at": "2026-11-07T04:25:39.886138+00:00",
+      "last_success_at": "2026-11-07T10:36:19.005504+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1814,7 +2087,7 @@
       "url": "https://damyang.mokpo.ac.kr/rep/community/want.do",
       "auto": true,
       "verified_at": "2026-11-06T09:49:44.145380+00:00",
-      "last_success_at": "2026-11-07T04:25:43.263230+00:00",
+      "last_success_at": "2026-11-07T10:36:22.270960+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1827,7 +2100,7 @@
       "url": "https://counseling.pknu.ac.kr/counseling/3745",
       "auto": true,
       "verified_at": "2026-11-06T22:09:23.307966+00:00",
-      "last_success_at": "2026-11-07T04:25:47.876886+00:00",
+      "last_success_at": "2026-11-07T10:36:26.927923+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1853,7 +2126,7 @@
       "url": "https://counseling.pknu.ac.kr/counseling/3733",
       "auto": true,
       "verified_at": "2026-11-06T22:08:06.856978+00:00",
-      "last_success_at": "2026-11-07T04:26:01.934949+00:00",
+      "last_success_at": "2026-11-07T10:36:41.028447+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1866,7 +2139,7 @@
       "url": "https://www.pknu.ac.kr/main/140",
       "auto": true,
       "verified_at": "2026-11-06T09:54:37.858162+00:00",
-      "last_success_at": "2026-11-07T04:26:05.414801+00:00",
+      "last_success_at": "2026-11-07T10:36:44.543780+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1892,7 +2165,20 @@
       "url": "https://counseling.pknu.ac.kr/counseling/3746",
       "auto": true,
       "verified_at": "2026-11-06T22:10:12.613138+00:00",
-      "last_success_at": "2026-11-07T04:26:16.047421+00:00",
+      "last_success_at": "2026-11-07T10:36:55.146491+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 439,
+      "university": "pknu",
+      "university_name": "국립부경대학교",
+      "name": "자료실",
+      "organization": "국립부경대학교",
+      "kind": "일반 공지",
+      "url": "https://support.pknu.ac.kr/support/4675",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:25.948007+00:00",
+      "last_success_at": "2026-11-07T10:36:59.060183+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1905,7 +2191,20 @@
       "url": "https://www.pknu.ac.kr/main/141",
       "auto": true,
       "verified_at": "2026-11-06T09:53:34.799309+00:00",
-      "last_success_at": "2026-11-07T04:26:19.536951+00:00",
+      "last_success_at": "2026-11-07T10:37:02.595020+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 452,
+      "university": "pknu",
+      "university_name": "국립부경대학교",
+      "name": "자유게시판",
+      "organization": "국립부경대학교",
+      "kind": "일반 공지",
+      "url": "https://support.pknu.ac.kr/support/4677",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:52.987217+00:00",
+      "last_success_at": "2026-11-07T10:37:06.106388+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1931,7 +2230,7 @@
       "url": "https://www.pknu.ac.kr/main/8",
       "auto": true,
       "verified_at": "2026-11-06T16:01:22.277667+00:00",
-      "last_success_at": "2026-11-07T04:26:50.937941+00:00",
+      "last_success_at": "2026-11-07T10:37:37.514491+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1944,7 +2243,7 @@
       "url": "https://genhr.pknu.ac.kr/genhr/6690",
       "auto": true,
       "verified_at": "2026-11-06T16:07:20.446929+00:00",
-      "last_success_at": "2026-11-07T04:26:55.495641+00:00",
+      "last_success_at": "2026-11-07T10:37:42.024571+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1957,7 +2256,7 @@
       "url": "https://icee.pknu.ac.kr/icee/6622",
       "auto": true,
       "verified_at": "2026-11-06T22:13:18.435200+00:00",
-      "last_success_at": "2026-11-07T04:26:59.196865+00:00",
+      "last_success_at": "2026-11-07T10:37:45.717669+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1974,6 +2273,19 @@
       "last_attempt_result": "PARTIAL"
     },
     {
+      "id": 421,
+      "university": "pknu",
+      "university_name": "국립부경대학교",
+      "name": "커뮤니티",
+      "organization": "국립부경대학교",
+      "kind": "일반 공지",
+      "url": "https://support.pknu.ac.kr/support/4674",
+      "auto": true,
+      "verified_at": "2026-11-07T10:22:47.488014+00:00",
+      "last_success_at": "2026-11-07T10:38:00.136333+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
       "id": 349,
       "university": "pknu",
       "university_name": "국립부경대학교",
@@ -1983,7 +2295,7 @@
       "url": "https://icee.pknu.ac.kr/icee/6619",
       "auto": true,
       "verified_at": "2026-11-06T22:12:15.716297+00:00",
-      "last_success_at": "2026-11-07T04:27:13.450486+00:00",
+      "last_success_at": "2026-11-07T10:38:04.646700+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -1996,7 +2308,7 @@
       "url": "https://www.scnu.ac.kr/SCNU/na/ntt/selectNttList.do?bbsId=1021&mi=9097",
       "auto": true,
       "verified_at": "2026-11-07T04:12:57.268870+00:00",
-      "last_success_at": "2026-11-07T04:27:16.613185+00:00",
+      "last_success_at": "2026-11-07T10:38:07.808651+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2022,7 +2334,7 @@
       "url": "https://www.scnu.ac.kr/SCNU/na/ntt/selectNttList.do?bbsId=1023&mi=1068",
       "auto": true,
       "verified_at": "2026-11-06T22:12:47.357458+00:00",
-      "last_success_at": "2026-11-07T04:27:19.690850+00:00",
+      "last_success_at": "2026-11-07T10:38:10.882555+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2035,7 +2347,33 @@
       "url": "https://www.scnu.ac.kr/SCNU/na/ntt/selectNttList.do?bbsId=1030&mi=1076",
       "auto": true,
       "verified_at": "2026-11-07T04:13:26.697086+00:00",
-      "last_success_at": "2026-11-07T04:27:22.775094+00:00",
+      "last_success_at": "2026-11-07T10:38:13.968712+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 476,
+      "university": "scnu",
+      "university_name": "국립순천대학교",
+      "name": "공지사항",
+      "organization": "국립순천대학교",
+      "kind": "일반 공지",
+      "url": "https://www.scnu.ac.kr/SCNU/na/ntt/selectNttList.do?bbsId=3235&mi=6439",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:49.482166+00:00",
+      "last_success_at": "2026-11-07T10:38:17.043296+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 463,
+      "university": "scnu",
+      "university_name": "국립순천대학교",
+      "name": "교육과정편람",
+      "organization": "국립순천대학교",
+      "kind": "일반 공지",
+      "url": "https://www.scnu.ac.kr/haksa/na/ntt/selectNttList.do?bbsId=1158&mi=1424",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:26.576553+00:00",
+      "last_success_at": "2026-11-07T10:38:20.103892+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2048,7 +2386,7 @@
       "url": "https://www.scnu.ac.kr/SCNU/na/ntt/selectNttList.do?bbsId=1040&mi=1131",
       "auto": true,
       "verified_at": "2026-11-06T05:07:12.107565+00:00",
-      "last_success_at": "2026-11-07T04:27:25.985512+00:00",
+      "last_success_at": "2026-11-07T10:38:23.315223+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2065,6 +2403,19 @@
       "last_attempt_result": "PARTIAL"
     },
     {
+      "id": 422,
+      "university": "scnu",
+      "university_name": "국립순천대학교",
+      "name": "외국인/재외국인",
+      "organization": "국립순천대학교",
+      "kind": "일반 공지",
+      "url": "https://www.scnu.ac.kr/iphak/na/ntt/selectNttList.do?bbsId=2487&mi=4979",
+      "auto": true,
+      "verified_at": "2026-11-07T10:21:55.875429+00:00",
+      "last_success_at": "2026-11-07T10:38:56.496716+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
       "id": 315,
       "university": "scnu",
       "university_name": "국립순천대학교",
@@ -2078,6 +2429,19 @@
       "last_attempt_result": "PARTIAL"
     },
     {
+      "id": 430,
+      "university": "scnu",
+      "university_name": "국립순천대학교",
+      "name": "입학도우미",
+      "organization": "국립순천대학교",
+      "kind": "일반 공지",
+      "url": "https://www.scnu.ac.kr/iphak/na/ntt/selectNttList.do?bbsId=1213&mi=1676",
+      "auto": true,
+      "verified_at": "2026-11-07T10:22:48.626601+00:00",
+      "last_success_at": "2026-11-07T10:39:23.675723+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
       "id": 135,
       "university": "scnu",
       "university_name": "국립순천대학교",
@@ -2087,7 +2451,7 @@
       "url": "https://www.scnu.ac.kr/SCNU/na/ntt/selectNttList.do?bbsId=1041&mi=1132",
       "auto": true,
       "verified_at": "2026-11-06T05:07:38.242239+00:00",
-      "last_success_at": "2026-11-07T04:28:23.334837+00:00",
+      "last_success_at": "2026-11-07T10:39:26.790880+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2113,7 +2477,7 @@
       "url": "https://www.changwon.ac.kr/kor/na/ntt/selectNttList.do?bbsId=2932&mi=10177",
       "auto": true,
       "verified_at": "2026-11-06T05:07:15.964332+00:00",
-      "last_success_at": "2026-11-07T04:28:39.138021+00:00",
+      "last_success_at": "2026-11-07T10:39:42.572699+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2126,7 +2490,7 @@
       "url": "https://www.changwon.ac.kr/kor/na/ntt/selectNttList.do?bbsId=2933&mi=10179",
       "auto": true,
       "verified_at": "2026-11-06T05:07:39.041308+00:00",
-      "last_success_at": "2026-11-07T04:28:42.844155+00:00",
+      "last_success_at": "2026-11-07T10:39:46.331637+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2139,7 +2503,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000053/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T04:48:10.418898+00:00",
-      "last_success_at": "2026-11-07T04:28:46.171284+00:00",
+      "last_success_at": "2026-11-07T10:39:49.641437+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2152,7 +2516,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000001422/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T04:49:33.581331+00:00",
-      "last_success_at": "2026-11-07T04:28:49.520463+00:00",
+      "last_success_at": "2026-11-07T10:39:52.969212+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2165,7 +2529,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000985/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T04:48:56.091468+00:00",
-      "last_success_at": "2026-11-07T04:28:52.824757+00:00",
+      "last_success_at": "2026-11-07T10:39:56.233206+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2178,7 +2542,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000079/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T16:03:40.649350+00:00",
-      "last_success_at": "2026-11-07T04:28:56.157158+00:00",
+      "last_success_at": "2026-11-07T10:39:59.582011+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2204,7 +2568,20 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000001542/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T09:50:25.838829+00:00",
-      "last_success_at": "2026-11-07T04:28:59.330368+00:00",
+      "last_success_at": "2026-11-07T10:40:02.740044+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 435,
+      "university": "ut",
+      "university_name": "국립한국교통대학교",
+      "name": "본문 바로가기",
+      "organization": "국립한국교통대학교",
+      "kind": "일반 공지",
+      "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000981/selectBoardList.do",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:10.487616+00:00",
+      "last_success_at": "2026-11-07T10:40:06.121445+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2217,7 +2594,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000001258/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T22:11:42.196417+00:00",
-      "last_success_at": "2026-11-07T04:29:02.670470+00:00",
+      "last_success_at": "2026-11-07T10:40:09.429544+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2230,7 +2607,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000745/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T16:06:09.624590+00:00",
-      "last_success_at": "2026-11-07T04:29:06.019516+00:00",
+      "last_success_at": "2026-11-07T10:40:12.798871+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2256,7 +2633,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000080/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T16:05:10.181247+00:00",
-      "last_success_at": "2026-11-07T04:29:15.657638+00:00",
+      "last_success_at": "2026-11-07T10:40:22.433471+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2269,7 +2646,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000077/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T16:00:33.357865+00:00",
-      "last_success_at": "2026-11-07T04:29:19.026823+00:00",
+      "last_success_at": "2026-11-07T10:40:25.794991+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2282,7 +2659,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000078/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T16:02:32.051540+00:00",
-      "last_success_at": "2026-11-07T04:29:22.332533+00:00",
+      "last_success_at": "2026-11-07T10:40:29.080953+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2295,7 +2672,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000051/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T04:36:35.926401+00:00",
-      "last_success_at": "2026-11-07T04:29:25.662254+00:00",
+      "last_success_at": "2026-11-07T10:40:32.434091+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2321,7 +2698,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000082/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T16:08:31.043554+00:00",
-      "last_success_at": "2026-11-07T04:29:41.302930+00:00",
+      "last_success_at": "2026-11-07T10:40:48.022167+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2334,7 +2711,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000081/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T16:07:17.698599+00:00",
-      "last_success_at": "2026-11-07T04:29:44.687094+00:00",
+      "last_success_at": "2026-11-07T10:40:51.385159+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2347,7 +2724,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000075/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T09:52:22.723812+00:00",
-      "last_success_at": "2026-11-07T04:29:48.000099+00:00",
+      "last_success_at": "2026-11-07T10:40:54.730262+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2360,7 +2737,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000060/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T05:05:02.404756+00:00",
-      "last_success_at": "2026-11-07T04:29:51.394365+00:00",
+      "last_success_at": "2026-11-07T10:40:58.116501+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2373,7 +2750,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000083/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T16:09:09.550199+00:00",
-      "last_success_at": "2026-11-07T04:29:54.737314+00:00",
+      "last_success_at": "2026-11-07T10:41:01.439353+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2386,7 +2763,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000076/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T09:51:45.654345+00:00",
-      "last_success_at": "2026-11-07T04:29:58.048998+00:00",
+      "last_success_at": "2026-11-07T10:41:04.748876+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2399,7 +2776,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000084/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T22:07:18.078784+00:00",
-      "last_success_at": "2026-11-07T04:30:01.390940+00:00",
+      "last_success_at": "2026-11-07T10:41:08.105516+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2412,7 +2789,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000853/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T09:52:58.460086+00:00",
-      "last_success_at": "2026-11-07T04:30:04.685862+00:00",
+      "last_success_at": "2026-11-07T10:41:11.394552+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2425,7 +2802,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000052/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T04:51:18.364440+00:00",
-      "last_success_at": "2026-11-07T04:30:08.022057+00:00",
+      "last_success_at": "2026-11-07T10:41:14.732935+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2438,7 +2815,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000001261/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T22:08:57.299247+00:00",
-      "last_success_at": "2026-11-07T04:30:11.360413+00:00",
+      "last_success_at": "2026-11-07T10:41:18.068482+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2451,7 +2828,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000055/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T04:50:42.645113+00:00",
-      "last_success_at": "2026-11-07T04:30:14.850715+00:00",
+      "last_success_at": "2026-11-07T10:41:21.515398+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2464,7 +2841,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000001322/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T05:03:21.584687+00:00",
-      "last_success_at": "2026-11-07T04:30:18.131085+00:00",
+      "last_success_at": "2026-11-07T10:41:24.786483+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2477,7 +2854,7 @@
       "url": "https://www.ut.ac.kr/cop/bbs/BBSMSTR_000000000061/selectBoardList.do",
       "auto": true,
       "verified_at": "2026-11-06T09:51:15.464070+00:00",
-      "last_success_at": "2026-11-07T04:30:21.526628+00:00",
+      "last_success_at": "2026-11-07T10:41:28.141283+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2503,7 +2880,7 @@
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff80808193e265060193e29e0b500029&menuUid=ff80808193e179bd0193e1c33d560029",
       "auto": true,
       "verified_at": "2026-11-07T04:11:15.409888+00:00",
-      "last_success_at": "2026-11-07T04:30:24.694021+00:00",
+      "last_success_at": "2026-11-07T10:41:31.287512+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2516,7 +2893,7 @@
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff80808193e265060193e2a7809d0036&menuUid=ff80808193e179bd0193e1cdcb7b0056",
       "auto": true,
       "verified_at": "2026-11-06T04:36:05.363178+00:00",
-      "last_success_at": "2026-11-07T04:30:27.831882+00:00",
+      "last_success_at": "2026-11-07T10:41:34.424449+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2529,7 +2906,7 @@
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff808081944e945801945d22baeb01ee&menuUid=ff808081944e945801945d3278480202&orders=registerDt%3ADESC",
       "auto": true,
       "verified_at": "2026-11-06T05:04:21.884755+00:00",
-      "last_success_at": "2026-11-07T04:30:30.990026+00:00",
+      "last_success_at": "2026-11-07T10:41:37.573642+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2542,7 +2919,7 @@
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff80808193e26506019416388cee0fa9&menuUid=ff80808193e179bd0193e1d47b8000be",
       "auto": true,
       "verified_at": "2026-11-06T16:07:59.804862+00:00",
-      "last_success_at": "2026-11-07T04:30:34.152708+00:00",
+      "last_success_at": "2026-11-07T10:41:40.740039+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2555,7 +2932,7 @@
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff808081944e945801945e1a637903ca&menuUid=ff80808193e179bd0193e1fdca9d019c",
       "auto": true,
       "verified_at": "2026-11-06T16:09:08.325168+00:00",
-      "last_success_at": "2026-11-07T04:30:37.337163+00:00",
+      "last_success_at": "2026-11-07T10:41:43.901004+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2568,7 +2945,7 @@
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff808081944e945801945e1c9f4c03d6&menuUid=ff80808193e179bd0193e1ff6e0b01b4",
       "auto": true,
       "verified_at": "2026-11-06T22:11:11.930190+00:00",
-      "last_success_at": "2026-11-07T04:30:40.483964+00:00",
+      "last_success_at": "2026-11-07T10:41:47.046988+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2581,7 +2958,7 @@
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff808081944e945801945e20b11603ec&menuUid=ff80808193e179bd0193e20178c001d2",
       "auto": true,
       "verified_at": "2026-11-06T22:07:39.889974+00:00",
-      "last_success_at": "2026-11-07T04:30:43.645128+00:00",
+      "last_success_at": "2026-11-07T10:41:50.213548+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2594,7 +2971,7 @@
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff808081944e945801945e22b15803f6&menuUid=ff8080819416dec901941a2bc84101c3",
       "auto": true,
       "verified_at": "2026-11-06T22:09:01.272752+00:00",
-      "last_success_at": "2026-11-07T04:30:46.799845+00:00",
+      "last_success_at": "2026-11-07T10:41:53.363653+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2607,7 +2984,7 @@
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff80808193e26506019416301f830f9d&menuUid=ff80808193de90040193e16e62cb0088",
       "auto": true,
       "verified_at": "2026-11-06T22:10:06.854409+00:00",
-      "last_success_at": "2026-11-07T04:30:49.962880+00:00",
+      "last_success_at": "2026-11-07T10:41:56.535668+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2620,7 +2997,20 @@
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff80808193e265060193e2a63cbf0034&menuUid=ff80808193e179bd0193e1cd1a42004d",
       "auto": true,
       "verified_at": "2026-11-07T04:12:40.899250+00:00",
-      "last_success_at": "2026-11-07T04:30:53.096848+00:00",
+      "last_success_at": "2026-11-07T10:41:59.669513+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 428,
+      "university": "af",
+      "university_name": "국립한국농수산대학교",
+      "name": "자료실",
+      "organization": "국립한국농수산대학교",
+      "kind": "일반 공지",
+      "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff8080819416dec90194446aa4771b54&menuUid=ff8080819416dec90194446281fb1b34&orders=registerDt%3ADESC",
+      "auto": true,
+      "verified_at": "2026-11-07T10:22:45.731440+00:00",
+      "last_success_at": "2026-11-07T10:42:02.819713+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2632,8 +3022,8 @@
       "kind": "일반 공지",
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff808081944e94580194871716c42646&menuUid=ff808081944e9458019486424e242434",
       "auto": true,
-      "verified_at": "2026-11-06T04:36:39.674082+00:00",
-      "last_success_at": "2026-11-07T04:30:56.279037+00:00",
+      "verified_at": "2026-11-07T10:21:49.927074+00:00",
+      "last_success_at": "2026-11-07T10:42:05.999655+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2659,7 +3049,20 @@
       "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff808081944e945801944f0404830117&menuUid=ff8080819416dec901943f308e9012c1",
       "auto": true,
       "verified_at": "2026-11-06T05:04:52.249181+00:00",
-      "last_success_at": "2026-11-07T04:31:05.537934+00:00",
+      "last_success_at": "2026-11-07T10:42:15.245817+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 415,
+      "university": "af",
+      "university_name": "국립한국농수산대학교",
+      "name": "학사상담",
+      "organization": "국립한국농수산대학교",
+      "kind": "일반 공지",
+      "url": "https://www.af.ac.kr/board/post/list.do?boardUid=ff80808193e2650601940588c12a0b03&menuUid=ff80808193e2650601940585ac920af8&orders=registerDt%3ADESC",
+      "auto": true,
+      "verified_at": "2026-11-07T10:20:31.707107+00:00",
+      "last_success_at": "2026-11-07T10:42:18.518459+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2685,7 +3088,7 @@
       "url": "https://sanhakrnd.hanbat.ac.kr/bbs/list.php?board_id=bbs0203",
       "auto": true,
       "verified_at": "2026-11-06T09:50:41.101860+00:00",
-      "last_success_at": "2026-11-07T04:31:08.604823+00:00",
+      "last_success_at": "2026-11-07T10:42:21.581568+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2698,7 +3101,7 @@
       "url": "https://sanhakrnd.hanbat.ac.kr/bbs/list.php?board_id=bbs0204",
       "auto": true,
       "verified_at": "2026-11-06T09:51:24.051548+00:00",
-      "last_success_at": "2026-11-07T04:31:11.668312+00:00",
+      "last_success_at": "2026-11-07T10:42:24.643448+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2711,7 +3114,20 @@
       "url": "https://sanhakrnd.hanbat.ac.kr/bbs/list.php?board_id=bbs0403",
       "auto": true,
       "verified_at": "2026-11-06T09:53:16.460527+00:00",
-      "last_success_at": "2026-11-07T04:31:14.765452+00:00",
+      "last_success_at": "2026-11-07T10:42:27.715718+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 444,
+      "university": "hanbat",
+      "university_name": "국립한밭대학교",
+      "name": "공개자료실",
+      "organization": "국립한밭대학교",
+      "kind": "일반 공지",
+      "url": "https://contech.hanbat.ac.kr/sub5/sub503.php",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:38.615606+00:00",
+      "last_success_at": "2026-11-07T10:42:30.758790+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2724,7 +3140,7 @@
       "url": "https://startup.hanbat.ac.kr/_prog/announcement/?menu_dvs_cd=0306&site_dvs_cd=kr",
       "auto": true,
       "verified_at": "2026-11-06T22:11:46.960921+00:00",
-      "last_success_at": "2026-11-07T04:31:17.861457+00:00",
+      "last_success_at": "2026-11-07T10:42:33.856197+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2737,7 +3153,7 @@
       "url": "https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000476/list.do",
       "auto": true,
       "verified_at": "2026-11-06T04:51:21.601305+00:00",
-      "last_success_at": "2026-11-07T04:31:21.072474+00:00",
+      "last_success_at": "2026-11-07T10:42:37.072306+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2763,7 +3179,7 @@
       "url": "https://bi.hanbat.ac.kr/_prog/_board/?code=bi_02&menu_dvs_cd=0401&site_dvs_cd=kr",
       "auto": true,
       "verified_at": "2026-11-06T09:55:11.836079+00:00",
-      "last_success_at": "2026-11-07T04:31:24.268830+00:00",
+      "last_success_at": "2026-11-07T10:42:40.267828+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2776,7 +3192,7 @@
       "url": "https://bi.hanbat.ac.kr/_prog/_board/?code=bi_03&menu_dvs_cd=0402&site_dvs_cd=kr",
       "auto": true,
       "verified_at": "2026-11-06T16:01:18.710493+00:00",
-      "last_success_at": "2026-11-07T04:31:27.428655+00:00",
+      "last_success_at": "2026-11-07T10:42:43.430410+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2789,7 +3205,7 @@
       "url": "https://startup.hanbat.ac.kr/_prog/_board/?code=sub03_0304&menu_dvs_cd=0304&site_dvs_cd=kr",
       "auto": true,
       "verified_at": "2026-11-06T22:09:08.895496+00:00",
-      "last_success_at": "2026-11-07T04:31:30.608363+00:00",
+      "last_success_at": "2026-11-07T10:42:46.607688+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2802,7 +3218,7 @@
       "url": "https://startup.hanbat.ac.kr/_prog/_board/?code=sub03_0312&menu_dvs_cd=0312&site_dvs_cd=kr",
       "auto": true,
       "verified_at": "2026-11-06T16:09:14.542116+00:00",
-      "last_success_at": "2026-11-07T04:31:33.785545+00:00",
+      "last_success_at": "2026-11-07T10:42:49.773443+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2828,7 +3244,7 @@
       "url": "https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000475/list.do",
       "auto": true,
       "verified_at": "2026-11-06T04:36:01.790548+00:00",
-      "last_success_at": "2026-11-07T04:31:36.975892+00:00",
+      "last_success_at": "2026-11-07T10:42:52.979134+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2841,7 +3257,7 @@
       "url": "https://startup.hanbat.ac.kr/_prog/_board/?code=sub03_0303&menu_dvs_cd=0303&site_dvs_cd=kr",
       "auto": true,
       "verified_at": "2026-11-06T22:07:58.606028+00:00",
-      "last_success_at": "2026-11-07T04:31:40.143217+00:00",
+      "last_success_at": "2026-11-07T10:42:56.145046+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2854,7 +3270,7 @@
       "url": "https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000479/list.do",
       "auto": true,
       "verified_at": "2026-11-06T04:48:56.297161+00:00",
-      "last_success_at": "2026-11-07T04:31:43.328468+00:00",
+      "last_success_at": "2026-11-07T10:42:59.335310+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2867,7 +3283,7 @@
       "url": "https://bi.hanbat.ac.kr/_prog/_board/?code=bi_06&menu_dvs_cd=0503&site_dvs_cd=kr",
       "auto": true,
       "verified_at": "2026-11-06T16:06:14.162235+00:00",
-      "last_success_at": "2026-11-07T04:31:46.446483+00:00",
+      "last_success_at": "2026-11-07T10:43:02.443761+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2880,7 +3296,7 @@
       "url": "https://startup.hanbat.ac.kr/_prog/_board/?code=sub03_0310&menu_dvs_cd=0506&site_dvs_cd=kr",
       "auto": true,
       "verified_at": "2026-11-07T04:10:16.755031+00:00",
-      "last_success_at": "2026-11-07T04:31:49.728412+00:00",
+      "last_success_at": "2026-11-07T10:43:05.712373+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2893,7 +3309,7 @@
       "url": "https://sanhakrnd.hanbat.ac.kr/bbs/list.php?board_id=bbs0401",
       "auto": true,
       "verified_at": "2026-11-06T09:51:51.334678+00:00",
-      "last_success_at": "2026-11-07T04:31:52.788855+00:00",
+      "last_success_at": "2026-11-07T10:43:08.776123+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2906,7 +3322,7 @@
       "url": "https://bi.hanbat.ac.kr/_prog/_board/?code=bi_04&menu_dvs_cd=0501&site_dvs_cd=kr",
       "auto": true,
       "verified_at": "2026-11-06T16:03:45.385826+00:00",
-      "last_success_at": "2026-11-07T04:31:55.901018+00:00",
+      "last_success_at": "2026-11-07T10:43:11.893564+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2923,6 +3339,32 @@
       "last_attempt_result": "PARTIAL"
     },
     {
+      "id": 434,
+      "university": "hanbat",
+      "university_name": "국립한밭대학교",
+      "name": "커뮤니티",
+      "organization": "국립한밭대학교",
+      "kind": "유형 확인 중",
+      "url": "https://contech.hanbat.ac.kr/sub5/sub501.php",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:09.853973+00:00",
+      "last_success_at": "2026-11-07T10:43:39.088043+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 480,
+      "university": "hanbat",
+      "university_name": "국립한밭대학교",
+      "name": "커뮤니티",
+      "organization": "국립한밭대학교",
+      "kind": "일반 공지",
+      "url": "https://iucf.hanbat.ac.kr/_prog/_board/?code=iucf_02&menu_dvs_cd=0701&site_dvs_cd=kr",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:58.271469+00:00",
+      "last_success_at": null,
+      "last_attempt_result": "PARTIAL"
+    },
+    {
       "id": 109,
       "university": "hanbat",
       "university_name": "국립한밭대학교",
@@ -2932,7 +3374,20 @@
       "url": "https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000050/list.do",
       "auto": true,
       "verified_at": "2026-11-06T05:04:24.242089+00:00",
-      "last_success_at": "2026-11-07T04:32:23.643857+00:00",
+      "last_success_at": "2026-11-07T10:44:00.816213+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 458,
+      "university": "hanbat",
+      "university_name": "국립한밭대학교",
+      "name": "학사묻고답하기",
+      "organization": "국립한밭대학교",
+      "kind": "일반 공지",
+      "url": "https://contech.hanbat.ac.kr/sub5/sub504.php",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:08.642734+00:00",
+      "last_success_at": "2026-11-07T10:44:03.876158+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2958,7 +3413,7 @@
       "url": "https://www.bnue.ac.kr/board/guide0502",
       "auto": true,
       "verified_at": "2026-11-06T22:08:58.073296+00:00",
-      "last_success_at": "2026-11-07T04:32:26.963400+00:00",
+      "last_success_at": "2026-11-07T10:44:07.162773+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2984,7 +3439,7 @@
       "url": "https://gs.bnue.ac.kr/board/board01",
       "auto": true,
       "verified_at": "2026-11-06T04:52:34.629533+00:00",
-      "last_success_at": "2026-11-07T04:32:30.447501+00:00",
+      "last_success_at": "2026-11-07T10:44:10.642930+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -2997,7 +3452,7 @@
       "url": "https://www.bnue.ac.kr/board/community07",
       "auto": true,
       "verified_at": "2026-11-06T16:03:41.570353+00:00",
-      "last_success_at": "2026-11-07T04:32:33.812243+00:00",
+      "last_success_at": "2026-11-07T10:44:13.985936+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3010,7 +3465,7 @@
       "url": "https://www.bnue.ac.kr/board/community02_02",
       "auto": true,
       "verified_at": "2026-11-06T09:51:20.043010+00:00",
-      "last_success_at": "2026-11-07T04:32:37.051641+00:00",
+      "last_success_at": "2026-11-07T10:44:17.292761+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3023,7 +3478,7 @@
       "url": "https://www.bnue.ac.kr/board/community01_01",
       "auto": true,
       "verified_at": "2026-11-06T04:51:04.523157+00:00",
-      "last_success_at": "2026-11-07T04:32:40.758190+00:00",
+      "last_success_at": "2026-11-07T10:44:21.083407+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3036,7 +3491,7 @@
       "url": "https://www.bnue.ac.kr/board/life05",
       "auto": true,
       "verified_at": "2026-11-06T04:49:16.750335+00:00",
-      "last_success_at": "2026-11-07T04:32:44.090758+00:00",
+      "last_success_at": "2026-11-07T10:44:24.398754+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3049,7 +3504,7 @@
       "url": "https://www.bnue.ac.kr/board/community08_01",
       "auto": true,
       "verified_at": "2026-11-06T16:06:10.486607+00:00",
-      "last_success_at": "2026-11-07T04:32:47.406650+00:00",
+      "last_success_at": "2026-11-07T10:44:27.738587+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3062,7 +3517,7 @@
       "url": "https://www.bnue.ac.kr/board/community02_01",
       "auto": true,
       "verified_at": "2026-11-06T09:50:33.700718+00:00",
-      "last_success_at": "2026-11-07T04:32:53.608065+00:00",
+      "last_success_at": "2026-11-07T10:44:33.992733+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3075,7 +3530,7 @@
       "url": "https://www.bnue.ac.kr/board/intro08_01",
       "auto": true,
       "verified_at": "2026-11-06T04:53:14.699976+00:00",
-      "last_success_at": "2026-11-07T04:32:56.866134+00:00",
+      "last_success_at": "2026-11-07T10:44:37.245144+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3092,6 +3547,32 @@
       "last_attempt_result": "PARTIAL"
     },
     {
+      "id": 437,
+      "university": "bnue",
+      "university_name": "부산교육대학교",
+      "name": "입시FAQ (새 창 열림)",
+      "organization": "부산교육대학교",
+      "kind": "일반 공지",
+      "url": "https://enter.bnue.ac.kr/board/helper03",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:14.168087+00:00",
+      "last_success_at": "2026-11-07T10:44:49.884727+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 447,
+      "university": "bnue",
+      "university_name": "부산교육대학교",
+      "name": "입시정보게시판 (새 창 열림)",
+      "organization": "부산교육대학교",
+      "kind": "일반 공지",
+      "url": "https://enter.bnue.ac.kr/board/helper01",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:39.949798+00:00",
+      "last_success_at": "2026-11-07T10:44:53.291723+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
       "id": 121,
       "university": "bnue",
       "university_name": "부산교육대학교",
@@ -3101,7 +3582,7 @@
       "url": "https://www.bnue.ac.kr/board/community01_05",
       "auto": true,
       "verified_at": "2026-11-06T05:05:06.694679+00:00",
-      "last_success_at": "2026-11-07T04:33:09.549547+00:00",
+      "last_success_at": "2026-11-07T10:44:56.710930+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3114,7 +3595,7 @@
       "url": "https://www.bnue.ac.kr/board/community03_02",
       "auto": true,
       "verified_at": "2026-11-06T09:53:06.561183+00:00",
-      "last_success_at": "2026-11-07T04:33:15.751720+00:00",
+      "last_success_at": "2026-11-07T10:45:02.972555+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3127,7 +3608,7 @@
       "url": "https://www.bnue.ac.kr/board/community01_03",
       "auto": true,
       "verified_at": "2026-11-06T05:04:25.307910+00:00",
-      "last_success_at": "2026-11-07T04:33:19.174062+00:00",
+      "last_success_at": "2026-11-07T10:45:06.513450+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3140,7 +3621,7 @@
       "url": "https://www.bnue.ac.kr/board/life10_02",
       "auto": true,
       "verified_at": "2026-11-06T04:49:41.238202+00:00",
-      "last_success_at": "2026-11-07T04:33:22.511373+00:00",
+      "last_success_at": "2026-11-07T10:45:09.873816+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3153,7 +3634,7 @@
       "url": "https://www.bnue.ac.kr/board/guide0111",
       "auto": true,
       "verified_at": "2026-11-06T16:09:10.372288+00:00",
-      "last_success_at": "2026-11-07T04:33:25.835544+00:00",
+      "last_success_at": "2026-11-07T10:45:13.301970+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3166,7 +3647,7 @@
       "url": "https://www.bnue.ac.kr/board/guide0109",
       "auto": true,
       "verified_at": "2026-11-06T16:08:31.767068+00:00",
-      "last_success_at": "2026-11-07T04:33:29.082418+00:00",
+      "last_success_at": "2026-11-07T10:45:16.565806+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3179,7 +3660,20 @@
       "url": "https://www.bnue.ac.kr/board/guide0108",
       "auto": true,
       "verified_at": "2026-11-06T16:07:18.433890+00:00",
-      "last_success_at": "2026-11-07T04:33:32.359260+00:00",
+      "last_success_at": "2026-11-07T10:45:19.902880+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 471,
+      "university": "bnue",
+      "university_name": "부산교육대학교",
+      "name": "학과게시판",
+      "organization": "부산교육대학교",
+      "kind": "학과·단과대학",
+      "url": "https://www.bnue.ac.kr/board/university01_03",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:36.541570+00:00",
+      "last_success_at": "2026-11-07T10:45:23.185468+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3192,7 +3686,7 @@
       "url": "https://www.bnue.ac.kr/board/community01_02",
       "auto": true,
       "verified_at": "2026-11-06T05:03:38.009158+00:00",
-      "last_success_at": "2026-11-07T04:33:35.720789+00:00",
+      "last_success_at": "2026-11-07T10:45:26.612884+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3205,7 +3699,7 @@
       "url": "https://guidance.bnue.ac.kr/board/noti01",
       "auto": true,
       "verified_at": "2026-11-06T04:53:02.888783+00:00",
-      "last_success_at": "2026-11-07T04:33:39.087674+00:00",
+      "last_success_at": "2026-11-07T10:45:29.978923+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3218,7 +3712,7 @@
       "url": "https://www.bnue.ac.kr/board/community02_03",
       "auto": true,
       "verified_at": "2026-11-06T09:51:50.322041+00:00",
-      "last_success_at": "2026-11-07T04:33:42.350887+00:00",
+      "last_success_at": "2026-11-07T10:45:33.329423+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3231,7 +3725,7 @@
       "url": "https://www.bnue.ac.kr/board/community03_01",
       "auto": true,
       "verified_at": "2026-11-06T09:52:27.206286+00:00",
-      "last_success_at": "2026-11-07T04:33:45.638328+00:00",
+      "last_success_at": "2026-11-07T10:45:36.635988+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3244,7 +3738,7 @@
       "url": "https://www.bnue.ac.kr/board/intro03_05",
       "auto": true,
       "verified_at": "2026-11-06T04:53:11.746204+00:00",
-      "last_success_at": "2026-11-07T04:33:48.907198+00:00",
+      "last_success_at": "2026-11-07T10:45:39.936117+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3261,6 +3755,19 @@
       "last_attempt_result": "PARTIAL"
     },
     {
+      "id": 466,
+      "university": "pusan",
+      "university_name": "부산대학교",
+      "name": "공지/참여",
+      "organization": "부산대학교",
+      "kind": "일반 공지",
+      "url": "https://www.pusan.ac.kr/kor/CMS/Board/Board.do?mCode=MN095",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:32.067460+00:00",
+      "last_success_at": "2026-11-07T10:45:55.594816+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
       "id": 4,
       "university": "pusan",
       "university_name": "부산대학교",
@@ -3272,6 +3779,19 @@
       "verified_at": "2026-11-06T04:49:35.688959+00:00",
       "last_success_at": "2026-11-06T02:24:55.222719+00:00",
       "last_attempt_result": "PARTIAL"
+    },
+    {
+      "id": 443,
+      "university": "pusan",
+      "university_name": "부산대학교",
+      "name": "분실물정보",
+      "organization": "부산대학교",
+      "kind": "일반 공지",
+      "url": "https://www.pusan.ac.kr/kor/CMS/Board/Board.do?mCode=MN100",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:38.267730+00:00",
+      "last_success_at": "2026-11-07T10:51:26.394839+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 16,
@@ -3287,6 +3807,19 @@
       "last_attempt_result": "PARTIAL"
     },
     {
+      "id": 456,
+      "university": "pusan",
+      "university_name": "부산대학교",
+      "name": "숙박정보",
+      "organization": "부산대학교",
+      "kind": "일반 공지",
+      "url": "https://www.pusan.ac.kr/kor/CMS/Board/Board.do?mCode=MN101",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:08.455189+00:00",
+      "last_success_at": "2026-11-07T10:52:03.294994+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
       "id": 143,
       "university": "pusan",
       "university_name": "부산대학교",
@@ -3300,6 +3833,32 @@
       "last_attempt_result": "PARTIAL"
     },
     {
+      "id": 426,
+      "university": "pusan",
+      "university_name": "부산대학교",
+      "name": "학술행사",
+      "organization": "부산대학교",
+      "kind": "일반 공지",
+      "url": "https://www.pusan.ac.kr/kor/CMS/Board/Board.do?mCode=MN077",
+      "auto": true,
+      "verified_at": "2026-11-07T10:22:26.968341+00:00",
+      "last_success_at": "2026-11-07T10:52:40.001267+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 433,
+      "university": "pusan",
+      "university_name": "부산대학교",
+      "name": "효원장터",
+      "organization": "부산대학교",
+      "kind": "일반 공지",
+      "url": "https://www.pusan.ac.kr/kor/CMS/Board/Board.do?mCode=MN099",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:06.570533+00:00",
+      "last_success_at": "2026-11-07T10:52:43.386633+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
       "id": 279,
       "university": "seoultech",
       "university_name": "서울과학기술대학교",
@@ -3309,7 +3868,7 @@
       "url": "https://fineart.seoultech.ac.kr/community/recruit",
       "auto": true,
       "verified_at": "2026-11-06T16:07:40.663692+00:00",
-      "last_success_at": "2026-11-07T04:38:17.110293+00:00",
+      "last_success_at": "2026-11-07T10:52:46.481586+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3324,6 +3883,32 @@
       "verified_at": "2026-11-06T03:22:20.621706+00:00",
       "last_success_at": null,
       "last_attempt_result": "PARTIAL"
+    },
+    {
+      "id": 445,
+      "university": "seoultech",
+      "university_name": "서울과학기술대학교",
+      "name": "서울과학기술대학교 바로가기",
+      "organization": "서울과학기술대학교",
+      "kind": "일반 공지",
+      "url": "https://www.seoultech.ac.kr/service/info/notice/",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:38.951007+00:00",
+      "last_success_at": "2026-11-07T10:53:13.753215+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 481,
+      "university": "seoultech",
+      "university_name": "서울과학기술대학교",
+      "name": "장학공지",
+      "organization": "서울과학기술대학교",
+      "kind": "일반 공지",
+      "url": "https://www.seoultech.ac.kr/service/info/janghak",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:58.573962+00:00",
+      "last_success_at": "2026-11-07T10:53:16.908284+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 270,
@@ -3417,6 +4002,19 @@
       "last_attempt_result": "PARTIAL"
     },
     {
+      "id": 468,
+      "university": "seoultech",
+      "university_name": "서울과학기술대학교",
+      "name": "학사공지",
+      "organization": "서울과학기술대학교",
+      "kind": "일반 공지",
+      "url": "https://www.seoultech.ac.kr/service/info/matters",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:35.547984+00:00",
+      "last_success_at": "2026-11-07T10:55:32.603294+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
       "id": 90,
       "university": "snu",
       "university_name": "서울대학교",
@@ -3426,7 +4024,7 @@
       "url": "http://career.snu.ac.kr/en",
       "auto": true,
       "verified_at": "2026-11-06T04:51:23.955800+00:00",
-      "last_success_at": "2026-11-07T04:40:56.915722+00:00",
+      "last_success_at": "2026-11-07T10:55:35.706010+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3452,7 +4050,7 @@
       "url": "http://career.snu.ac.kr/center/community/news",
       "auto": true,
       "verified_at": "2026-11-07T04:12:16.160736+00:00",
-      "last_success_at": "2026-11-07T04:42:33.037313+00:00",
+      "last_success_at": "2026-11-07T10:57:11.822276+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3465,7 +4063,7 @@
       "url": "https://admission.snu.ac.kr/undergraduate/notice",
       "auto": true,
       "verified_at": "2026-11-06T04:36:26.591673+00:00",
-      "last_success_at": "2026-11-07T04:42:36.215740+00:00",
+      "last_success_at": "2026-11-07T10:57:15.013170+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3478,7 +4076,7 @@
       "url": "https://admission.snu.ac.kr/graduate/general/notice",
       "auto": true,
       "verified_at": "2026-11-06T04:36:44.558087+00:00",
-      "last_success_at": "2026-11-07T04:42:39.419484+00:00",
+      "last_success_at": "2026-11-07T10:57:18.183440+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3491,7 +4089,7 @@
       "url": "http://career.snu.ac.kr/center/community/bodo",
       "auto": true,
       "verified_at": "2026-11-07T04:11:30.939156+00:00",
-      "last_success_at": "2026-11-07T04:42:42.489062+00:00",
+      "last_success_at": "2026-11-07T10:57:21.253791+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3517,7 +4115,7 @@
       "url": "https://clean.snu.ac.kr/%ec%b9%9c%ec%9d%b8%ec%b2%99-%ec%b1%84%ec%9a%a9%ec%9d%b8%ec%9b%90-%ed%98%84%ed%99%a9/",
       "auto": true,
       "verified_at": "2026-11-06T04:50:55.789043+00:00",
-      "last_success_at": "2026-11-07T04:44:13.121977+00:00",
+      "last_success_at": "2026-11-07T10:58:51.825541+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3530,7 +4128,7 @@
       "url": "http://career.snu.ac.kr/center/community/notice",
       "auto": true,
       "verified_at": "2026-11-06T22:13:22.878894+00:00",
-      "last_success_at": "2026-11-07T04:44:16.188921+00:00",
+      "last_success_at": "2026-11-07T10:58:54.896684+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3543,7 +4141,7 @@
       "url": "http://career.snu.ac.kr/center/community/gallery",
       "auto": true,
       "verified_at": "2026-11-07T04:10:48.962366+00:00",
-      "last_success_at": "2026-11-07T04:44:19.258475+00:00",
+      "last_success_at": "2026-11-07T10:58:57.970480+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3556,7 +4154,7 @@
       "url": "https://research.uos.ac.kr/notice?field_notice_category_target_id=218",
       "auto": true,
       "verified_at": "2026-11-06T09:53:05.233357+00:00",
-      "last_success_at": "2026-11-07T04:44:22.316578+00:00",
+      "last_success_at": "2026-11-07T10:59:01.024714+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3569,7 +4167,7 @@
       "url": "https://research.uos.ac.kr/ntis",
       "auto": true,
       "verified_at": "2026-11-06T05:03:08.670922+00:00",
-      "last_success_at": "2026-11-07T04:44:25.376115+00:00",
+      "last_success_at": "2026-11-07T10:59:04.089136+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3582,7 +4180,7 @@
       "url": "https://research.uos.ac.kr/newsletter",
       "auto": true,
       "verified_at": "2026-11-06T04:51:24.004321+00:00",
-      "last_success_at": "2026-11-07T04:44:28.430134+00:00",
+      "last_success_at": "2026-11-07T10:59:07.140827+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3595,7 +4193,7 @@
       "url": "https://research.uos.ac.kr/notice",
       "auto": true,
       "verified_at": "2026-11-06T03:29:20.086633+00:00",
-      "last_success_at": "2026-11-07T04:44:34.475943+00:00",
+      "last_success_at": "2026-11-07T10:59:13.187011+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3608,7 +4206,7 @@
       "url": "https://research.uos.ac.kr/notice?field_notice_category_target_id=53",
       "auto": true,
       "verified_at": "2026-11-06T09:52:26.195880+00:00",
-      "last_success_at": "2026-11-07T04:44:37.530735+00:00",
+      "last_success_at": "2026-11-07T10:59:16.244893+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3621,7 +4219,7 @@
       "url": "https://research.uos.ac.kr/notice?field_notice_category_target_id=51",
       "auto": true,
       "verified_at": "2026-11-06T09:49:11.802812+00:00",
-      "last_success_at": "2026-11-07T04:44:40.588601+00:00",
+      "last_success_at": "2026-11-07T10:59:19.302859+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3634,7 +4232,7 @@
       "url": "https://research.uos.ac.kr/notice?field_notice_category_target_id=52",
       "auto": true,
       "verified_at": "2026-11-06T09:50:32.518186+00:00",
-      "last_success_at": "2026-11-07T04:44:43.645032+00:00",
+      "last_success_at": "2026-11-07T10:59:22.363918+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3647,7 +4245,7 @@
       "url": "https://research.uos.ac.kr/notice?field_notice_category_target_id=50",
       "auto": true,
       "verified_at": "2026-11-06T05:05:01.625328+00:00",
-      "last_success_at": "2026-11-07T04:44:46.703010+00:00",
+      "last_success_at": "2026-11-07T10:59:25.425452+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3660,7 +4258,7 @@
       "url": "https://research.uos.ac.kr/archives",
       "auto": true,
       "verified_at": "2026-11-06T05:04:22.484231+00:00",
-      "last_success_at": "2026-11-07T04:44:49.758655+00:00",
+      "last_success_at": "2026-11-07T10:59:28.485900+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3673,7 +4271,7 @@
       "url": "https://research.uos.ac.kr/notice?field_notice_category_target_id=54",
       "auto": true,
       "verified_at": "2026-11-06T09:51:49.129985+00:00",
-      "last_success_at": "2026-11-07T04:44:52.817311+00:00",
+      "last_success_at": "2026-11-07T10:59:31.542277+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3686,7 +4284,7 @@
       "url": "https://research.uos.ac.kr/eve_edu",
       "auto": true,
       "verified_at": "2026-11-06T09:51:18.958792+00:00",
-      "last_success_at": "2026-11-07T04:44:55.870391+00:00",
+      "last_success_at": "2026-11-07T10:59:34.595826+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3712,7 +4310,7 @@
       "url": "https://www.unist.ac.kr/unist/center/newsletter.do",
       "auto": true,
       "verified_at": "2026-11-06T16:09:08.533934+00:00",
-      "last_success_at": "2026-11-07T04:45:35.101729+00:00",
+      "last_success_at": "2026-11-07T11:00:13.866648+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3725,7 +4323,7 @@
       "url": "https://physics.unist.ac.kr/physics/category/notice.do",
       "auto": true,
       "verified_at": "2026-11-06T22:13:23.386929+00:00",
-      "last_success_at": "2026-11-07T04:45:38.327620+00:00",
+      "last_success_at": "2026-11-07T11:00:17.090461+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3777,7 +4375,7 @@
       "url": "https://www.unist.ac.kr/unist/etc/notification/notification.do",
       "auto": true,
       "verified_at": "2026-11-06T16:09:58.909821+00:00",
-      "last_success_at": "2026-11-07T04:46:17.821024+00:00",
+      "last_success_at": "2026-11-07T11:00:57.378098+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3790,7 +4388,7 @@
       "url": "https://www.unist.ac.kr/unist/introduction/list.do",
       "auto": true,
       "verified_at": "2026-11-06T22:10:25.856245+00:00",
-      "last_success_at": "2026-11-07T04:46:21.011946+00:00",
+      "last_success_at": "2026-11-07T11:01:00.551515+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3803,7 +4401,7 @@
       "url": "https://adm-u.unist.ac.kr/admission/community/regular-recruitment.do",
       "auto": true,
       "verified_at": "2026-11-06T16:03:36.744032+00:00",
-      "last_success_at": "2026-11-07T04:46:24.167077+00:00",
+      "last_success_at": "2026-11-07T11:01:03.707869+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3829,7 +4427,7 @@
       "url": "https://ie.unist.ac.kr/ie/community/career.do",
       "auto": true,
       "verified_at": "2026-11-06T09:49:05.639329+00:00",
-      "last_success_at": "2026-11-07T04:46:39.500323+00:00",
+      "last_success_at": "2026-11-07T11:01:19.028034+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3857,6 +4455,19 @@
       "verified_at": "2026-11-06T09:50:32.366845+00:00",
       "last_success_at": null,
       "last_attempt_result": "PARTIAL"
+    },
+    {
+      "id": 451,
+      "university": "unist",
+      "university_name": "울산과학기술원",
+      "name": "커뮤니티",
+      "organization": "울산과학기술원",
+      "kind": "일반 공지",
+      "url": "https://me.unist.ac.kr/me/community/notice.do",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:52.468262+00:00",
+      "last_success_at": "2026-11-07T11:02:34.616211+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 137,
@@ -3907,7 +4518,7 @@
       "url": "https://korean.inu.ac.kr/inu/1516/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T05:07:50.705477+00:00",
-      "last_success_at": "2026-11-07T04:48:37.724227+00:00",
+      "last_success_at": "2026-11-07T11:03:35.429597+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3946,7 +4557,7 @@
       "url": "https://graduate.jbnu.ac.kr/bbs/board.php?bo_id=gent_notice",
       "auto": true,
       "verified_at": "2026-11-07T04:12:09.099052+00:00",
-      "last_success_at": "2026-11-07T04:48:40.868975+00:00",
+      "last_success_at": "2026-11-07T11:03:38.576489+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3972,7 +4583,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0023000400010000",
       "auto": true,
       "verified_at": "2026-11-06T09:54:19.648036+00:00",
-      "last_success_at": "2026-11-07T04:49:11.598765+00:00",
+      "last_success_at": "2026-11-07T11:04:09.435491+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -3985,7 +4596,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0004000800030000",
       "auto": true,
       "verified_at": "2026-11-06T22:09:30.524856+00:00",
-      "last_success_at": "2026-11-07T04:49:15.130675+00:00",
+      "last_success_at": "2026-11-07T11:04:13.179609+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4002,6 +4613,19 @@
       "last_attempt_result": "NOT_RUN"
     },
     {
+      "id": 464,
+      "university": "jnue",
+      "university_name": "전주교육대학교",
+      "name": "공지사항",
+      "organization": "전주교육대학교",
+      "kind": "일반 공지",
+      "url": "https://www.jnue.kr/portal/gs/bbs/list.do?menuId=M0021000100000000",
+      "auto": false,
+      "verified_at": "2026-11-07T10:24:27.217687+00:00",
+      "last_success_at": null,
+      "last_attempt_result": "NOT_RUN"
+    },
+    {
       "id": 335,
       "university": "jnue",
       "university_name": "전주교육대학교",
@@ -4011,7 +4635,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0004000400110000",
       "auto": true,
       "verified_at": "2026-11-06T22:11:24.849839+00:00",
-      "last_success_at": "2026-11-07T04:49:18.673635+00:00",
+      "last_success_at": "2026-11-07T11:04:16.831198+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4024,7 +4648,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0006000100010000",
       "auto": true,
       "verified_at": "2026-11-06T05:02:24.468476+00:00",
-      "last_success_at": "2026-11-07T04:49:22.247668+00:00",
+      "last_success_at": "2026-11-07T11:04:20.620544+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4037,7 +4661,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0001000400050000",
       "auto": true,
       "verified_at": "2026-11-06T09:51:55.442536+00:00",
-      "last_success_at": "2026-11-07T04:49:25.794923+00:00",
+      "last_success_at": "2026-11-07T11:04:24.278476+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4050,7 +4674,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0006000100060000",
       "auto": true,
       "verified_at": "2026-11-06T22:11:55.050818+00:00",
-      "last_success_at": "2026-11-07T04:49:29.367841+00:00",
+      "last_success_at": "2026-11-07T11:04:28.032537+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4063,7 +4687,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0004000400100000",
       "auto": true,
       "verified_at": "2026-11-06T22:10:19.965957+00:00",
-      "last_success_at": "2026-11-07T04:49:32.898615+00:00",
+      "last_success_at": "2026-11-07T11:04:31.674586+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4076,7 +4700,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0001000400060000",
       "auto": true,
       "verified_at": "2026-11-06T09:52:32.299509+00:00",
-      "last_success_at": "2026-11-07T04:49:36.455286+00:00",
+      "last_success_at": "2026-11-07T11:04:35.641572+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4089,7 +4713,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0001000100040000",
       "auto": true,
       "verified_at": "2026-11-06T09:49:47.723389+00:00",
-      "last_success_at": "2026-11-07T04:49:40.024931+00:00",
+      "last_success_at": "2026-11-07T11:04:39.316677+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4102,7 +4726,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0001000400020000",
       "auto": true,
       "verified_at": "2026-11-06T09:50:41.762357+00:00",
-      "last_success_at": "2026-11-07T04:49:43.555131+00:00",
+      "last_success_at": "2026-11-07T11:04:43.261867+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4115,8 +4739,47 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0006000100020000",
       "auto": true,
       "verified_at": "2026-11-06T22:12:22.907886+00:00",
-      "last_success_at": "2026-11-07T04:49:47.124857+00:00",
+      "last_success_at": "2026-11-07T11:04:47.047970+00:00",
       "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 423,
+      "university": "jnue",
+      "university_name": "전주교육대학교",
+      "name": "입학FAQ",
+      "organization": "전주교육대학교",
+      "kind": "일반 공지",
+      "url": "https://www.jnue.kr/portal/gs/bbs/list.do?menuId=M0017000500000000",
+      "auto": false,
+      "verified_at": "2026-11-07T10:21:56.483062+00:00",
+      "last_success_at": null,
+      "last_attempt_result": "NOT_RUN"
+    },
+    {
+      "id": 416,
+      "university": "jnue",
+      "university_name": "전주교육대학교",
+      "name": "입학자료실",
+      "organization": "전주교육대학교",
+      "kind": "일반 공지",
+      "url": "https://www.jnue.kr/portal/gs/bbs/list.do?menuId=M0017000300000000",
+      "auto": false,
+      "verified_at": "2026-11-07T10:20:57.803373+00:00",
+      "last_success_at": null,
+      "last_attempt_result": "NOT_RUN"
+    },
+    {
+      "id": 477,
+      "university": "jnue",
+      "university_name": "전주교육대학교",
+      "name": "자료실",
+      "organization": "전주교육대학교",
+      "kind": "일반 공지",
+      "url": "https://www.jnue.kr/portal/gs/bbs/list.do?menuId=M0021000200000000",
+      "auto": false,
+      "verified_at": "2026-11-07T10:24:50.246573+00:00",
+      "last_success_at": null,
+      "last_attempt_result": "NOT_RUN"
     },
     {
       "id": 202,
@@ -4128,7 +4791,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0001000600010000",
       "auto": true,
       "verified_at": "2026-11-06T09:53:20.236752+00:00",
-      "last_success_at": "2026-11-07T04:49:50.663269+00:00",
+      "last_success_at": "2026-11-07T11:04:50.721605+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4141,7 +4804,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0006000200030000",
       "auto": true,
       "verified_at": "2026-11-07T04:12:09.643895+00:00",
-      "last_success_at": "2026-11-07T04:49:54.228327+00:00",
+      "last_success_at": "2026-11-07T11:04:54.463701+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4154,7 +4817,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0006000100080000",
       "auto": true,
       "verified_at": "2026-11-06T05:04:04.448149+00:00",
-      "last_success_at": "2026-11-07T04:49:57.813494+00:00",
+      "last_success_at": "2026-11-07T11:04:58.129555+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4167,7 +4830,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0001000400030000",
       "auto": true,
       "verified_at": "2026-11-06T09:51:24.830482+00:00",
-      "last_success_at": "2026-11-07T04:50:01.356632+00:00",
+      "last_success_at": "2026-11-07T11:05:01.890549+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4180,8 +4843,21 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0004000100010000",
       "auto": true,
       "verified_at": "2026-11-06T05:04:37.743086+00:00",
-      "last_success_at": "2026-11-07T04:50:04.902448+00:00",
+      "last_success_at": "2026-11-07T11:05:05.574549+00:00",
       "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 441,
+      "university": "jnue",
+      "university_name": "전주교육대학교",
+      "name": "학칙규정지침",
+      "organization": "전주교육대학교",
+      "kind": "일반 공지",
+      "url": "https://www.jnue.kr/portal/gs/bbs/list.do?menuId=M0018001100000000",
+      "auto": false,
+      "verified_at": "2026-11-07T10:23:27.593546+00:00",
+      "last_success_at": null,
+      "last_attempt_result": "NOT_RUN"
     },
     {
       "id": 236,
@@ -4193,7 +4869,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0023000400030000",
       "auto": true,
       "verified_at": "2026-11-06T16:01:38.408251+00:00",
-      "last_success_at": "2026-11-07T04:50:08.437933+00:00",
+      "last_success_at": "2026-11-07T11:05:09.300654+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4206,7 +4882,7 @@
       "url": "https://www.jnue.kr/portal/jnue/bbs/list.do?menuId=M0023000400020000",
       "auto": true,
       "verified_at": "2026-11-06T09:55:15.826382+00:00",
-      "last_success_at": "2026-11-07T04:50:11.972864+00:00",
+      "last_success_at": "2026-11-07T11:05:13.020877+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4221,6 +4897,45 @@
       "verified_at": "2026-11-07T04:12:57.640543+00:00",
       "last_success_at": null,
       "last_attempt_result": "NOT_RUN"
+    },
+    {
+      "id": 457,
+      "university": "cje",
+      "university_name": "청주교육대학교",
+      "name": "CJE 검색",
+      "organization": "청주교육대학교",
+      "kind": "유형 확인 중",
+      "url": "https://www.cje.ac.kr/yunsu/",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:08.558154+00:00",
+      "last_success_at": "2026-11-07T11:05:16.129433+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 467,
+      "university": "cje",
+      "university_name": "청주교육대학교",
+      "name": "CJE 검색",
+      "organization": "청주교육대학교",
+      "kind": "유형 확인 중",
+      "url": "https://www.cje.ac.kr/fund/",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:32.189599+00:00",
+      "last_success_at": "2026-11-07T11:05:19.244870+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 479,
+      "university": "cje",
+      "university_name": "청주교육대학교",
+      "name": "CJE 검색",
+      "organization": "청주교육대학교",
+      "kind": "유형 확인 중",
+      "url": "https://www.cje.ac.kr/baeum/",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:57.467738+00:00",
+      "last_success_at": "2026-11-07T11:05:22.366561+00:00",
+      "last_attempt_result": "SUCCESS"
     },
     {
       "id": 250,
@@ -4444,6 +5159,19 @@
       "last_attempt_result": "NOT_RUN"
     },
     {
+      "id": 412,
+      "university": "cje",
+      "university_name": "청주교육대학교",
+      "name": "채용공고",
+      "organization": "청주교육대학교",
+      "kind": "일반 공지",
+      "url": "https://www.cje.ac.kr/baeum/web/board/brdList.do?menu_cd=000025",
+      "auto": false,
+      "verified_at": "2026-11-07T10:19:37.258922+00:00",
+      "last_success_at": null,
+      "last_attempt_result": "NOT_RUN"
+    },
+    {
       "id": 68,
       "university": "cje",
       "university_name": "청주교육대학교",
@@ -4505,7 +5233,20 @@
       "url": "https://www.cnue.ac.kr/cnue/news/notice01.do",
       "auto": true,
       "verified_at": "2026-11-06T04:50:56.900090+00:00",
-      "last_success_at": "2026-11-07T04:50:15.328821+00:00",
+      "last_success_at": "2026-11-07T11:05:25.761750+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 418,
+      "university": "cnue",
+      "university_name": "춘천교육대학교",
+      "name": "건의사항",
+      "organization": "춘천교육대학교",
+      "kind": "유형 확인 중",
+      "url": "https://www.cnue.ac.kr/cnue/news/life-qna.do",
+      "auto": true,
+      "verified_at": "2026-11-07T10:21:37.973195+00:00",
+      "last_success_at": "2026-11-07T11:05:28.943087+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4518,7 +5259,7 @@
       "url": "https://www.cnue.ac.kr/cnue/life/edu-volunteer-notice.do",
       "auto": true,
       "verified_at": "2026-11-06T04:36:56.887832+00:00",
-      "last_success_at": "2026-11-07T04:50:18.643278+00:00",
+      "last_success_at": "2026-11-07T11:05:32.216091+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4544,7 +5285,33 @@
       "url": "https://www.cnue.ac.kr/cnue/life/volunteer-notice.do",
       "auto": true,
       "verified_at": "2026-11-06T04:36:35.640535+00:00",
-      "last_success_at": "2026-11-07T04:51:07.196752+00:00",
+      "last_success_at": "2026-11-07T11:06:20.820531+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 436,
+      "university": "cnue",
+      "university_name": "춘천교육대학교",
+      "name": "업무추진비",
+      "organization": "춘천교육대학교",
+      "kind": "유형 확인 중",
+      "url": "https://www.cnue.ac.kr/cnue/news/ode.do",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:10.735807+00:00",
+      "last_success_at": "2026-11-07T11:06:24.000143+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 469,
+      "university": "cnue",
+      "university_name": "춘천교육대학교",
+      "name": "일반자료실",
+      "organization": "춘천교육대학교",
+      "kind": "일반 공지",
+      "url": "https://www.cnue.ac.kr/cnue/life/data.do",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:36.050281+00:00",
+      "last_success_at": "2026-11-07T11:06:27.190667+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4570,7 +5337,20 @@
       "url": "https://www.cnue.ac.kr/cnue/life/council-board.do",
       "auto": true,
       "verified_at": "2026-11-06T04:36:01.182958+00:00",
-      "last_success_at": "2026-11-07T04:51:55.727246+00:00",
+      "last_success_at": "2026-11-07T11:07:15.778822+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 482,
+      "university": "cnue",
+      "university_name": "춘천교육대학교",
+      "name": "코로나19대응안내",
+      "organization": "춘천교육대학교",
+      "kind": "유형 확인 중",
+      "url": "https://www.cnue.ac.kr/cnue/news/covid-19.do",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:59.068363+00:00",
+      "last_success_at": "2026-11-07T11:07:18.944717+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4583,7 +5363,7 @@
       "url": "https://www.cnue.ac.kr/cnue/news/notice02.do",
       "auto": true,
       "verified_at": "2026-11-06T05:03:18.316490+00:00",
-      "last_success_at": "2026-11-07T04:51:59.032160+00:00",
+      "last_success_at": "2026-11-07T11:07:22.236609+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4596,7 +5376,7 @@
       "url": "https://www.cnue.ac.kr/cnue/news/notice03.do",
       "auto": true,
       "verified_at": "2026-11-06T05:04:23.115873+00:00",
-      "last_success_at": "2026-11-07T04:52:02.464143+00:00",
+      "last_success_at": "2026-11-07T11:07:25.660380+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4610,6 +5390,45 @@
       "auto": true,
       "verified_at": "2026-11-06T03:31:47.353374+00:00",
       "last_success_at": "2026-11-07T04:52:23.731907+00:00",
+      "last_attempt_result": "PARTIAL"
+    },
+    {
+      "id": 427,
+      "university": "cbnu",
+      "university_name": "충북대학교",
+      "name": "CBNU Interview",
+      "organization": "충북대학교",
+      "kind": "일반 공지",
+      "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=16&key=556",
+      "auto": true,
+      "verified_at": "2026-11-07T10:22:32.788635+00:00",
+      "last_success_at": "2026-11-07T11:08:02.153060+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 438,
+      "university": "cbnu",
+      "university_name": "충북대학교",
+      "name": "CBNU People",
+      "organization": "충북대학교",
+      "kind": "일반 공지",
+      "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=15&key=555",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:18.169884+00:00",
+      "last_success_at": "2026-11-07T11:08:05.377309+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 473,
+      "university": "cbnu",
+      "university_name": "충북대학교",
+      "name": "CBNU 홍보",
+      "organization": "충북대학교",
+      "kind": "일반 공지",
+      "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=19&key=561",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:40.846548+00:00",
+      "last_success_at": "2026-11-07T11:08:08.532362+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4622,7 +5441,7 @@
       "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=14&key=549&searchCtgry=%EA%B5%90%EC%9C%A1",
       "auto": true,
       "verified_at": "2026-11-07T04:13:12.646486+00:00",
-      "last_success_at": "2026-11-07T04:52:26.946670+00:00",
+      "last_success_at": "2026-11-07T11:08:11.726038+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4635,7 +5454,7 @@
       "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=106&key=1140",
       "auto": true,
       "verified_at": "2026-11-06T16:09:59.098569+00:00",
-      "last_success_at": "2026-11-07T04:52:30.114203+00:00",
+      "last_success_at": "2026-11-07T11:08:14.884138+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4648,7 +5467,7 @@
       "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=14&key=552&searchCtgry=%EA%B5%AD%EC%A0%9C",
       "auto": true,
       "verified_at": "2026-11-07T04:14:59.440832+00:00",
-      "last_success_at": "2026-11-07T04:52:33.306866+00:00",
+      "last_success_at": "2026-11-07T11:08:18.070698+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4661,7 +5480,7 @@
       "url": "https://family.cbnu.ac.kr/article/list.do?boardKey=52&menuKey=79",
       "auto": true,
       "verified_at": "2026-11-06T04:51:03.656062+00:00",
-      "last_success_at": "2026-11-07T04:52:36.492034+00:00",
+      "last_success_at": "2026-11-07T11:08:21.246458+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4674,7 +5493,33 @@
       "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=8&key=813",
       "auto": true,
       "verified_at": "2026-11-06T04:25:15.818506+00:00",
-      "last_success_at": "2026-11-07T04:52:48.611843+00:00",
+      "last_success_at": "2026-11-07T11:08:33.364710+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 414,
+      "university": "cbnu",
+      "university_name": "충북대학교",
+      "name": "발전기금",
+      "organization": "충북대학교",
+      "kind": "일반 공지",
+      "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=14&key=553&searchCtgry=%EB%B0%9C%EC%A0%84%EA%B8%B0%EA%B8%88",
+      "auto": true,
+      "verified_at": "2026-11-07T10:20:15.459923+00:00",
+      "last_success_at": "2026-11-07T11:08:36.558291+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 420,
+      "university": "cbnu",
+      "university_name": "충북대학교",
+      "name": "변화하는 충북대",
+      "organization": "충북대학교",
+      "kind": "일반 공지",
+      "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=14&key=1268&searchCtgry=%EB%B3%80%ED%99%94%ED%95%98%EB%8A%94+%EC%B6%A9%EB%B6%81%EB%8C%80",
+      "auto": true,
+      "verified_at": "2026-11-07T10:21:42.641629+00:00",
+      "last_success_at": "2026-11-07T11:08:39.750004+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4687,7 +5532,7 @@
       "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=110&key=1183",
       "auto": true,
       "verified_at": "2026-11-06T22:13:32.542512+00:00",
-      "last_success_at": "2026-11-07T04:52:51.777246+00:00",
+      "last_success_at": "2026-11-07T11:08:42.921838+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4700,7 +5545,20 @@
       "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=109&key=1148",
       "auto": true,
       "verified_at": "2026-11-07T04:10:06.977386+00:00",
-      "last_success_at": "2026-11-07T04:52:54.946674+00:00",
+      "last_success_at": "2026-11-07T11:08:46.098108+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 449,
+      "university": "cbnu",
+      "university_name": "충북대학교",
+      "name": "언론자료",
+      "organization": "충북대학교",
+      "kind": "일반 공지",
+      "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=17&key=558",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:44.716392+00:00",
+      "last_success_at": "2026-11-07T11:08:49.276767+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4713,7 +5571,7 @@
       "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=14&key=550&searchCtgry=%EC%97%B0%EA%B5%AC",
       "auto": true,
       "verified_at": "2026-11-07T04:13:46.228458+00:00",
-      "last_success_at": "2026-11-07T04:52:58.140338+00:00",
+      "last_success_at": "2026-11-07T11:08:52.459437+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4726,7 +5584,7 @@
       "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=3&key=432",
       "auto": true,
       "verified_at": "2026-11-06T09:53:31.136085+00:00",
-      "last_success_at": "2026-11-07T04:53:01.317807+00:00",
+      "last_success_at": "2026-11-07T11:08:55.615578+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4739,7 +5597,7 @@
       "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=14&key=551&searchCtgry=%EC%9D%BC%EB%B0%98",
       "auto": true,
       "verified_at": "2026-11-07T04:14:19.294022+00:00",
-      "last_success_at": "2026-11-07T04:53:04.514307+00:00",
+      "last_success_at": "2026-11-07T11:08:58.795371+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4752,7 +5610,7 @@
       "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=124&key=1269",
       "auto": true,
       "verified_at": "2026-11-07T04:11:08.354279+00:00",
-      "last_success_at": "2026-11-07T04:53:07.692007+00:00",
+      "last_success_at": "2026-11-07T11:09:01.964617+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4791,7 +5649,7 @@
       "url": "https://www.chungbuk.ac.kr/www/selectBbsNttList.do?bbsNo=14&key=548",
       "auto": true,
       "verified_at": "2026-11-07T04:12:54.503374+00:00",
-      "last_success_at": "2026-11-07T04:53:23.057908+00:00",
+      "last_success_at": "2026-11-07T11:09:17.279936+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4830,7 +5688,7 @@
       "url": "https://www.kaist.ac.kr/kr/html/footer/0823.html",
       "auto": true,
       "verified_at": "2026-11-06T05:04:00.613155+00:00",
-      "last_success_at": "2026-11-07T04:53:26.429748+00:00",
+      "last_success_at": "2026-11-07T11:09:20.708512+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4895,7 +5753,7 @@
       "url": "https://www.kaist.ac.kr/kr/html/footer/0802.html",
       "auto": true,
       "verified_at": "2026-11-06T05:02:17.132590+00:00",
-      "last_success_at": "2026-11-07T04:54:51.217795+00:00",
+      "last_success_at": "2026-11-07T11:10:45.477660+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4908,7 +5766,7 @@
       "url": "https://www.knue.ac.kr/www/selectBbsNttList.do?bbsNo=7&key=376",
       "auto": true,
       "verified_at": "2026-11-06T04:36:49.665423+00:00",
-      "last_success_at": "2026-11-07T04:54:54.359169+00:00",
+      "last_success_at": "2026-11-07T11:10:48.702134+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4921,7 +5779,46 @@
       "url": "https://www.knue.ac.kr/www/selectBbsNttList.do?bbsNo=8&key=394",
       "auto": true,
       "verified_at": "2026-11-06T09:50:33.338525+00:00",
-      "last_success_at": "2026-11-07T04:54:57.478440+00:00",
+      "last_success_at": "2026-11-07T11:10:51.814907+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 446,
+      "university": "knue",
+      "university_name": "한국교원대학교",
+      "name": "공식 교내 게시판",
+      "organization": "한국교원대학교",
+      "kind": "일반 공지",
+      "url": "https://www.knue.ac.kr/www/selectBbsNttList.do?bbsNo=208&key=547",
+      "auto": true,
+      "verified_at": "2026-11-07T10:23:39.541428+00:00",
+      "last_success_at": "2026-11-07T11:10:54.940574+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 459,
+      "university": "knue",
+      "university_name": "한국교원대학교",
+      "name": "공식 교내 게시판",
+      "organization": "한국교원대학교",
+      "kind": "일반 공지",
+      "url": "https://www.knue.ac.kr/www/selectBbsNttList.do?bbsNo=10&key=548",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:12.524958+00:00",
+      "last_success_at": "2026-11-07T11:10:58.055167+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 470,
+      "university": "knue",
+      "university_name": "한국교원대학교",
+      "name": "공식 교내 게시판",
+      "organization": "한국교원대학교",
+      "kind": "일반 공지",
+      "url": "https://www.knue.ac.kr/www/selectBbsNttList.do?bbsNo=11&key=550",
+      "auto": true,
+      "verified_at": "2026-11-07T10:24:36.216351+00:00",
+      "last_success_at": "2026-11-07T11:11:01.187627+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4934,7 +5831,7 @@
       "url": "https://www.knou.ac.kr/knou/80/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T04:48:55.835769+00:00",
-      "last_success_at": "2026-11-07T04:55:00.908396+00:00",
+      "last_success_at": "2026-11-07T11:11:04.617716+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4947,7 +5844,7 @@
       "url": "https://www.knou.ac.kr/knou/13042/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T04:53:08.183576+00:00",
-      "last_success_at": "2026-11-07T04:55:04.378277+00:00",
+      "last_success_at": "2026-11-07T11:11:08.071263+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4960,7 +5857,7 @@
       "url": "https://www.knou.ac.kr/knou/561/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T04:52:49.497575+00:00",
-      "last_success_at": "2026-11-07T04:55:08.084870+00:00",
+      "last_success_at": "2026-11-07T11:11:11.819695+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -4973,7 +5870,7 @@
       "url": "https://chl.knou.ac.kr/chl/5269/subview.do",
       "auto": true,
       "verified_at": "2026-11-07T04:14:37.129819+00:00",
-      "last_success_at": "2026-11-07T04:55:11.479614+00:00",
+      "last_success_at": "2026-11-07T11:11:15.218779+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5012,7 +5909,7 @@
       "url": "https://mba.knou.ac.kr/mba/2116/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T16:01:44.855339+00:00",
-      "last_success_at": "2026-11-07T04:55:33.012101+00:00",
+      "last_success_at": "2026-11-07T11:11:36.733598+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5025,7 +5922,7 @@
       "url": "https://grad.knou.ac.kr/grad/2081/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T16:09:25.471494+00:00",
-      "last_success_at": "2026-11-07T04:55:36.317792+00:00",
+      "last_success_at": "2026-11-07T11:11:40.076480+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5038,7 +5935,7 @@
       "url": "https://mba.knou.ac.kr/mba/11712/subview.do?epTicket=LOG",
       "auto": true,
       "verified_at": "2026-11-06T16:08:40.778609+00:00",
-      "last_success_at": "2026-11-07T04:55:39.579648+00:00",
+      "last_success_at": "2026-11-07T11:11:43.341669+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5051,7 +5948,7 @@
       "url": "https://mba.knou.ac.kr/mba/11712/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T16:05:31.719552+00:00",
-      "last_success_at": "2026-11-07T04:55:42.844574+00:00",
+      "last_success_at": "2026-11-07T11:11:46.626816+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5064,7 +5961,7 @@
       "url": "https://grad.knou.ac.kr/grad/6495/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T22:12:08.088573+00:00",
-      "last_success_at": "2026-11-07T04:55:46.088803+00:00",
+      "last_success_at": "2026-11-07T11:11:49.884540+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5094,6 +5991,19 @@
       "last_attempt_result": "PARTIAL"
     },
     {
+      "id": 425,
+      "university": "knou",
+      "university_name": "한국방송통신대학교",
+      "name": "학과행사",
+      "organization": "한국방송통신대학교",
+      "kind": "학과·단과대학",
+      "url": "https://chl.knou.ac.kr/chl/13132/subview.do",
+      "auto": true,
+      "verified_at": "2026-11-07T10:22:03.124990+00:00",
+      "last_success_at": "2026-11-07T11:13:05.581509+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
       "id": 358,
       "university": "knou",
       "university_name": "한국방송통신대학교",
@@ -5103,7 +6013,7 @@
       "url": "https://korean.knou.ac.kr/korean/5323/subview.do",
       "auto": true,
       "verified_at": "2026-11-06T22:12:59.084964+00:00",
-      "last_success_at": "2026-11-07T04:57:01.830456+00:00",
+      "last_success_at": "2026-11-07T11:13:09.028000+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5116,7 +6026,20 @@
       "url": "https://eng.knou.ac.kr/eng/5295/subview.do",
       "auto": true,
       "verified_at": "2026-11-07T04:12:16.108662+00:00",
-      "last_success_at": "2026-11-07T04:57:05.243326+00:00",
+      "last_success_at": "2026-11-07T11:13:12.410552+00:00",
+      "last_attempt_result": "SUCCESS"
+    },
+    {
+      "id": 432,
+      "university": "knou",
+      "university_name": "한국방송통신대학교",
+      "name": "학생게시판",
+      "organization": "한국방송통신대학교",
+      "kind": "일반 공지",
+      "url": "https://chl.knou.ac.kr/chl/5267/subview.do",
+      "auto": true,
+      "verified_at": "2026-11-07T10:22:53.194102+00:00",
+      "last_success_at": "2026-11-07T11:13:15.920939+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5129,7 +6052,7 @@
       "url": "https://www.knuh.ac.kr/kr/brd/list.do?mnuBaseId=MNU0001335&topBaseId=MNU0000004&tplBaseId=&tplSer=212",
       "auto": true,
       "verified_at": "2026-11-06T09:55:45.864764+00:00",
-      "last_success_at": "2026-11-07T04:57:08.672410+00:00",
+      "last_success_at": "2026-11-07T11:13:19.348756+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5142,7 +6065,7 @@
       "url": "https://www.knuh.ac.kr/kr/brd/list.do?mnuBaseId=MNU0001063&topBaseId=MNU0000006&tplBaseId=&tplSer=156",
       "auto": true,
       "verified_at": "2026-11-06T16:09:04.558398+00:00",
-      "last_success_at": "2026-11-07T04:57:12.093870+00:00",
+      "last_success_at": "2026-11-07T11:13:22.770973+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5155,7 +6078,7 @@
       "url": "https://www.knuh.ac.kr/kr/brd/list.do?mnuBaseId=MNU0001262&topBaseId=MNU0000006&tplBaseId=&tplSer=193",
       "auto": true,
       "verified_at": "2026-11-06T16:09:55.032623+00:00",
-      "last_success_at": "2026-11-07T04:57:15.512456+00:00",
+      "last_success_at": "2026-11-07T11:13:26.185337+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5168,7 +6091,7 @@
       "url": "https://www.knuh.ac.kr/kr/brd/list.do?mnuBaseId=MNU0000146&topBaseId=MNU0000009&tplSer=2",
       "auto": true,
       "verified_at": "2026-11-06T05:07:26.583290+00:00",
-      "last_success_at": "2026-11-07T04:57:19.062362+00:00",
+      "last_success_at": "2026-11-07T11:13:29.722471+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5181,7 +6104,7 @@
       "url": "https://www.knuh.ac.kr/mec/ots/brd/list.do?mnuBaseId=MNU0000146&topBaseId=MNU0000009&tplSer=2",
       "auto": true,
       "verified_at": "2026-11-06T22:11:55.605303+00:00",
-      "last_success_at": "2026-11-07T04:57:22.589130+00:00",
+      "last_success_at": "2026-11-07T11:13:33.265274+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5207,7 +6130,7 @@
       "url": "https://www.knuh.ac.kr/kr/brd/list.do?mnuBaseId=MNU0000074&topBaseId=MNU0000007&tplSer=82",
       "auto": true,
       "verified_at": "2026-11-06T22:09:31.002265+00:00",
-      "last_success_at": "2026-11-07T04:57:26.039595+00:00",
+      "last_success_at": "2026-11-07T11:13:36.703700+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5220,7 +6143,7 @@
       "url": "https://www.knuh.ac.kr/kr/brd/list.do?mnuBaseId=MNU0000022&topBaseId=MNU0000004&tplBaseId=&tplSer=3",
       "auto": true,
       "verified_at": "2026-11-06T09:52:58.138820+00:00",
-      "last_success_at": "2026-11-07T04:57:29.450871+00:00",
+      "last_success_at": "2026-11-07T11:13:40.110725+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5233,7 +6156,7 @@
       "url": "https://www.knuh.ac.kr/kr/brd/list.do?mnuBaseId=MNU0000145&topBaseId=MNU0000008&tplSer=12",
       "auto": true,
       "verified_at": "2026-11-06T22:10:20.450681+00:00",
-      "last_success_at": "2026-11-07T04:57:32.898857+00:00",
+      "last_success_at": "2026-11-07T11:13:43.548061+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5246,7 +6169,7 @@
       "url": "https://www.knuh.ac.kr/kr/brd/list.do?mnuBaseId=MNU0000043&topBaseId=MNU0000004&tplBaseId=TPL0000001&tplSer=5",
       "auto": true,
       "verified_at": "2026-11-06T09:54:56.366588+00:00",
-      "last_success_at": "2026-11-07T04:57:36.302514+00:00",
+      "last_success_at": "2026-11-07T11:13:46.957437+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5259,7 +6182,7 @@
       "url": "https://www.knuh.ac.kr/kr/brd/list.do?mnuBaseId=MNU0000020&topBaseId=MNU0000004&tplBaseId=&tplSer=67",
       "auto": true,
       "verified_at": "2026-11-06T09:51:11.885540+00:00",
-      "last_success_at": "2026-11-07T04:57:39.706763+00:00",
+      "last_success_at": "2026-11-07T11:13:50.390113+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5272,7 +6195,7 @@
       "url": "https://www.knuh.ac.kr/kr/brd/list.do?mnuBaseId=MNU0000945&tabBaseId=MNU0000948&topBaseId=MNU0000008&tplSer=133",
       "auto": true,
       "verified_at": "2026-11-06T05:07:40.683503+00:00",
-      "last_success_at": "2026-11-07T04:57:43.147812+00:00",
+      "last_success_at": "2026-11-07T11:13:53.831168+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5285,7 +6208,7 @@
       "url": "https://www.knuh.ac.kr/kr/brd/list.do?mnuBaseId=MNU0001291&topBaseId=MNU0000008&tplBaseId=&tplSer=199",
       "auto": true,
       "verified_at": "2026-11-06T22:11:25.261400+00:00",
-      "last_success_at": "2026-11-07T04:57:46.551990+00:00",
+      "last_success_at": "2026-11-07T11:13:57.251470+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5324,7 +6247,7 @@
       "url": "https://grad.aks.ac.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000022&menuNo=5010160000",
       "auto": true,
       "verified_at": "2026-11-06T04:51:08.336496+00:00",
-      "last_success_at": "2026-11-07T04:57:52.805103+00:00",
+      "last_success_at": "2026-11-07T11:14:03.471181+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5337,7 +6260,7 @@
       "url": "https://grad.aks.ac.kr/cop/bbs/selectBoardList.do?adiInfo7=B&adiInfo8=&bbsId=BBSMSTR_000000000120&menuNo=5010112000",
       "auto": true,
       "verified_at": "2026-11-06T04:36:05.525781+00:00",
-      "last_success_at": "2026-11-07T04:57:55.972927+00:00",
+      "last_success_at": "2026-11-07T11:14:06.614067+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5350,7 +6273,7 @@
       "url": "https://grad.aks.ac.kr/cop/bbs/selectBoardList.do?adiInfo7=A&bbsId=BBSMSTR_000000000110&menuNo=2010112000",
       "auto": true,
       "verified_at": "2026-11-06T04:36:39.776356+00:00",
-      "last_success_at": "2026-11-07T04:57:59.067552+00:00",
+      "last_success_at": "2026-11-07T11:14:09.714252+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5363,7 +6286,7 @@
       "url": "https://grad.aks.ac.kr/cop/bbs/selectBoardList.do?adiInfo7=C&adiInfo8=&bbsId=BBSMSTR_000000000120&menuNo=5010113000",
       "auto": true,
       "verified_at": "2026-11-06T04:49:29.560341+00:00",
-      "last_success_at": "2026-11-07T04:58:02.201705+00:00",
+      "last_success_at": "2026-11-07T11:14:12.856308+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5376,7 +6299,7 @@
       "url": "https://grad.aks.ac.kr/cop/bbs/selectBoardList.do?adiInfo7=A&bbsId=BBSMSTR_000000000120&menuNo=5010111000",
       "auto": true,
       "verified_at": "2026-11-06T04:49:44.862300+00:00",
-      "last_success_at": "2026-11-07T04:58:05.347497+00:00",
+      "last_success_at": "2026-11-07T11:14:16.001080+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5389,7 +6312,7 @@
       "url": "https://www.aks.ac.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000082&menuNo=4010110000",
       "auto": true,
       "verified_at": "2026-11-07T04:11:08.171347+00:00",
-      "last_success_at": "2026-11-07T04:58:08.585758+00:00",
+      "last_success_at": "2026-11-07T11:14:19.179199+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5415,7 +6338,7 @@
       "url": "https://www.aks.ac.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000082&ctgryCode=NTC003&menuNo=4010110000",
       "auto": true,
       "verified_at": "2026-11-06T09:54:10.983768+00:00",
-      "last_success_at": "2026-11-07T04:59:03.057046+00:00",
+      "last_success_at": "2026-11-07T11:15:13.660771+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5428,7 +6351,7 @@
       "url": "https://www.aks.ac.kr/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000081&menuNo=4010130000",
       "auto": true,
       "verified_at": "2026-11-06T16:06:43.532822+00:00",
-      "last_success_at": "2026-11-07T04:59:06.178113+00:00",
+      "last_success_at": "2026-11-07T11:15:16.790698+00:00",
       "last_attempt_result": "SUCCESS"
     },
     {
@@ -5446,6 +6369,70 @@
     }
   ],
   "notices": [
+    {
+      "id": 332,
+      "title": "부산대학교 생물공학연구실 석사급 연구원 모집",
+      "university": "pusan",
+      "university_name": "부산대학교",
+      "employer": "부산대학교 생물공학연구실 석사급",
+      "employer_review": false,
+      "source_name": "교수초빙·직원채용",
+      "source_url": "https://www.pusan.ac.kr/kor/CMS/Board/Board.do?mCode=MN103",
+      "url": "https://www.pusan.ac.kr/kor/CMS/Board/Board.do?mCode=MN103&mode=view&mgr_seq=10&board_seq=1512048",
+      "published_date": "2026-11-07",
+      "job_type": "연구원",
+      "region": "미상",
+      "job_type_code": "RESEARCH",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": "2026-11-07T10:46:01.753504+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
+      "id": 334,
+      "title": "[동진쎄미켐] 2026년 11월 신입/경력 정기채용 (~11/15(일))",
+      "university": "unist",
+      "university_name": "울산과학기술원",
+      "employer": "울산과학기술원",
+      "employer_review": true,
+      "source_name": "커뮤니티",
+      "source_url": "https://me.unist.ac.kr/me/community/notice.do",
+      "url": "https://me.unist.ac.kr/me/community/notice.do?mode=view&articleNo=311563&article.offset=0&articleLimit=10",
+      "published_date": "2026-11-06",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2026-11-06",
+      "close_at": "2026-11-15T14:59:00+00:00",
+      "close_date": "2026-11-15",
+      "verified_at": "2026-11-07T11:02:22.568088+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
     {
       "id": 238,
       "title": "서울대학교 그린바이오과학기술연구원 공동기기센터 연구원 채용 공고",
@@ -5466,7 +6453,7 @@
       "start_date": "2026-11-05",
       "close_at": "2026-11-20T09:00:00+00:00",
       "close_date": "2026-11-20",
-      "verified_at": "2026-11-07T04:42:48.679444+00:00",
+      "verified_at": "2026-11-07T10:57:27.465721+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -5503,7 +6490,7 @@
       "start_date": "2026-11-06",
       "close_at": "2026-11-20T08:00:00+00:00",
       "close_date": "2026-11-20",
-      "verified_at": "2026-11-07T04:34:10.646632+00:00",
+      "verified_at": "2026-11-07T10:46:07.912815+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -5572,7 +6559,7 @@
       "start_date": "2026-11-10",
       "close_at": "2026-11-20T09:00:00+00:00",
       "close_date": "2026-11-20",
-      "verified_at": "2026-11-07T04:56:19.467461+00:00",
+      "verified_at": "2026-11-07T11:12:23.277166+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -5604,7 +6591,7 @@
       "start_date": "2026-11-06",
       "close_at": "2026-11-12T09:00:00+00:00",
       "close_date": "2026-11-12",
-      "verified_at": "2026-11-07T04:34:19.423330+00:00",
+      "verified_at": "2026-11-07T10:46:17.199713+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -5641,7 +6628,7 @@
       "start_date": "2026-11-06",
       "close_at": "2026-11-12T14:59:00+00:00",
       "close_date": "2026-11-12",
-      "verified_at": "2026-11-07T04:56:35.103071+00:00",
+      "verified_at": "2026-11-07T11:12:38.934559+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -5760,7 +6747,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:23:42.083022+00:00",
+      "verified_at": "2026-11-07T10:34:09.676830+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -5797,7 +6784,7 @@
       "start_date": "2026-11-09",
       "close_at": "2026-11-19T09:00:00+00:00",
       "close_date": "2026-11-19",
-      "verified_at": "2026-11-07T04:56:49.428767+00:00",
+      "verified_at": "2026-11-07T11:12:53.249610+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -5857,7 +6844,7 @@
     },
     {
       "id": 152,
-      "title": "[2026-96호] 국립금오공과대학교 한시임기제공무원9호(행정) 경력경쟁채용 공고 총무과 2026-11-05 384",
+      "title": "[2026-96호] 국립금오공과대학교 한시임기제공무원9호(행정) 경력경쟁채용 공고 총무과 2026-11-05 401",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "국립금오공과대학교",
@@ -5912,7 +6899,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:52:42.603158+00:00",
+      "verified_at": "2026-11-07T11:08:27.354443+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -5981,7 +6968,7 @@
       "start_date": "2026-11-05",
       "close_at": "2026-11-16T08:00:00+00:00",
       "close_date": "2026-11-16",
-      "verified_at": "2026-11-07T04:42:51.644929+00:00",
+      "verified_at": "2026-11-07T10:57:30.478896+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -6018,7 +7005,7 @@
       "start_date": "2026-11-05",
       "close_at": "2026-11-09T08:00:00+00:00",
       "close_date": "2026-11-09",
-      "verified_at": "2026-11-07T04:34:43.713023+00:00",
+      "verified_at": "2026-11-07T10:46:41.070501+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -6059,7 +7046,7 @@
       "start_date": "2026-11-09",
       "close_at": null,
       "close_date": "2026-11-13",
-      "verified_at": "2026-11-07T04:34:34.421824+00:00",
+      "verified_at": "2026-11-07T10:46:31.966205+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -6075,6 +7062,38 @@
           "url": "https://www.pusan.ac.kr/kor/ajx_json/UploadMgr/downloadRun.do?qcode=Qm9hcmQsNDEyMjc3LFk%3D"
         }
       ]
+    },
+    {
+      "id": 335,
+      "title": "[고영테크놀러지] 2026 하반기 신입사원 채용 (~11/18)",
+      "university": "unist",
+      "university_name": "울산과학기술원",
+      "employer": "울산과학기술원",
+      "employer_review": true,
+      "source_name": "커뮤니티",
+      "source_url": "https://me.unist.ac.kr/me/community/notice.do",
+      "url": "https://me.unist.ac.kr/me/community/notice.do?mode=view&articleNo=311519&article.offset=0&articleLimit=10",
+      "published_date": "2026-11-04",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2026-11-03",
+      "close_at": "2026-11-18T14:59:00+00:00",
+      "close_date": "2026-11-18",
+      "verified_at": "2026-11-07T11:02:25.576483+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
     },
     {
       "id": 284,
@@ -6137,7 +7156,7 @@
       "start_date": "2026-11-09",
       "close_at": "2026-11-13T08:00:00+00:00",
       "close_date": "2026-11-13",
-      "verified_at": "2026-11-07T04:50:27.937402+00:00",
+      "verified_at": "2026-11-07T11:05:41.564848+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -6174,7 +7193,7 @@
       "start_date": "2026-11-05",
       "close_at": "2026-11-18T14:59:00+00:00",
       "close_date": "2026-11-18",
-      "verified_at": "2026-11-07T04:53:44.533950+00:00",
+      "verified_at": "2026-11-07T11:09:38.808646+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -6205,7 +7224,7 @@
     },
     {
       "id": 153,
-      "title": "[인공지능혁신대학원사업단_제2026-5호] 사업전담직원(주무관) 채용 공고 인공지능혁신대학원사업단 2026-11-04 548",
+      "title": "[인공지능혁신대학원사업단_제2026-5호] 사업전담직원(주무관) 채용 공고 인공지능혁신대학원사업단 2026-11-04 564",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "국립금오공과대학교",
@@ -6260,7 +7279,7 @@
       "start_date": "2026-11-05",
       "close_at": "2026-11-11T07:00:00+00:00",
       "close_date": "2026-11-11",
-      "verified_at": "2026-11-07T04:52:45.616158+00:00",
+      "verified_at": "2026-11-07T11:08:30.354362+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -6407,7 +7426,7 @@
       "start_date": "2026-11-09",
       "close_at": "2026-11-13T08:00:00+00:00",
       "close_date": "2026-11-13",
-      "verified_at": "2026-11-07T04:51:16.575060+00:00",
+      "verified_at": "2026-11-07T11:06:36.565641+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -6444,7 +7463,7 @@
       "start_date": "2026-11-04",
       "close_at": null,
       "close_date": "2026-11-16",
-      "verified_at": "2026-11-07T04:42:54.665688+00:00",
+      "verified_at": "2026-11-07T10:57:33.475542+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -6633,7 +7652,7 @@
       "start_date": "2026-11-09",
       "close_at": "2026-11-13T09:00:00+00:00",
       "close_date": "2026-11-13",
-      "verified_at": "2026-11-07T04:56:55.424506+00:00",
+      "verified_at": "2026-11-07T11:12:59.250867+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -6656,7 +7675,7 @@
     },
     {
       "id": 154,
-      "title": "[한국전자통신연구원] 2027년 동계 연구연수생(청년인턴) 공개채용 안내(~11/9(월)) 취업지원본부 2026-11-03 661",
+      "title": "[한국전자통신연구원] 2027년 동계 연구연수생(청년인턴) 공개채용 안내(~11/9(월)) 취업지원본부 2026-11-03 669",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "국립금오공과대학교",
@@ -6674,7 +7693,7 @@
       "start_date": "2026-10-30",
       "close_at": "2026-11-09T05:00:00+00:00",
       "close_date": "2026-11-09",
-      "verified_at": "2026-11-07T04:24:47.639723+00:00",
+      "verified_at": "2026-11-07T10:35:26.883490+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -6826,7 +7845,7 @@
       "start_date": "2026-11-04",
       "close_at": "2026-11-14T06:00:00+00:00",
       "close_date": "2026-11-14",
-      "verified_at": "2026-11-07T04:42:57.681318+00:00",
+      "verified_at": "2026-11-07T10:57:36.472230+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -6863,7 +7882,7 @@
       "start_date": "2026-11-03",
       "close_at": null,
       "close_date": "2026-11-09",
-      "verified_at": "2026-11-07T04:35:19.565547+00:00",
+      "verified_at": "2026-11-07T10:47:17.000223+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -6937,7 +7956,7 @@
       "start_date": "2026-11-02",
       "close_at": null,
       "close_date": "2026-11-16",
-      "verified_at": "2026-11-07T04:47:46.170396+00:00",
+      "verified_at": "2026-11-07T11:02:43.881681+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -6960,7 +7979,7 @@
     },
     {
       "id": 182,
-      "title": "[교무처 제2026-1호] 국립금오공과대학교 교무처 기간제 근로자(일용직) 공개경쟁 채용 공고 교무과 2026-11-02 552",
+      "title": "[교무처 제2026-1호] 국립금오공과대학교 교무처 기간제 근로자(일용직) 공개경쟁 채용 공고 교무과 2026-11-02 564",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "[교무처 제2026-1호] 국립금오공과대학교 교무처",
@@ -6978,7 +7997,7 @@
       "start_date": "2026-11-02",
       "close_at": "2026-11-10T08:00:00+00:00",
       "close_date": "2026-11-10",
-      "verified_at": "2026-11-07T04:25:02.748772+00:00",
+      "verified_at": "2026-11-07T10:35:42.023980+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -6997,7 +8016,7 @@
     },
     {
       "id": 156,
-      "title": "[AI사업단 2026-7호]AI중심대학사업단 초빙교원(계약교수) 초빙 공고(수정) AI중심대학사업단 2026-11-02 619",
+      "title": "[AI사업단 2026-7호]AI중심대학사업단 초빙교원(계약교수) 초빙 공고(수정) AI중심대학사업단 2026-11-02 633",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "국립금오공과대학교",
@@ -7015,7 +8034,7 @@
       "start_date": "2026-11-02",
       "close_at": "2026-11-11T09:00:00+00:00",
       "close_date": "2026-11-11",
-      "verified_at": "2026-11-07T04:24:56.634547+00:00",
+      "verified_at": "2026-11-07T10:35:35.894504+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -7034,7 +8053,7 @@
     },
     {
       "id": 155,
-      "title": "[산단 2026-19호] 산학협력단 육아휴직 대체인력 채용 공고 경영지원실 2026-11-02 593",
+      "title": "[산단 2026-19호] 산학협력단 육아휴직 대체인력 채용 공고 경영지원실 2026-11-02 605",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "국립금오공과대학교",
@@ -7052,7 +8071,7 @@
       "start_date": "2026-11-02",
       "close_at": "2026-11-06T09:00:00+00:00",
       "close_date": "2026-11-06",
-      "verified_at": "2026-11-07T04:24:53.724676+00:00",
+      "verified_at": "2026-11-07T10:35:34.575315+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -7089,7 +8108,7 @@
       "start_date": "2026-11-05",
       "close_at": "2026-11-10T08:00:00+00:00",
       "close_date": "2026-11-10",
-      "verified_at": "2026-11-07T04:52:48.603870+00:00",
+      "verified_at": "2026-11-07T11:08:33.356707+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -7121,7 +8140,7 @@
       "start_date": "2026-11-02",
       "close_at": "2026-11-05T09:00:00+00:00",
       "close_date": "2026-11-05",
-      "verified_at": "2026-11-07T04:39:26.351980+00:00",
+      "verified_at": "2026-11-07T10:54:02.050976+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -7221,7 +8240,7 @@
       "employer_review": false,
       "source_name": "교수초빙·직원채용",
       "source_url": "https://www.pusan.ac.kr/kor/CMS/Board/Board.do?mCode=MN103",
-      "url": "https://www.pusan.ac.kr/kor/CMS/Board/Board.do?mCode=MN103&mode=view&mgr_seq=10&board_seq=1511922",
+      "url": "https://www.pusan.ac.kr/kor/CMS/Board/Board.do?mCode=MN103&page=2&mode=view&mgr_seq=10&board_seq=1511922",
       "published_date": "2026-11-02",
       "job_type": "연구원",
       "region": "미상",
@@ -7269,7 +8288,7 @@
       "start_date": "2026-11-02",
       "close_at": "2026-11-10T09:00:00+00:00",
       "close_date": "2026-11-10",
-      "verified_at": "2026-11-07T04:43:00.673216+00:00",
+      "verified_at": "2026-11-07T10:57:39.476337+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -7306,7 +8325,7 @@
       "start_date": null,
       "close_at": "2026-11-13T09:00:00+00:00",
       "close_date": "2026-11-13",
-      "verified_at": "2026-11-07T04:23:17.380212+00:00",
+      "verified_at": "2026-11-07T10:33:44.972488+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -7343,7 +8362,7 @@
       "start_date": "2026-11-23",
       "close_at": null,
       "close_date": "2026-11-24",
-      "verified_at": "2026-11-07T04:36:02.500381+00:00",
+      "verified_at": "2026-11-07T10:47:59.879732+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -7458,7 +8477,7 @@
       "start_date": "2026-11-02",
       "close_at": null,
       "close_date": "2026-11-08",
-      "verified_at": "2026-11-07T04:43:03.676096+00:00",
+      "verified_at": "2026-11-07T10:57:42.455070+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -7559,7 +8578,7 @@
       "start_date": "2026-10-29",
       "close_at": null,
       "close_date": "2026-11-05",
-      "verified_at": "2026-11-07T03:20:25.090179+00:00",
+      "verified_at": "2026-11-07T09:22:38.334864+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -7600,7 +8619,7 @@
       "start_date": "2026-10-30",
       "close_at": "2026-11-13T09:00:00+00:00",
       "close_date": "2026-11-13",
-      "verified_at": "2026-11-07T04:52:11.737741+00:00",
+      "verified_at": "2026-11-07T11:07:34.938054+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -7637,7 +8656,7 @@
       "start_date": "2026-10-26",
       "close_at": null,
       "close_date": "2026-11-04",
-      "verified_at": "2026-11-07T04:43:06.656375+00:00",
+      "verified_at": "2026-11-07T10:57:45.470197+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -7674,7 +8693,7 @@
       "start_date": "2026-10-29",
       "close_at": null,
       "close_date": "2026-11-06",
-      "verified_at": "2026-11-07T04:53:19.852879+00:00",
+      "verified_at": "2026-11-07T11:09:14.107728+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -7706,7 +8725,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:20:21.703913+00:00",
+      "verified_at": "2026-11-07T10:30:30.409703+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -7747,7 +8766,7 @@
       "open_confirmed": false,
       "has_period_evidence": true,
       "status_at_export": "CLOSED",
-      "freshness_at_export": "FRESH",
+      "freshness_at_export": "STALE",
       "attachments": []
     },
     {
@@ -7889,7 +8908,7 @@
       "start_date": "2026-10-27",
       "close_at": "2026-11-03T09:00:00+00:00",
       "close_date": "2026-11-03",
-      "verified_at": "2026-11-07T04:50:39.977460+00:00",
+      "verified_at": "2026-11-07T11:05:53.512133+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -7962,7 +8981,7 @@
       "start_date": "2026-10-27",
       "close_at": null,
       "close_date": "2026-11-09",
-      "verified_at": "2026-11-07T04:29:37.956212+00:00",
+      "verified_at": "2026-11-07T10:40:44.691662+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -7994,7 +9013,7 @@
       "start_date": null,
       "close_at": "2026-11-08T09:00:00+00:00",
       "close_date": "2026-11-08",
-      "verified_at": "2026-11-07T04:23:23.409137+00:00",
+      "verified_at": "2026-11-07T10:33:50.988289+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -8031,7 +9050,7 @@
       "start_date": null,
       "close_at": "2026-11-08T09:00:00+00:00",
       "close_date": "2026-11-08",
-      "verified_at": "2026-11-07T04:23:29.394139+00:00",
+      "verified_at": "2026-11-07T10:33:56.983833+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -8113,7 +9132,7 @@
       "start_date": "2026-10-27",
       "close_at": "2026-11-03T09:00:00+00:00",
       "close_date": "2026-11-03",
-      "verified_at": "2026-11-07T04:51:28.480722+00:00",
+      "verified_at": "2026-11-07T11:06:48.497614+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -8191,7 +9210,7 @@
       "start_date": "2026-10-27",
       "close_at": null,
       "close_date": "2026-11-02",
-      "verified_at": "2026-11-07T03:20:43.070637+00:00",
+      "verified_at": "2026-11-07T09:22:56.300343+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -8228,7 +9247,7 @@
       "start_date": "2026-10-27",
       "close_at": null,
       "close_date": "2026-11-06",
-      "verified_at": "2026-11-07T04:52:17.765923+00:00",
+      "verified_at": "2026-11-07T11:07:40.943359+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -8242,6 +9261,43 @@
         {
           "name": "충남도립대 교무학생처 기간제근로자 채용 공고문.hwpx (281.4kB)",
           "url": "https://www.cnsu.ac.kr/board-attachment/2026-00712/5ECDE38CD2A520F9E0604672227E7477.do"
+        }
+      ]
+    },
+    {
+      "id": 333,
+      "title": "한국장애인개발원 추진 LIG 홈앤밀과 연계 '다이닝서비스 품질관리원 확산사업' 채용 안내 학생과 2026-10-26 517",
+      "university": "kumoh",
+      "university_name": "국립금오공과대학교",
+      "employer": "국립금오공과대학교",
+      "employer_review": true,
+      "source_name": "금오공지 더보기",
+      "source_url": "https://tec.kumoh.ac.kr/ko/sub06_01_01_03.do",
+      "url": "https://tec.kumoh.ac.kr/ko/sub06_01_01_03.do?mode=view&articleNo=580447&article.offset=0&articleLimit=10",
+      "published_date": "2026-10-26",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": "2026-11-07T10:34:49.566189+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": [
+        {
+          "name": "붙임 LIG홈앤밀 연계 「다이닝서비스 품질관리원 확산사업」 채용 안내.hwp",
+          "url": "https://tec.kumoh.ac.kr/ko/sub06_01_01_03.do?mode=download&articleNo=580447&attachNo=169057"
         }
       ]
     },
@@ -8265,7 +9321,7 @@
       "start_date": "2026-11-02",
       "close_at": "2026-11-06T05:00:00+00:00",
       "close_date": "2026-11-06",
-      "verified_at": "2026-11-07T04:50:51.999766+00:00",
+      "verified_at": "2026-11-07T11:06:05.545040+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -8284,7 +9340,7 @@
     },
     {
       "id": 282,
-      "title": "한국장애인개발원 추진 LIG 홈앤밀과 연계 '다이닝서비스 품질관리원 확산사업' 채용 안내 학생과 2026-10-26 512",
+      "title": "한국장애인개발원 추진 LIG 홈앤밀과 연계 '다이닝서비스 품질관리원 확산사업' 채용 안내 학생과 2026-10-26 517",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "국립금오공과대학교",
@@ -8302,7 +9358,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:24:13.506425+00:00",
+      "verified_at": "2026-11-07T10:34:43.364212+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -8321,7 +9377,7 @@
     },
     {
       "id": 183,
-      "title": "[제2026-94호] 2027년 상반기 국립금오공과대학교 교수초빙 공고 교무과 2026-10-26 1799",
+      "title": "[제2026-94호] 2027년 상반기 국립금오공과대학교 교수초빙 공고 교무과 2026-10-26 1807",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "국립금오공과대학교",
@@ -8339,7 +9395,7 @@
       "start_date": "2026-11-02",
       "close_at": "2026-11-13T08:00:00+00:00",
       "close_date": "2026-11-13",
-      "verified_at": "2026-11-07T04:25:11.774075+00:00",
+      "verified_at": "2026-11-07T10:35:51.032423+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -8392,7 +9448,7 @@
       "start_date": "2026-11-02",
       "close_at": "2026-11-06T05:00:00+00:00",
       "close_date": "2026-11-06",
-      "verified_at": "2026-11-07T04:51:40.514527+00:00",
+      "verified_at": "2026-11-07T11:07:00.507339+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -8470,7 +9526,7 @@
       "start_date": "2026-10-29",
       "close_at": null,
       "close_date": "2026-11-02",
-      "verified_at": "2026-11-07T03:07:47.314246+00:00",
+      "verified_at": "2026-11-07T09:09:10.950340+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -8511,7 +9567,7 @@
       "start_date": "2026-10-23",
       "close_at": "2026-11-02T09:00:00+00:00",
       "close_date": "2026-11-02",
-      "verified_at": "2026-11-07T03:28:06.208981+00:00",
+      "verified_at": "2026-11-07T09:32:44.516863+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -8548,7 +9604,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:43:15.687163+00:00",
+      "verified_at": "2026-11-07T10:57:54.483986+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -8585,7 +9641,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:43:12.675717+00:00",
+      "verified_at": "2026-11-07T10:57:51.456749+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -8622,7 +9678,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:43:09.674470+00:00",
+      "verified_at": "2026-11-07T10:57:48.477953+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -8654,7 +9710,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:32:53.600520+00:00",
+      "verified_at": "2026-11-07T10:44:33.985320+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -8686,7 +9742,7 @@
       "start_date": "2026-10-23",
       "close_at": "2026-11-02T09:00:00+00:00",
       "close_date": "2026-11-02",
-      "verified_at": "2026-11-07T04:17:29.685974+00:00",
+      "verified_at": "2026-11-07T10:27:29.435823+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -8764,7 +9820,7 @@
       "start_date": "2026-10-21",
       "close_at": null,
       "close_date": "2026-10-30",
-      "verified_at": "2026-11-07T04:52:23.724562+00:00",
+      "verified_at": "2026-11-07T11:07:46.936611+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -8838,7 +9894,7 @@
       "start_date": "2026-10-15",
       "close_at": "2026-10-30T09:00:00+00:00",
       "close_date": "2026-10-30",
-      "verified_at": "2026-11-07T04:17:37.095813+00:00",
+      "verified_at": "2026-11-07T10:27:36.768353+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -8883,8 +9939,8 @@
       "start_date": null,
       "close_at": "2026-10-28T09:00:00+00:00",
       "close_date": "2026-10-28",
-      "verified_at": null,
-      "last_attempt_result": "PARTIAL",
+      "verified_at": "2026-11-07T11:16:36.056469+00:00",
+      "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
       "review_status": "AUTO",
@@ -8892,7 +9948,7 @@
       "open_confirmed": false,
       "has_period_evidence": true,
       "status_at_export": "CLOSED",
-      "freshness_at_export": "FAILED",
+      "freshness_at_export": "FRESH",
       "attachments": [
         {
           "name": "1.(공고문)앵커사업단2차년도8차직원채용공고(안).hwp",
@@ -8961,7 +10017,7 @@
       "start_date": "2026-10-19",
       "close_at": "2026-10-26T09:00:00+00:00",
       "close_date": "2026-10-26",
-      "verified_at": "2026-11-06T06:53:41.270653+00:00",
+      "verified_at": "2026-11-07T11:16:51.065755+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -9002,7 +10058,7 @@
       "start_date": "2026-10-19",
       "close_at": "2026-10-26T08:00:00+00:00",
       "close_date": "2026-10-26",
-      "verified_at": "2026-11-06T06:53:36.372200+00:00",
+      "verified_at": "2026-11-07T11:16:46.117919+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -9061,6 +10117,38 @@
       ]
     },
     {
+      "id": 336,
+      "title": "[크래프톤] 2027 크래프톤 채용연계형 인턴십(~10.23 11:59)",
+      "university": "unist",
+      "university_name": "울산과학기술원",
+      "employer": "울산과학기술원",
+      "employer_review": true,
+      "source_name": "커뮤니티",
+      "source_url": "https://me.unist.ac.kr/me/community/notice.do",
+      "url": "https://me.unist.ac.kr/me/community/notice.do?mode=view&articleNo=310196&article.offset=0&articleLimit=10",
+      "published_date": "2026-10-15",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": null,
+      "close_date": null,
+      "verified_at": "2026-11-07T11:02:28.520257+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": false,
+      "status_at_export": "UNKNOWN",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
       "id": 128,
       "title": "충남도립대학교 교무학생처 기간제근로자 채용 공고",
       "university": "cnsu",
@@ -9080,7 +10168,7 @@
       "start_date": "2026-10-13",
       "close_at": null,
       "close_date": "2026-10-23",
-      "verified_at": "2026-11-07T03:37:34.658288+00:00",
+      "verified_at": "2026-11-07T09:43:04.482491+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -9106,7 +10194,7 @@
       "employer_review": false,
       "source_name": "교수초빙·직원채용",
       "source_url": "https://www.pusan.ac.kr/kor/CMS/Board/Board.do?mCode=MN103",
-      "url": "https://www.pusan.ac.kr/kor/CMS/Board/Board.do?mCode=MN103&page=2&mode=view&mgr_seq=10&board_seq=1511535",
+      "url": "https://www.pusan.ac.kr/kor/CMS/Board/Board.do?mCode=MN103&page=3&mode=view&mgr_seq=10&board_seq=1511535",
       "published_date": "2026-10-13",
       "job_type": "교원·강사",
       "region": "미상",
@@ -9191,7 +10279,7 @@
       "start_date": "2026-10-12",
       "close_at": "2026-10-22T07:00:00+00:00",
       "close_date": "2026-10-22",
-      "verified_at": "2026-11-07T03:28:33.214854+00:00",
+      "verified_at": "2026-11-07T09:33:11.491438+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -9228,7 +10316,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:43:18.682333+00:00",
+      "verified_at": "2026-11-07T10:57:57.501436+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -9265,7 +10353,7 @@
       "start_date": "2026-10-12",
       "close_at": "2026-10-22T08:00:00+00:00",
       "close_date": "2026-10-22",
-      "verified_at": "2026-11-07T03:28:27.221502+00:00",
+      "verified_at": "2026-11-07T09:33:05.519245+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -9302,7 +10390,7 @@
       "start_date": "2026-10-01",
       "close_at": "2026-10-15T08:00:00+00:00",
       "close_date": "2026-10-15",
-      "verified_at": "2026-11-06T06:53:51.401446+00:00",
+      "verified_at": "2026-11-07T11:17:01.115455+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -9343,7 +10431,7 @@
       "start_date": "2026-10-12",
       "close_at": "2026-10-19T09:00:00+00:00",
       "close_date": "2026-10-19",
-      "verified_at": "2026-11-07T03:37:40.651462+00:00",
+      "verified_at": "2026-11-07T09:43:10.476271+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -9380,7 +10468,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:40:35.740518+00:00",
+      "verified_at": "2026-11-07T10:55:11.343615+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -9412,7 +10500,7 @@
       "start_date": "2026-10-07",
       "close_at": "2026-10-14T09:00:00+00:00",
       "close_date": "2026-10-14",
-      "verified_at": "2026-11-06T06:53:56.252356+00:00",
+      "verified_at": "2026-11-07T11:17:06.075398+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -9449,7 +10537,7 @@
       "start_date": "2026-10-07",
       "close_at": "2026-10-13T09:00:00+00:00",
       "close_date": "2026-10-13",
-      "verified_at": "2026-11-07T03:28:36.211548+00:00",
+      "verified_at": "2026-11-07T09:33:14.515009+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -9486,7 +10574,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:43:21.677809+00:00",
+      "verified_at": "2026-11-07T10:58:00.473188+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -9497,6 +10585,80 @@
       "status_at_export": "UNKNOWN",
       "freshness_at_export": "FRESH",
       "attachments": []
+    },
+    {
+      "id": 340,
+      "title": "[재공고] 국립군산대학교 앵커사업단 직원 채용 공고(책임연구원)",
+      "university": "kunsan",
+      "university_name": "국립군산대학교",
+      "employer": "[재공고] 국립군산대학교 앵커사업단",
+      "employer_review": false,
+      "source_name": "채용·공고·모집",
+      "source_url": "https://www.kunsan.ac.kr/board/list.kunsan?boardId=BBS_0000010&contentsSid=213&cpath=&menuCd=DOM_000000105001003000",
+      "url": "https://www.kunsan.ac.kr/board/view.kunsan?boardId=BBS_0000010&menuCd=DOM_000000105001003000&paging=ok&startPage=6&dataSid=1387932",
+      "published_date": "2026-10-02",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": "2026-10-12T09:00:00+00:00",
+      "close_date": "2026-10-12",
+      "verified_at": "2026-11-07T11:17:18.052772+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": [
+        {
+          "name": "1.(공고문)앵커사업단2차년도7차직원채용재공고(안).hwp",
+          "url": "https://www.kunsan.ac.kr/board/download.kunsan?boardId=BBS_0000010&menuCd=DOM_000000105001003000&paging=ok&startPage=6&dataSid=1387932&command=update&fileSid=192422"
+        }
+      ]
+    },
+    {
+      "id": 339,
+      "title": "글로컬랩 기초과학연구소 사업 행정인력 공개채용 공고",
+      "university": "kunsan",
+      "university_name": "국립군산대학교",
+      "employer": "고용주 확인 필요",
+      "employer_review": true,
+      "source_name": "채용·공고·모집",
+      "source_url": "https://www.kunsan.ac.kr/board/list.kunsan?boardId=BBS_0000010&contentsSid=213&cpath=&menuCd=DOM_000000105001003000",
+      "url": "https://www.kunsan.ac.kr/board/view.kunsan?boardId=BBS_0000010&menuCd=DOM_000000105001003000&paging=ok&startPage=6&dataSid=1387955",
+      "published_date": "2026-10-02",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": null,
+      "close_at": "2026-10-07T11:00:00+00:00",
+      "close_date": "2026-10-07",
+      "verified_at": "2026-11-07T11:17:12.056338+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": [
+        {
+          "name": "261002국립군산대학교_기초과학연구소_행정인력_공개채용_공고문.hwp",
+          "url": "https://www.kunsan.ac.kr/board/download.kunsan?boardId=BBS_0000010&menuCd=DOM_000000105001003000&paging=ok&startPage=6&dataSid=1387955&command=update&fileSid=192464"
+        }
+      ]
     },
     {
       "id": 222,
@@ -9582,7 +10744,7 @@
       "start_date": "2026-10-02",
       "close_at": null,
       "close_date": "2026-10-11",
-      "verified_at": "2026-11-07T03:21:16.126501+00:00",
+      "verified_at": "2026-11-07T09:23:29.429095+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -9600,6 +10762,47 @@
         {
           "name": "부산대학교 산학협력단 신규채용 온라인 지원서 등록 방법.pdf (473KB)",
           "url": "https://www.pusan.ac.kr/kor/ajx_json/UploadMgr/downloadRun.do?qcode=Qm9hcmQsNDExMzA2LFk%3D"
+        }
+      ]
+    },
+    {
+      "id": 341,
+      "title": "[국립군산대학교] 국립대학육성사업 기간제 계약직원 채용 공고(~10.8.)",
+      "university": "kunsan",
+      "university_name": "국립군산대학교",
+      "employer": "[국립군산대학교] 국립대학육성사업",
+      "employer_review": false,
+      "source_name": "채용·공고·모집",
+      "source_url": "https://www.kunsan.ac.kr/board/list.kunsan?boardId=BBS_0000010&contentsSid=213&cpath=&menuCd=DOM_000000105001003000",
+      "url": "https://www.kunsan.ac.kr/board/view.kunsan?boardId=BBS_0000010&menuCd=DOM_000000105001003000&paging=ok&startPage=6&dataSid=1387877",
+      "published_date": "2026-10-01",
+      "job_type": "직원·행정",
+      "region": "미상",
+      "job_type_code": "STAFF",
+      "employment_type_code": "FIXED",
+      "employment_type": "기간제",
+      "start_at": null,
+      "start_date": "2026-10-01",
+      "close_at": "2026-10-08T08:00:00+00:00",
+      "close_date": "2026-10-08",
+      "verified_at": "2026-11-07T11:17:28.136991+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": false,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": [
+        {
+          "name": "2026학년도국립대학육성사업기간제계약직원채용공고.hwp",
+          "url": "https://www.kunsan.ac.kr/board/download.kunsan?boardId=BBS_0000010&menuCd=DOM_000000105001003000&paging=ok&startPage=6&dataSid=1387877&command=update&fileSid=192226"
+        },
+        {
+          "name": "2026학년도국립대학육성사업기간제계약직원채용공고.pdf",
+          "url": "https://www.kunsan.ac.kr/board/download.kunsan?boardId=BBS_0000010&menuCd=DOM_000000105001003000&paging=ok&startPage=6&dataSid=1387877&command=update&fileSid=192227"
         }
       ]
     },
@@ -9664,7 +10867,7 @@
       "start_date": "2026-10-01",
       "close_at": "2026-10-10T09:00:00+00:00",
       "close_date": "2026-10-10",
-      "verified_at": "2026-11-07T03:28:42.222804+00:00",
+      "verified_at": "2026-11-07T09:33:20.551723+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -9680,6 +10883,38 @@
           "url": "https://www.snu.ac.kr/snunow/notice/job-openings?md=down&bbsidx=176546&fileidx=57833"
         }
       ]
+    },
+    {
+      "id": 337,
+      "title": "[S-OIL] 2026 사무직 신입사원 채용 (~10/14 23:59)",
+      "university": "unist",
+      "university_name": "울산과학기술원",
+      "employer": "울산과학기술원",
+      "employer_review": true,
+      "source_name": "커뮤니티",
+      "source_url": "https://me.unist.ac.kr/me/community/notice.do",
+      "url": "https://me.unist.ac.kr/me/community/notice.do?mode=view&articleNo=307650&article.offset=0&articleLimit=10",
+      "published_date": "2026-09-30",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2026-09-30",
+      "close_at": "2026-10-14T14:59:00+00:00",
+      "close_date": "2026-10-14",
+      "verified_at": "2026-11-07T11:02:31.631786+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": []
     },
     {
       "id": 268,
@@ -9701,7 +10936,7 @@
       "start_date": "2026-09-21",
       "close_at": "2026-10-06T05:00:00+00:00",
       "close_date": "2026-10-06",
-      "verified_at": "2026-11-07T04:40:41.742790+00:00",
+      "verified_at": "2026-11-07T10:55:17.342612+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -9733,7 +10968,7 @@
       "start_date": "2026-09-15",
       "close_at": "2026-09-30T01:00:00+00:00",
       "close_date": "2026-09-30",
-      "verified_at": "2026-11-07T04:48:52.983887+00:00",
+      "verified_at": "2026-11-07T11:03:50.718934+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -9765,7 +11000,7 @@
       "start_date": "2026-09-30",
       "close_at": "2026-10-12T08:00:00+00:00",
       "close_date": "2026-10-12",
-      "verified_at": "2026-11-07T03:28:51.216734+00:00",
+      "verified_at": "2026-11-07T09:33:29.528292+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -9876,7 +11111,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:43:24.687388+00:00",
+      "verified_at": "2026-11-07T10:58:03.512214+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -9913,7 +11148,7 @@
       "start_date": "2026-09-28",
       "close_at": "2026-10-04T09:00:00+00:00",
       "close_date": "2026-10-04",
-      "verified_at": "2026-11-07T03:28:54.217031+00:00",
+      "verified_at": "2026-11-07T09:33:32.550363+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -9959,7 +11194,7 @@
       "open_confirmed": false,
       "has_period_evidence": true,
       "status_at_export": "CLOSED",
-      "freshness_at_export": "FRESH",
+      "freshness_at_export": "STALE",
       "attachments": []
     },
     {
@@ -9982,7 +11217,7 @@
       "start_date": "2026-09-28",
       "close_at": "2026-10-14T03:00:00+00:00",
       "close_date": "2026-10-14",
-      "verified_at": "2026-11-07T03:29:09.235191+00:00",
+      "verified_at": "2026-11-07T09:33:47.560104+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -10019,7 +11254,7 @@
       "start_date": "2026-09-28",
       "close_at": "2026-10-09T09:00:00+00:00",
       "close_date": "2026-10-09",
-      "verified_at": "2026-11-07T03:29:06.204269+00:00",
+      "verified_at": "2026-11-07T09:33:44.512467+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -10051,7 +11286,7 @@
       "start_date": "2026-09-23",
       "close_at": null,
       "close_date": "2026-10-02",
-      "verified_at": "2026-11-07T03:37:46.664566+00:00",
+      "verified_at": "2026-11-07T09:43:16.485809+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -10125,7 +11360,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:39:35.472581+00:00",
+      "verified_at": "2026-11-07T10:54:11.124864+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -10216,6 +11451,38 @@
       ]
     },
     {
+      "id": 338,
+      "title": "[한화그룹 테크&라이프 부문] 2026 하반기 신입사원 채용 (~10/11 23:59)",
+      "university": "unist",
+      "university_name": "울산과학기술원",
+      "employer": "울산과학기술원",
+      "employer_review": true,
+      "source_name": "커뮤니티",
+      "source_url": "https://me.unist.ac.kr/me/community/notice.do",
+      "url": "https://me.unist.ac.kr/me/community/notice.do?mode=view&articleNo=307574&article.offset=0&articleLimit=10",
+      "published_date": "2026-09-21",
+      "job_type": "직군 미상",
+      "region": "미상",
+      "job_type_code": "UNKNOWN",
+      "employment_type_code": "UNKNOWN",
+      "employment_type": "고용형태 미상",
+      "start_at": null,
+      "start_date": "2026-09-21",
+      "close_at": "2026-10-11T14:59:00+00:00",
+      "close_date": "2026-10-11",
+      "verified_at": "2026-11-07T11:02:34.606736+00:00",
+      "last_attempt_result": "SUCCESS",
+      "cancelled": false,
+      "requires_review": true,
+      "review_status": "AUTO",
+      "review_expires_at": null,
+      "open_confirmed": false,
+      "has_period_evidence": true,
+      "status_at_export": "CLOSED",
+      "freshness_at_export": "FRESH",
+      "attachments": []
+    },
+    {
       "id": 111,
       "title": "부산대학교 국가공무원 전입 및 지방공무원 경력경쟁채용 공고(행정9급, 공업9급, 시설9급)",
       "university": "pusan",
@@ -10235,7 +11502,7 @@
       "start_date": "2026-09-28",
       "close_at": "2026-10-01T09:00:00+00:00",
       "close_date": "2026-10-01",
-      "verified_at": "2026-11-07T03:21:32.182100+00:00",
+      "verified_at": "2026-11-07T09:23:45.295249+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -10276,7 +11543,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:40:44.731405+00:00",
+      "verified_at": "2026-11-07T10:55:20.350397+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -10473,7 +11740,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:33:15.743810+00:00",
+      "verified_at": "2026-11-07T10:45:02.964954+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -10542,7 +11809,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:43:27.654931+00:00",
+      "verified_at": "2026-11-07T10:58:06.475923+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -10616,7 +11883,7 @@
       "start_date": "2026-09-14",
       "close_at": "2026-09-21T09:00:00+00:00",
       "close_date": "2026-09-21",
-      "verified_at": "2026-11-07T04:50:57.959513+00:00",
+      "verified_at": "2026-11-07T11:06:11.492628+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -10657,7 +11924,7 @@
       "start_date": "2026-09-14",
       "close_at": null,
       "close_date": "2026-09-23",
-      "verified_at": "2026-11-07T03:37:58.637221+00:00",
+      "verified_at": "2026-11-07T09:43:28.463169+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -10694,7 +11961,7 @@
       "start_date": "2026-09-14",
       "close_at": null,
       "close_date": "2026-09-21",
-      "verified_at": "2026-11-07T03:37:52.665026+00:00",
+      "verified_at": "2026-11-07T09:43:22.488094+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -10731,7 +11998,7 @@
       "start_date": "2026-09-14",
       "close_at": "2026-09-21T09:00:00+00:00",
       "close_date": "2026-09-21",
-      "verified_at": "2026-11-07T04:51:46.593966+00:00",
+      "verified_at": "2026-11-07T11:07:06.584861+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -10772,7 +12039,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:43:30.690470+00:00",
+      "verified_at": "2026-11-07T10:58:09.484360+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -10809,7 +12076,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:44:34.468624+00:00",
+      "verified_at": "2026-11-07T10:59:13.179602+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -10846,7 +12113,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:40:23.652456+00:00",
+      "verified_at": "2026-11-07T10:54:59.273258+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -10878,7 +12145,7 @@
       "start_date": "2026-09-11",
       "close_at": null,
       "close_date": "2026-09-21",
-      "verified_at": "2026-11-07T03:38:04.656129+00:00",
+      "verified_at": "2026-11-07T09:43:34.491900+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -10952,7 +12219,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:40:29.660888+00:00",
+      "verified_at": "2026-11-07T10:55:05.268496+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -11242,7 +12509,7 @@
       "start_date": "2026-09-07",
       "close_at": "2026-09-14T09:00:00+00:00",
       "close_date": "2026-09-14",
-      "verified_at": "2026-11-07T04:51:03.922656+00:00",
+      "verified_at": "2026-11-07T11:06:17.576768+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -11283,7 +12550,7 @@
       "start_date": "2026-09-08",
       "close_at": "2026-09-14T09:00:00+00:00",
       "close_date": "2026-09-14",
-      "verified_at": "2026-11-07T03:38:10.654678+00:00",
+      "verified_at": "2026-11-07T09:43:40.478385+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -11320,7 +12587,7 @@
       "start_date": "2026-09-07",
       "close_at": "2026-09-14T09:00:00+00:00",
       "close_date": "2026-09-14",
-      "verified_at": "2026-11-07T04:51:52.521507+00:00",
+      "verified_at": "2026-11-07T11:07:12.523911+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -11361,7 +12628,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:43:39.669342+00:00",
+      "verified_at": "2026-11-07T10:58:18.476369+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -12446,7 +13713,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:43:42.651701+00:00",
+      "verified_at": "2026-11-07T10:58:21.481818+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -12648,7 +13915,7 @@
       "start_date": "2026-08-27",
       "close_at": null,
       "close_date": "2026-09-02",
-      "verified_at": "2026-11-07T04:48:01.258302+00:00",
+      "verified_at": "2026-11-07T11:02:58.945414+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -12767,7 +14034,7 @@
       "start_date": "2026-08-18",
       "close_at": "2026-09-02T01:00:00+00:00",
       "close_date": "2026-09-02",
-      "verified_at": "2026-11-07T04:49:01.979382+00:00",
+      "verified_at": "2026-11-07T11:03:59.732845+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -12836,7 +14103,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:43:45.658507+00:00",
+      "verified_at": "2026-11-07T10:58:24.467727+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -12974,7 +14241,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:43:48.679488+00:00",
+      "verified_at": "2026-11-07T10:58:27.489373+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -13011,7 +14278,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:43:51.680824+00:00",
+      "verified_at": "2026-11-07T10:58:30.479808+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -13159,7 +14426,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:44:00.681361+00:00",
+      "verified_at": "2026-11-07T10:58:39.469323+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -13196,7 +14463,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:36:55.238653+00:00",
+      "verified_at": "2026-11-07T10:48:52.754526+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -13270,7 +14537,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:44:03.682465+00:00",
+      "verified_at": "2026-11-07T10:58:42.489438+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -13307,7 +14574,7 @@
       "start_date": "2026-08-12",
       "close_at": null,
       "close_date": "2026-08-24",
-      "verified_at": "2026-11-07T04:49:04.985148+00:00",
+      "verified_at": "2026-11-07T11:04:02.684878+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -13339,7 +14606,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:44:06.683344+00:00",
+      "verified_at": "2026-11-07T10:58:45.488123+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -13897,7 +15164,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:36:58.243625+00:00",
+      "verified_at": "2026-11-07T10:48:55.761601+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -13929,7 +15196,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:37:01.241048+00:00",
+      "verified_at": "2026-11-07T10:48:58.757623+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -14360,7 +15627,7 @@
       "start_date": "2026-06-18",
       "close_at": "2026-07-01T03:00:00+00:00",
       "close_date": "2026-07-01",
-      "verified_at": "2026-11-07T04:32:14.462779+00:00",
+      "verified_at": "2026-11-07T10:43:30.470316+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -14502,7 +15769,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:55:52.169727+00:00",
+      "verified_at": "2026-11-07T11:11:55.963507+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -14539,7 +15806,7 @@
       "start_date": "2026-04-22",
       "close_at": "2026-04-29T07:00:00+00:00",
       "close_date": "2026-04-29",
-      "verified_at": "2026-11-07T04:39:53.470464+00:00",
+      "verified_at": "2026-11-07T10:54:29.123529+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -14571,7 +15838,7 @@
       "start_date": "2026-04-20",
       "close_at": null,
       "close_date": "2026-05-03",
-      "verified_at": "2026-11-07T04:39:56.473184+00:00",
+      "verified_at": "2026-11-07T10:54:32.123202+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -14603,7 +15870,7 @@
       "start_date": "2026-04-21",
       "close_at": null,
       "close_date": "2026-05-06",
-      "verified_at": "2026-11-07T04:46:08.579061+00:00",
+      "verified_at": "2026-11-07T11:00:48.174274+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -14644,7 +15911,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:39:59.472051+00:00",
+      "verified_at": "2026-11-07T10:54:35.122060+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -14791,7 +16058,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:47:15.957100+00:00",
+      "verified_at": "2026-11-07T11:01:55.461870+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -14823,7 +16090,7 @@
       "start_date": "2026-03-04",
       "close_at": "2026-03-17T14:00:00+00:00",
       "close_date": "2026-03-17",
-      "verified_at": "2026-11-07T04:47:12.942852+00:00",
+      "verified_at": "2026-11-07T11:01:52.450582+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -14929,7 +16196,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T05:01:40.238860+00:00",
+      "verified_at": "2026-11-07T10:49:49.767359+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -14966,7 +16233,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:40:08.588170+00:00",
+      "verified_at": "2026-11-07T10:54:44.204112+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -14998,7 +16265,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T05:01:43.251205+00:00",
+      "verified_at": "2026-11-07T10:49:52.755809+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -15298,7 +16565,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T05:01:58.244083+00:00",
+      "verified_at": "2026-11-07T10:49:55.773770+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -15409,7 +16676,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T05:02:07.242148+00:00",
+      "verified_at": "2026-11-07T10:50:10.766754+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -15700,7 +16967,7 @@
       "start_date": "2025-04-29",
       "close_at": null,
       "close_date": "2025-05-12",
-      "verified_at": "2026-11-07T04:47:31.049723+00:00",
+      "verified_at": "2026-11-07T11:02:10.509255+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -15774,7 +17041,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T05:02:55.239037+00:00",
+      "verified_at": "2026-11-07T10:50:55.768737+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -15806,7 +17073,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T05:02:58.249513+00:00",
+      "verified_at": "2026-11-07T10:50:58.765821+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16092,7 +17359,7 @@
       "start_date": "2024-07-11",
       "close_at": null,
       "close_date": "2024-07-23",
-      "verified_at": "2026-11-07T04:18:50.107431+00:00",
+      "verified_at": "2026-11-07T10:28:49.511690+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16124,7 +17391,7 @@
       "start_date": "2024-07-11",
       "close_at": null,
       "close_date": "2024-07-23",
-      "verified_at": "2026-11-07T04:18:19.768452+00:00",
+      "verified_at": "2026-11-07T10:28:19.202379+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16156,7 +17423,7 @@
       "start_date": "2024-07-11",
       "close_at": null,
       "close_date": "2024-07-23",
-      "verified_at": "2026-11-07T04:16:51.898258+00:00",
+      "verified_at": "2026-11-07T10:26:51.583145+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16188,7 +17455,7 @@
       "start_date": "2024-07-11",
       "close_at": null,
       "close_date": "2024-07-23",
-      "verified_at": "2026-11-07T04:16:21.640297+00:00",
+      "verified_at": "2026-11-07T10:26:21.334282+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16220,7 +17487,7 @@
       "start_date": "2024-07-11",
       "close_at": null,
       "close_date": "2024-07-23",
-      "verified_at": "2026-11-07T04:15:51.401528+00:00",
+      "verified_at": "2026-11-07T10:25:51.084151+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16252,7 +17519,7 @@
       "start_date": "2024-07-11",
       "close_at": null,
       "close_date": "2024-07-23",
-      "verified_at": "2026-11-07T04:15:21.142364+00:00",
+      "verified_at": "2026-11-07T10:25:20.832401+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16316,7 +17583,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:38:53.266747+00:00",
+      "verified_at": "2026-11-07T10:53:28.979586+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16348,7 +17615,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:55:55.198420+00:00",
+      "verified_at": "2026-11-07T11:11:58.975165+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16380,7 +17647,7 @@
       "start_date": "2023-12-21",
       "close_at": null,
       "close_date": "2023-12-28",
-      "verified_at": "2026-11-07T04:45:17.077925+00:00",
+      "verified_at": "2026-11-07T10:59:55.803093+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": false,
@@ -16421,7 +17688,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:40:14.585461+00:00",
+      "verified_at": "2026-11-07T10:54:50.196445+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16453,7 +17720,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:18:53.079578+00:00",
+      "verified_at": "2026-11-07T10:28:52.535330+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16485,7 +17752,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:18:22.792469+00:00",
+      "verified_at": "2026-11-07T10:28:22.267349+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16517,7 +17784,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:16:55.184441+00:00",
+      "verified_at": "2026-11-07T10:26:54.604307+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16549,7 +17816,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:16:24.646546+00:00",
+      "verified_at": "2026-11-07T10:26:24.464317+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16581,7 +17848,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:15:54.425577+00:00",
+      "verified_at": "2026-11-07T10:25:54.117233+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16613,7 +17880,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:15:24.199586+00:00",
+      "verified_at": "2026-11-07T10:25:23.860189+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16645,7 +17912,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:38:56.259556+00:00",
+      "verified_at": "2026-11-07T10:53:31.978441+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16659,7 +17926,7 @@
     },
     {
       "id": 258,
-      "title": "산학협력단 직원채용 금오공과대학교 강소특구육성사업 전담직원 채용 공고 관리자 2023-03-02 1792",
+      "title": "산학협력단 직원채용 금오공과대학교 강소특구육성사업 전담직원 채용 공고 관리자 2023-03-02 1793",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "산학협력단",
@@ -16751,7 +18018,7 @@
       "start_date": "2023-01-13",
       "close_at": "2023-03-03T09:00:00+00:00",
       "close_date": "2023-03-03",
-      "verified_at": "2026-11-07T04:56:01.186667+00:00",
+      "verified_at": "2026-11-07T11:12:04.985551+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16783,7 +18050,7 @@
       "start_date": "2023-02-14",
       "close_at": "2023-03-16T14:59:00+00:00",
       "close_date": "2023-03-16",
-      "verified_at": "2026-11-07T04:56:10.286086+00:00",
+      "verified_at": "2026-11-07T11:12:13.965018+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16815,7 +18082,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:56:13.182883+00:00",
+      "verified_at": "2026-11-07T11:12:17.011570+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16847,7 +18114,7 @@
       "start_date": "2022-12-26",
       "close_at": null,
       "close_date": "2023-01-04",
-      "verified_at": "2026-11-07T04:18:58.864279+00:00",
+      "verified_at": "2026-11-07T10:28:58.343250+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16888,7 +18155,7 @@
       "start_date": "2022-12-26",
       "close_at": null,
       "close_date": "2023-01-04",
-      "verified_at": "2026-11-07T04:18:28.606631+00:00",
+      "verified_at": "2026-11-07T10:28:28.040045+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16929,7 +18196,7 @@
       "start_date": "2022-12-26",
       "close_at": null,
       "close_date": "2023-01-04",
-      "verified_at": "2026-11-07T04:17:00.752252+00:00",
+      "verified_at": "2026-11-07T10:27:00.407366+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -16970,7 +18237,7 @@
       "start_date": "2022-12-26",
       "close_at": null,
       "close_date": "2023-01-04",
-      "verified_at": "2026-11-07T04:16:30.450821+00:00",
+      "verified_at": "2026-11-07T10:26:30.148000+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -17011,7 +18278,7 @@
       "start_date": "2022-12-26",
       "close_at": null,
       "close_date": "2023-01-04",
-      "verified_at": "2026-11-07T04:16:00.209346+00:00",
+      "verified_at": "2026-11-07T10:25:59.907996+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -17052,7 +18319,7 @@
       "start_date": "2022-12-26",
       "close_at": null,
       "close_date": "2023-01-04",
-      "verified_at": "2026-11-07T04:15:29.950075+00:00",
+      "verified_at": "2026-11-07T10:25:29.654404+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -17075,7 +18342,7 @@
     },
     {
       "id": 259,
-      "title": "산학협력단 강소특구육성사업단 전담직원 채용 공고 관리자 2021-10-07 2455",
+      "title": "산학협력단 강소특구육성사업단 전담직원 채용 공고 관리자 2021-10-07 2457",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "국립금오공과대학교",
@@ -17093,7 +18360,7 @@
       "start_date": "2021-10-06",
       "close_at": "2021-10-15T09:00:00+00:00",
       "close_date": "2021-10-15",
-      "verified_at": "2026-11-07T04:25:27.045665+00:00",
+      "verified_at": "2026-11-07T10:36:06.305404+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -17112,7 +18379,7 @@
     },
     {
       "id": 260,
-      "title": "산학협력단 강소특구육성사업단 전담직원 채용 공고 관리자 2021-09-09 2611",
+      "title": "산학협력단 강소특구육성사업단 전담직원 채용 공고 관리자 2021-09-09 2612",
       "university": "kumoh",
       "university_name": "국립금오공과대학교",
       "employer": "국립금오공과대학교",
@@ -17130,7 +18397,7 @@
       "start_date": "2021-09-08",
       "close_at": "2021-09-17T09:00:00+00:00",
       "close_date": "2021-09-17",
-      "verified_at": "2026-11-07T04:25:33.040075+00:00",
+      "verified_at": "2026-11-07T10:36:12.294713+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
@@ -17295,7 +18562,7 @@
       "start_date": null,
       "close_at": null,
       "close_date": null,
-      "verified_at": "2026-11-07T04:34:01.074224+00:00",
+      "verified_at": "2026-11-07T10:45:52.104056+00:00",
       "last_attempt_result": "SUCCESS",
       "cancelled": false,
       "requires_review": true,
